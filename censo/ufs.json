@@ -1,9 +1,9 @@
 {
   "meta-info":{
-    "data-ultima-atualizacao":"2018-07-25",
-    "data-referencia":"2017-07-01",
-    "versao":"1.0.2",
-    "website":"https://medium.com/@rgiaviti/unidades-federativas-do-brasil-como-json-1a40c0ec2cff",
+    "data-ultima-atualizacao":"2020-06-09",
+    "data-referencia":"2019-07-01",
+    "versao":"1.0.3",
+    "website":"https://github.com/rgiaviti/open-data",
     "fontes":[
       "IBGE",
       "Constituição do Brasil"
@@ -15,12 +15,10 @@
       "abreviacao":"AC",
       "sede":"Rio Branco",
       "regiao":"Norte",
-      "populacao-estimada":829619,
+      "populacao-estimada":881935,
       "area":1641222,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -31,10 +29,10 @@
       "abreviacao":"AL",
       "sede":"Maceió",
       "regiao":"Nordeste",
-      "populacao-estimada":3375823,
+      "populacao-estimada":3337357,
       "area":277677,
       "notas-adicionais":{
-        "nota-populacional":"Diferença de 441 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "nota-populacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -45,12 +43,10 @@
       "abreviacao":"AP",
       "sede":"Macapá",
       "regiao":"Norte",
-      "populacao-estimada":797722,
+      "populacao-estimada":845731,
       "area":1428146,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -61,12 +57,10 @@
       "abreviacao":"AM",
       "sede":"Manaus",
       "regiao":"Norte",
-      "populacao-estimada":4063614,
+      "populacao-estimada":4144597,
       "area":15707457,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -77,12 +71,10 @@
       "abreviacao":"BA",
       "sede":"Salvador",
       "regiao":"Nordeste",
-      "populacao-estimada":15344447,
+      "populacao-estimada":14873064,
       "area":5646927,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -93,10 +85,10 @@
       "abreviacao":"CE",
       "sede":"Fortaleza",
       "regiao":"Nordeste",
-      "populacao-estimada":9020460,
+      "populacao-estimada":9132078,
       "area":1488256,
       "notas-adicionais":{
-        "nota-populacional":"Diferença de 772 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "nota-populacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -107,12 +99,10 @@
       "abreviacao":"DF",
       "sede":"Brasília",
       "regiao":"Centro-Oeste",
-      "populacao-estimada":3039444,
+      "populacao-estimada":3015268,
       "area":58221,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -123,12 +113,10 @@
       "abreviacao":"ES",
       "sede":"Vitória",
       "regiao":"Sudeste",
-      "populacao-estimada":4016356,
+      "populacao-estimada":4018650,
       "area":460775,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -139,12 +127,10 @@
       "abreviacao":"GO",
       "sede":"Goiânia",
       "regiao":"Centro-Oeste",
-      "populacao-estimada":6778772,
+      "populacao-estimada":7018354,
       "area":3400867,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -155,12 +141,10 @@
       "abreviacao":"MA",
       "sede":"São Luiz",
       "regiao":"Nordeste",
-      "populacao-estimada":7000229,
+      "populacao-estimada":7075181,
       "area":3319833,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -171,12 +155,10 @@
       "abreviacao":"MT",
       "sede":"Cuiabá",
       "regiao":"Centro-Oeste",
-      "populacao-estimada":3344544,
+      "populacao-estimada":3484466,
       "area":9033579,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -187,12 +169,10 @@
       "abreviacao":"MS",
       "sede":"Campo Grande",
       "regiao":"Centro-Oeste",
-      "populacao-estimada":2713147,
+      "populacao-estimada":2778986,
       "area":3571250,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -203,12 +183,10 @@
       "abreviacao":"MG",
       "sede":"Belo Horizonte",
       "regiao":"Sudeste",
-      "populacao-estimada":21119536,
+      "populacao-estimada":21168791,
       "area":5865283,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -219,12 +197,10 @@
       "abreviacao":"PA",
       "sede":"Belém",
       "regiao":"Norte",
-      "populacao-estimada":8366628,
+      "populacao-estimada":8602865,
       "area":12476895,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -235,12 +211,10 @@
       "abreviacao":"PB",
       "sede":"João Pessoa",
       "regiao":"Nordeste",
-      "populacao-estimada":4025558,
+      "populacao-estimada":4018127,
       "area":564398,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -251,12 +225,10 @@
       "abreviacao":"PR",
       "sede":"Curitiba",
       "regiao":"Sul",
-      "populacao-estimada":11320892,
+      "populacao-estimada":11433957,
       "area":1993149,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -267,10 +239,10 @@
       "abreviacao":"PE",
       "sede":"Recife",
       "regiao":"Nordeste",
-      "populacao-estimada":9473266,
+      "populacao-estimada":9557071,
       "area":983116,
       "notas-adicionais":{
-        "nota-populacional":"Diferença de 441 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "nota-populacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -281,10 +253,10 @@
       "abreviacao":"PI",
       "sede":"Teresina",
       "regiao":"Nordeste",
-      "populacao-estimada":3219257,
+      "populacao-estimada":3273227,
       "area":2515292,
       "notas-adicionais":{
-        "nota-populacional":"Diferença de 772 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "nota-populacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -295,12 +267,10 @@
       "abreviacao":"RJ",
       "sede":"Rio de Janeiro",
       "regiao":"Sudeste",
-      "populacao-estimada":16718956,
+      "populacao-estimada":17264943,
       "area":436961,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -311,12 +281,10 @@
       "abreviacao":"RN",
       "sede":"Natal",
       "regiao":"Nordeste",
-      "populacao-estimada":3507003,
+      "populacao-estimada":3506853,
       "area":3419550,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -327,12 +295,10 @@
       "abreviacao":"RS",
       "sede":"Porto Alegre",
       "regiao":"Sul",
-      "populacao-estimada":2713147,
+      "populacao-estimada":11377239,
       "area":11228091,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -343,12 +309,10 @@
       "abreviacao":"RO",
       "sede":"Porto Velho",
       "regiao":"Norte",
-      "populacao-estimada":1805788,
+      "populacao-estimada":1777225,
       "area":1755015,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -359,12 +323,10 @@
       "abreviacao":"RR",
       "sede":"Boa Vista",
       "regiao":"Norte",
-      "populacao-estimada":522636,
+      "populacao-estimada":605761,
       "area":500826,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -375,12 +337,10 @@
       "abreviacao":"SC",
       "sede":"Florianópolis",
       "regiao":"Sul",
-      "populacao-estimada":7001161,
+      "populacao-estimada":7164788,
       "area":6734568,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -391,12 +351,10 @@
       "abreviacao":"SP",
       "sede":"São Paulo",
       "regiao":"Sudeste",
-      "populacao-estimada":45094866,
+      "populacao-estimada":45919049,
       "area":44169350,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
@@ -407,12 +365,10 @@
       "abreviacao":"SE",
       "sede":"Aracaju",
       "regiao":"Nordeste",
-      "populacao-estimada":2288116,
+      "populacao-estimada":2298696,
       "area":2227294,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
         "mensagens":[
 
         ]
@@ -423,12 +379,10 @@
       "abreviacao":"TO",
       "sede":"Palmas",
       "regiao":"Norte",
-      "populacao-estimada":1550194,
+      "populacao-estimada":1572866,
       "area":1502759,
       "notas-adicionais":{
-        "nota-populacional":{
-
-        },
+        "nota-populacional":"",
         "mensagens":[
 
         ]
