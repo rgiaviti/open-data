@@ -1,0 +1,438 @@
+{
+  "meta-info":{
+    "data-ultima-atualizacao":"2018-07-25",
+    "data-referencia":"2017-07-01",
+    "versao":"1.0.2",
+    "website":"https://medium.com/@rgiaviti/unidades-federativas-do-brasil-como-json-1a40c0ec2cff",
+    "fontes":[
+      "IBGE",
+      "Constituição do Brasil"
+    ]
+  },
+  "unidades-federativas":[
+    {
+      "unidade-federativa":"Acre",
+      "abreviacao":"AC",
+      "sede":"Rio Branco",
+      "regiao":"Norte",
+      "populacao-estimada":829619,
+      "area":1641222,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Alagoas",
+      "abreviacao":"AL",
+      "sede":"Maceió",
+      "regiao":"Nordeste",
+      "populacao-estimada":3375823,
+      "area":277677,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 441 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Amapá",
+      "abreviacao":"AP",
+      "sede":"Macapá",
+      "regiao":"Norte",
+      "populacao-estimada":797722,
+      "area":1428146,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Amazonas",
+      "abreviacao":"AM",
+      "sede":"Manaus",
+      "regiao":"Norte",
+      "populacao-estimada":4063614,
+      "area":15707457,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Bahia",
+      "abreviacao":"BA",
+      "sede":"Salvador",
+      "regiao":"Nordeste",
+      "populacao-estimada":15344447,
+      "area":5646927,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Ceará",
+      "abreviacao":"CE",
+      "sede":"Fortaleza",
+      "regiao":"Nordeste",
+      "populacao-estimada":9020460,
+      "area":1488256,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 772 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Distrito Federal",
+      "abreviacao":"DF",
+      "sede":"Brasília",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":3039444,
+      "area":58221,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Espírito Santo",
+      "abreviacao":"ES",
+      "sede":"Vitória",
+      "regiao":"Sudeste",
+      "populacao-estimada":4016356,
+      "area":460775,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Goiás",
+      "abreviacao":"GO",
+      "sede":"Goiânia",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":6778772,
+      "area":3400867,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Maranhão",
+      "abreviacao":"MA",
+      "sede":"São Luiz",
+      "regiao":"Nordeste",
+      "populacao-estimada":7000229,
+      "area":3319833,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Mato Grosso",
+      "abreviacao":"MT",
+      "sede":"Cuiabá",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":3344544,
+      "area":9033579,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Mato Grosso do Sul",
+      "abreviacao":"MS",
+      "sede":"Campo Grande",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":2713147,
+      "area":3571250,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Minas Gerais",
+      "abreviacao":"MG",
+      "sede":"Belo Horizonte",
+      "regiao":"Sudeste",
+      "populacao-estimada":21119536,
+      "area":5865283,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Pará",
+      "abreviacao":"PA",
+      "sede":"Belém",
+      "regiao":"Norte",
+      "populacao-estimada":8366628,
+      "area":12476895,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Paraíba",
+      "abreviacao":"PB",
+      "sede":"João Pessoa",
+      "regiao":"Nordeste",
+      "populacao-estimada":4025558,
+      "area":564398,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Paraná",
+      "abreviacao":"PR",
+      "sede":"Curitiba",
+      "regiao":"Sul",
+      "populacao-estimada":11320892,
+      "area":1993149,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Pernambuco",
+      "abreviacao":"PE",
+      "sede":"Recife",
+      "regiao":"Nordeste",
+      "populacao-estimada":9473266,
+      "area":983116,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 441 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Piauí",
+      "abreviacao":"PI",
+      "sede":"Teresina",
+      "regiao":"Nordeste",
+      "populacao-estimada":3219257,
+      "area":2515292,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 772 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2013, para o ano de 2017, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Rio de Janeiro",
+      "abreviacao":"RJ",
+      "sede":"Rio de Janeiro",
+      "regiao":"Sudeste",
+      "populacao-estimada":16718956,
+      "area":436961,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Rio Grande do Norte",
+      "abreviacao":"RN",
+      "sede":"Natal",
+      "regiao":"Nordeste",
+      "populacao-estimada":3507003,
+      "area":3419550,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Rio Grande do Sul",
+      "abreviacao":"RS",
+      "sede":"Porto Alegre",
+      "regiao":"Sul",
+      "populacao-estimada":2713147,
+      "area":11228091,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Rondônia",
+      "abreviacao":"RO",
+      "sede":"Porto Velho",
+      "regiao":"Norte",
+      "populacao-estimada":1805788,
+      "area":1755015,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Roraima",
+      "abreviacao":"RR",
+      "sede":"Boa Vista",
+      "regiao":"Norte",
+      "populacao-estimada":522636,
+      "area":500826,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Santa Catarina",
+      "abreviacao":"SC",
+      "sede":"Florianópolis",
+      "regiao":"Sul",
+      "populacao-estimada":7001161,
+      "area":6734568,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"São Paulo",
+      "abreviacao":"SP",
+      "sede":"São Paulo",
+      "regiao":"Sudeste",
+      "populacao-estimada":45094866,
+      "area":44169350,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Sergipe",
+      "abreviacao":"SE",
+      "sede":"Aracaju",
+      "regiao":"Nordeste",
+      "populacao-estimada":2288116,
+      "area":2227294,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    },
+    {
+      "unidade-federativa":"Tocantins",
+      "abreviacao":"TO",
+      "sede":"Palmas",
+      "regiao":"Norte",
+      "populacao-estimada":1550194,
+      "area":1502759,
+      "notas-adicionais":{
+        "nota-populacional":{
+
+        },
+        "mensagens":[
+
+        ]
+      }
+    }
+  ]
+}
