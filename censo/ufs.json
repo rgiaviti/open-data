@@ -1,391 +1,417 @@
 {
-  "meta-info":{
-    "data-ultima-atualizacao":"2020-06-09",
-    "data-referencia":"2019-07-01",
-    "versao":"1.0.3",
+  "metaInfo":{
+    "versao":"1.0.4",
     "website":"https://github.com/rgiaviti/open-data",
     "fontes":[
       "IBGE",
-      "Constituição do Brasil"
-    ]
+      "Constituição Federal do Brasil"
+    ],
+    "dataUltimaAtualizacao":{
+      "year":2020,
+      "month":"JUNE",
+      "monthValue":6,
+      "dayOfMonth":10,
+      "chronology":{
+        "calendarType":"iso8601",
+        "id":"ISO"
+      },
+      "era":"CE",
+      "dayOfYear":162,
+      "dayOfWeek":"WEDNESDAY",
+      "leapYear":true
+    },
+    "dataReferencia":{
+      "year":2019,
+      "month":"JULY",
+      "monthValue":7,
+      "dayOfMonth":1,
+      "chronology":{
+        "calendarType":"iso8601",
+        "id":"ISO"
+      },
+      "era":"CE",
+      "dayOfYear":182,
+      "dayOfWeek":"MONDAY",
+      "leapYear":false
+    }
   },
-  "unidades-federativas":[
+  "unidadesFederativas":[
     {
-      "unidade-federativa":"Acre",
-      "abreviacao":"AC",
-      "sede":"Rio Branco",
-      "regiao":"Norte",
-      "populacao-estimada":881935,
-      "area":1641222,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Alagoas",
-      "abreviacao":"AL",
-      "sede":"Maceió",
-      "regiao":"Nordeste",
-      "populacao-estimada":3337357,
-      "area":277677,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Amapá",
-      "abreviacao":"AP",
-      "sede":"Macapá",
-      "regiao":"Norte",
-      "populacao-estimada":845731,
-      "area":1428146,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Amazonas",
-      "abreviacao":"AM",
-      "sede":"Manaus",
-      "regiao":"Norte",
-      "populacao-estimada":4144597,
-      "area":15707457,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Bahia",
-      "abreviacao":"BA",
-      "sede":"Salvador",
-      "regiao":"Nordeste",
-      "populacao-estimada":14873064,
-      "area":5646927,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Ceará",
-      "abreviacao":"CE",
-      "sede":"Fortaleza",
-      "regiao":"Nordeste",
-      "populacao-estimada":9132078,
-      "area":1488256,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Distrito Federal",
-      "abreviacao":"DF",
-      "sede":"Brasília",
-      "regiao":"Centro-Oeste",
-      "populacao-estimada":3015268,
-      "area":58221,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Espírito Santo",
-      "abreviacao":"ES",
-      "sede":"Vitória",
-      "regiao":"Sudeste",
-      "populacao-estimada":4018650,
-      "area":460775,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Goiás",
-      "abreviacao":"GO",
-      "sede":"Goiânia",
-      "regiao":"Centro-Oeste",
-      "populacao-estimada":7018354,
-      "area":3400867,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Maranhão",
-      "abreviacao":"MA",
-      "sede":"São Luiz",
-      "regiao":"Nordeste",
-      "populacao-estimada":7075181,
-      "area":3319833,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Mato Grosso",
-      "abreviacao":"MT",
-      "sede":"Cuiabá",
-      "regiao":"Centro-Oeste",
-      "populacao-estimada":3484466,
-      "area":9033579,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Mato Grosso do Sul",
-      "abreviacao":"MS",
-      "sede":"Campo Grande",
-      "regiao":"Centro-Oeste",
-      "populacao-estimada":2778986,
-      "area":3571250,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Minas Gerais",
-      "abreviacao":"MG",
-      "sede":"Belo Horizonte",
-      "regiao":"Sudeste",
-      "populacao-estimada":21168791,
-      "area":5865283,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Pará",
-      "abreviacao":"PA",
-      "sede":"Belém",
-      "regiao":"Norte",
-      "populacao-estimada":8602865,
-      "area":12476895,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Paraíba",
-      "abreviacao":"PB",
-      "sede":"João Pessoa",
-      "regiao":"Nordeste",
-      "populacao-estimada":4018127,
-      "area":564398,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Paraná",
-      "abreviacao":"PR",
-      "sede":"Curitiba",
-      "regiao":"Sul",
-      "populacao-estimada":11433957,
-      "area":1993149,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Pernambuco",
-      "abreviacao":"PE",
-      "sede":"Recife",
-      "regiao":"Nordeste",
-      "populacao-estimada":9557071,
-      "area":983116,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Piauí",
-      "abreviacao":"PI",
-      "sede":"Teresina",
-      "regiao":"Nordeste",
-      "populacao-estimada":3273227,
-      "area":2515292,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Rio de Janeiro",
-      "abreviacao":"RJ",
-      "sede":"Rio de Janeiro",
-      "regiao":"Sudeste",
-      "populacao-estimada":17264943,
-      "area":436961,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Rio Grande do Norte",
-      "abreviacao":"RN",
-      "sede":"Natal",
-      "regiao":"Nordeste",
-      "populacao-estimada":3506853,
-      "area":3419550,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Rio Grande do Sul",
-      "abreviacao":"RS",
-      "sede":"Porto Alegre",
-      "regiao":"Sul",
-      "populacao-estimada":11377239,
-      "area":11228091,
-      "notas-adicionais":{
-        "nota-populacional":"",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Rondônia",
       "abreviacao":"RO",
       "sede":"Porto Velho",
       "regiao":"Norte",
-      "populacao-estimada":1777225,
-      "area":1755015,
-      "notas-adicionais":{
-        "nota-populacional":"",
+      "area":237765.23,
+      "unidadeFerativa":"Rondônia",
+      "populacaoEstimada":1777225,
+      "notasAdicionais":{
         "mensagens":[
 
-        ]
+        ],
+        "notaPopulacional":""
       }
     },
     {
-      "unidade-federativa":"Roraima",
+      "abreviacao":"AC",
+      "sede":"Rio Branco",
+      "regiao":"Norte",
+      "area":164123.97,
+      "unidadeFerativa":"Acre",
+      "populacaoEstimada":881935,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"AM",
+      "sede":"Manaus",
+      "regiao":"Norte",
+      "area":1559167.9,
+      "unidadeFerativa":"Amazonas",
+      "populacaoEstimada":4144597,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
       "abreviacao":"RR",
       "sede":"Boa Vista",
       "regiao":"Norte",
-      "populacao-estimada":605761,
-      "area":500826,
-      "notas-adicionais":{
-        "nota-populacional":"",
+      "area":223644.53,
+      "unidadeFerativa":"Roraima",
+      "populacaoEstimada":605761,
+      "notasAdicionais":{
         "mensagens":[
 
-        ]
+        ],
+        "notaPopulacional":""
       }
     },
     {
-      "unidade-federativa":"Santa Catarina",
-      "abreviacao":"SC",
-      "sede":"Florianópolis",
-      "regiao":"Sul",
-      "populacao-estimada":7164788,
-      "area":6734568,
-      "notas-adicionais":{
-        "nota-populacional":"",
+      "abreviacao":"PA",
+      "sede":"Belém",
+      "regiao":"Norte",
+      "area":1245870.8,
+      "unidadeFerativa":"Pará",
+      "populacaoEstimada":8602865,
+      "notasAdicionais":{
         "mensagens":[
 
-        ]
+        ],
+        "notaPopulacional":""
       }
     },
     {
-      "unidade-federativa":"São Paulo",
-      "abreviacao":"SP",
-      "sede":"São Paulo",
-      "regiao":"Sudeste",
-      "populacao-estimada":45919049,
-      "area":44169350,
-      "notas-adicionais":{
-        "nota-populacional":"",
+      "abreviacao":"AP",
+      "sede":"Macapá",
+      "regiao":"Norte",
+      "area":142470.77,
+      "unidadeFerativa":"Amapá",
+      "populacaoEstimada":845731,
+      "notasAdicionais":{
         "mensagens":[
 
-        ]
+        ],
+        "notaPopulacional":""
       }
     },
     {
-      "unidade-federativa":"Sergipe",
-      "abreviacao":"SE",
-      "sede":"Aracaju",
-      "regiao":"Nordeste",
-      "populacao-estimada":2298696,
-      "area":2227294,
-      "notas-adicionais":{
-        "nota-populacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens":[
-
-        ]
-      }
-    },
-    {
-      "unidade-federativa":"Tocantins",
       "abreviacao":"TO",
       "sede":"Palmas",
       "regiao":"Norte",
-      "populacao-estimada":1572866,
-      "area":1502759,
-      "notas-adicionais":{
-        "nota-populacional":"",
+      "area":277466.75,
+      "unidadeFerativa":"Tocantins",
+      "populacaoEstimada":1572866,
+      "notasAdicionais":{
         "mensagens":[
 
-        ]
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"MA",
+      "sede":"São Luís",
+      "regiao":"Nordeste",
+      "area":329642.2,
+      "unidadeFerativa":"Maranhão",
+      "populacaoEstimada":7075181,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"PI",
+      "sede":"Teresina",
+      "regiao":"Nordeste",
+      "area":251756.52,
+      "unidadeFerativa":"Piauí",
+      "populacaoEstimada":3273227,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
+      }
+    },
+    {
+      "abreviacao":"CE",
+      "sede":"Fortaleza",
+      "regiao":"Nordeste",
+      "area":148894.44,
+      "unidadeFerativa":"Ceará",
+      "populacaoEstimada":9132078,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
+      }
+    },
+    {
+      "abreviacao":"RN",
+      "sede":"Natal",
+      "regiao":"Nordeste",
+      "area":52809.6,
+      "unidadeFerativa":"Rio Grande do Norte",
+      "populacaoEstimada":3506853,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"PB",
+      "sede":"João Pessoa",
+      "regiao":"Nordeste",
+      "area":56467.242,
+      "unidadeFerativa":"Paraíba",
+      "populacaoEstimada":4018127,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"PE",
+      "sede":"Recife",
+      "regiao":"Nordeste",
+      "area":98067.88,
+      "unidadeFerativa":"Pernambuco",
+      "populacaoEstimada":9557071,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
+      }
+    },
+    {
+      "abreviacao":"AL",
+      "sede":"Maceió",
+      "regiao":"Nordeste",
+      "area":27843.295,
+      "unidadeFerativa":"Alagoas",
+      "populacaoEstimada":3337357,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
+      }
+    },
+    {
+      "abreviacao":"SE",
+      "sede":"Aracajú",
+      "regiao":"Nordeste",
+      "area":21925.424,
+      "unidadeFerativa":"Sergipe",
+      "populacaoEstimada":2298696,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
+      }
+    },
+    {
+      "abreviacao":"BA",
+      "sede":"Salvador",
+      "regiao":"Nordeste",
+      "area":564760.44,
+      "unidadeFerativa":"Bahia",
+      "populacaoEstimada":14873064,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
+      }
+    },
+    {
+      "abreviacao":"MG",
+      "sede":"Belo Horizonte",
+      "regiao":"Sudeste",
+      "area":586521.1,
+      "unidadeFerativa":"Minas Gerais",
+      "populacaoEstimada":21168791,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"ES",
+      "sede":"Vitória",
+      "regiao":"Sudeste",
+      "area":46074.445,
+      "unidadeFerativa":"Espírito Santo",
+      "populacaoEstimada":4018650,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"RJ",
+      "sede":"Rio de Janeiro",
+      "regiao":"Sudeste",
+      "area":43750.426,
+      "unidadeFerativa":"Rio de Janeiro",
+      "populacaoEstimada":17264943,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"SP",
+      "sede":"São Paulo",
+      "regiao":"Sudeste",
+      "area":248219.48,
+      "unidadeFerativa":"São Paulo",
+      "populacaoEstimada":45919049,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"PR",
+      "sede":"Curitiba",
+      "regiao":"Sul",
+      "area":199298.98,
+      "unidadeFerativa":"Paraná",
+      "populacaoEstimada":11433957,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"SC",
+      "sede":"Florianópolis",
+      "regiao":"Sul",
+      "area":95730.69,
+      "unidadeFerativa":"Santa Catarina",
+      "populacaoEstimada":7164788,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"RS",
+      "sede":"Porto Alegre",
+      "regiao":"Sul",
+      "area":281707.16,
+      "unidadeFerativa":"Rio Grande do Sul",
+      "populacaoEstimada":11377239,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"MS",
+      "sede":"Campo Grande",
+      "regiao":"Centro-Oeste",
+      "area":357145.53,
+      "unidadeFerativa":"Mato Grosso do Sul",
+      "populacaoEstimada":2778986,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"MT",
+      "sede":"Cuiabá",
+      "regiao":"Centro-Oeste",
+      "area":903207.0,
+      "unidadeFerativa":"Mato Grosso",
+      "populacaoEstimada":3484466,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":""
+      }
+    },
+    {
+      "abreviacao":"GO",
+      "sede":"Goiânia",
+      "regiao":"Centro-Oeste",
+      "area":340203.34,
+      "unidadeFerativa":"Goiás",
+      "populacaoEstimada":7018354,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
+      }
+    },
+    {
+      "abreviacao":"DF",
+      "sede":"Brasília",
+      "regiao":"Centro-Oeste",
+      "area":5760.783,
+      "unidadeFerativa":"Distrito Federal",
+      "populacaoEstimada":3015268,
+      "notasAdicionais":{
+        "mensagens":[
+
+        ],
+        "notaPopulacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual."
       }
     }
   ]
