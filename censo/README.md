@@ -2,6 +2,8 @@
 
 Esse diretório contem alguns arquivos JSONs que podem ser usados para alimentar seus projetos com dados atualizados sobre o Brasil, Unidades Federativas e Municípios Brasileiros. Aos poucos vamos adicionando mais JSONs a esse diretório. Sempre estamos tentando manter esses dados atualizados. Fique a vontade para contribuir com o projeto.
 
+Considerem JSONs produtivos na branch `master`. **Não utilizem a branch `develop`.**
+
 ## Brasil como JSON
 
 - TODO
