@@ -16,6 +16,7 @@ Aqui são disponibilizados uma lista todas as Unidades Federativas do Brasil mai
 
 - IBGE;
 - Constituição Federal;
+- Senado Federal
 
 ## Municípios Brasileiros em JSON
 
