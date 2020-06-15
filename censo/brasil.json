@@ -1,29 +1,55 @@
 {
-  "meta-info":{
-    "data-ultima-atualizacao":"2020-06-13",
-    "data-ultima-referencia":"2019-07-01",
-    "versao":"1.0.0",
-    "website":"https://github.com/rgiaviti/open-data",
-    "fontes":[
-      "IBGE",
-      "Constituição Federal do Brasil"
-    ]
+  "meta-info": {
+    "data-ultima-atualizacao": "2020-06-13",
+    "data-ultima-referencia": "2019-07-01",
+    "versao": "1.0.0",
+    "website": "https://github.com/rgiaviti/open-data",
+    "fontes": ["IBGE", "Constituição Federal do Brasil"]
   },
-  "dados":{
-    "nome-oficial":"República Federativa do Brasil",
-    "gentilico":"Brasileiros",
-    "capital":"Brasília",
-    "lingua-oficial":"Português",
-    "area":8510295.914,
-    "populacao-estimada":210147125,
-    "densidade-demografica":22.43,
-    "numero-municipios":5570,
-    "moeda":{
-      "nome":"Real",
-      "sigla":"BRL"
-    },
-    "codigo-iso":"BRA",
-    "codigo-internet":".br",
-    "codigo-telefonico":"+55"
+  "dados": {
+    "nome-oficial": "República Federativa do Brasil",
+    "gentilico": "Brasileiros",
+    "capital": "Brasília",
+    "lingua-oficial": "Português",
+    "numero-municipios": 5570
+  },
+  "populacao": {
+    "populacao-estimada": 210147125,
+    "densidade-demografica": 22.43
+  },
+  "dados-geograficos": {
+    "area": 8515767.049,
+    "pontos-extremos": {
+      "norte": {
+        "latitude": "",
+        "longitude": "",
+        "localizacao": ""
+      },
+      "sul": {
+        "latitude": "",
+        "longitude": "",
+        "localizacao": ""
+      },
+      "leste": {
+        "latitude": "",
+        "longitude": "",
+        "localizacao": ""
+      },
+      "oeste": {
+        "latitude": "",
+        "longitude": "",
+        "localizacao": ""
+      }
+    }
+  },
+  "moeda": {
+    "nome": "Real",
+    "iso-4217": "BRL",
+    "simbolo": "R$"
+  },
+  "codigos": {
+    "codigo-iso": "BRA",
+    "codigo-internet": ".br",
+    "codigo-telefonico": "+55"
   }
 }
