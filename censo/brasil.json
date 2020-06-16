@@ -1,24 +1,32 @@
 {
   "meta-info":{
-    "data-ultima-atualizacao":"2020-06-13",
+    "data-ultima-atualizacao":"2020-06-15",
     "data-ultima-referencia":"2019-07-01",
     "versao":"1.0.0",
     "website":"https://github.com/rgiaviti/open-data",
     "fontes":[
       "IBGE",
+      "Governo Federal",
+      "Senador Federal",
       "Constituição Federal do Brasil"
     ]
   },
-  "dados":{
+  "dados-oficiais":{
     "nome-oficial":"República Federativa do Brasil",
     "gentilico":"Brasileiros",
     "capital":"Brasília",
     "lingua-oficial":"Português",
-    "numero-municipios":5570
+    "numero-municipios":5570,
+    "sistema-de-governo":"Presidencialismo"
   },
   "populacao":{
     "populacao-estimada":210147125,
     "densidade-demografica":22.43
+  },
+  "datas-importantes":{
+    "descobrimento":"1500-04-22",
+    "independencia-declarada":"1822-09-07",
+    "proclamacao-republica":"1889-11-15"
   },
   "dados-geograficos":{
     "area":8515767.049,
@@ -43,7 +51,19 @@
         "longitude":"73º 59'26\" W",
         "localizacao":"Nascente do Rio Moa (Acre)"
       }
-    }
+    },
+    "fronteiras":[
+      "Argentina",
+      "Bolívia",
+      "Colômbia",
+      "Guiana Francesa (França)",
+      "Guiana",
+      "Paraguai",
+      "Peru",
+      "Suriname",
+      "Uruguai",
+      "Venezuela"
+    ]
   },
   "moeda":{
     "nome":"Real",
@@ -51,7 +71,11 @@
     "simbolo":"R$"
   },
   "codigos":{
-    "codigo-iso":"BRA",
+    "iso-3166-1":{
+      "alpha-2":"BR",
+      "alpha-3":"BRA",
+      "numerico":"076"
+    },
     "codigo-internet":".br",
     "codigo-telefonico":"+55"
   }
