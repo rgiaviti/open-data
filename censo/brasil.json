@@ -2,7 +2,7 @@
   "meta-info":{
     "data-ultima-atualizacao":"2020-06-15",
     "data-ultima-referencia":"2019-07-01",
-    "versao":"1.0.0",
+    "versao":"1.0.0.BETA",
     "website":"https://github.com/rgiaviti/open-data/blob/master/censo/brasil.json",
     "fontes":[
       "IBGE",
