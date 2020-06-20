@@ -2,8 +2,8 @@
   "meta-info":{
     "data-ultima-atualizacao":"2020-06-14",
     "data-ultima-referencia":"2019-07-01",
-    "versao":"1.0.5",
-    "website":"https://github.com/rgiaviti/open-data/tree/master/censo",
+    "versao":"1.0.0",
+    "website":"https://github.com/rgiaviti/open-data/blob/develop/censo/ufs.json",
     "fontes":[
       "IBGE",
       "Constituição Federal do Brasil",
