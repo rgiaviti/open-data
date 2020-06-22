@@ -3,12 +3,34 @@ Esse é um projeto simples, sem grandes pretensões onde o objetivo é ir dispon
 
 ## Dados Disponibilizados
 Até o momento temos os seguintes dados disponibilizados para a comunidade:
+
 - Dados Gerais do Brasil;
 - Listagem e População das Unidades Federativas do Brasil
 - Listagem e População dos Municípios do Brasil;
 - Listagem de Todas as Empresas na B3;
 
 # Garantias
-Não há garantias nenhuma sobre os dados disponibilizados
+Apesar de sempre tentarmos manter os dados corretos, **não há garantia nenhuma sobre os dados disponibilizados.**
 
 # Licença
+MIT License
+
+Copyright (c) 2020 Ricardo Giaviti
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
