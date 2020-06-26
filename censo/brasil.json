@@ -24,11 +24,24 @@
     "populacao-estimada":210147125,
     "densidade-demografica":22.43
   },
-  "datas-importantes":{
-    "descobrimento":"1500-04-22",
-    "independencia-declarada":"1822-09-07",
-    "proclamacao-republica":"1889-11-15"
-  },
+  "datas-importantes":[
+    {
+      "data":"1500-04-22",
+      "descricao":"Descobrimento do Brasil"
+    },
+    {
+      "data":"1822-09-07",
+      "descricao":"Declaração da Independência"
+    },
+    {
+      "data":"1888-05-13",
+      "descricao":"Lei Áurea. Abolição da escravidão no Brasil"
+    },
+    {
+      "data":"1889-11-15",
+      "descricao":"Proclamação da República"
+    }
+  ],
   "dados-geograficos":{
     "area":8515767.049,
     "pontos-extremos":{
