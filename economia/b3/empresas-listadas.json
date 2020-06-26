@@ -3,6 +3,7 @@
     "status":"ATIVO",
     "data-ultima-atualizacao":"2020-06-26",
     "versao":"1.0.0.BETA",
+    "contagem":422,
     "site":"https://github.com/rgiaviti/open-data/blob/master/economia/b3/empresas-listadas.json",
     "fontes":[
       "B3 - Brasil, Bolsa, Balcão"
