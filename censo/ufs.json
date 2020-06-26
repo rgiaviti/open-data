@@ -14,6 +14,7 @@
   "unidades-federativas":[
     {
       "unidade-federativa":"Acre",
+      "codigo-ibge":"12",
       "abreviacao":"AC",
       "sede":"Rio Branco",
       "gentilico":"acriano",
@@ -29,6 +30,7 @@
     },
     {
       "unidade-federativa":"Alagoas",
+      "codigo-ibge":"27",
       "abreviacao":"AL",
       "sede":"Maceió",
       "gentilico":"alagoano",
@@ -44,6 +46,7 @@
     },
     {
       "unidade-federativa":"Amapá",
+      "codigo-ibge":"16",
       "abreviacao":"AP",
       "sede":"Macapá",
       "gentilico":"amapaense",
@@ -59,6 +62,7 @@
     },
     {
       "unidade-federativa":"Amazonas",
+      "codigo-ibge":"13",
       "abreviacao":"AM",
       "sede":"Manaus",
       "gentilico":"amazonense",
@@ -74,6 +78,7 @@
     },
     {
       "unidade-federativa":"Bahia",
+      "codigo-ibge":"29",
       "abreviacao":"BA",
       "sede":"Salvador",
       "gentilico":"baiano",
@@ -89,6 +94,7 @@
     },
     {
       "unidade-federativa":"Ceará",
+      "codigo-ibge":"23",
       "abreviacao":"CE",
       "sede":"Fortaleza",
       "gentilico":"cearense",
@@ -104,6 +110,7 @@
     },
     {
       "unidade-federativa":"Distrito Federal",
+      "codigo-ibge":"53",
       "abreviacao":"DF",
       "sede":"Brasília",
       "gentilico":"brasiliense",
@@ -119,6 +126,7 @@
     },
     {
       "unidade-federativa":"Espírito Santo",
+      "codigo-ibge":"32",
       "abreviacao":"ES",
       "sede":"Vitória",
       "gentilico":"capixaba",
@@ -134,6 +142,7 @@
     },
     {
       "unidade-federativa":"Goiás",
+      "codigo-ibge":"52",
       "abreviacao":"GO",
       "sede":"Goiânia",
       "gentilico":"goiano",
@@ -149,6 +158,7 @@
     },
     {
       "unidade-federativa":"Maranhão",
+      "codigo-ibge":"21",
       "abreviacao":"MA",
       "sede":"São Luís",
       "gentilico":"maranhense",
@@ -164,6 +174,7 @@
     },
     {
       "unidade-federativa":"Mato Grosso",
+      "codigo-ibge":"50",
       "abreviacao":"MT",
       "sede":"Cuiabá",
       "gentilico":"mato-grossense",
@@ -179,6 +190,7 @@
     },
     {
       "unidade-federativa":"Mato Grosso do Sul",
+      "codigo-ibge":"51",
       "abreviacao":"MS",
       "sede":"Campo Grande",
       "gentilico":"Sul-mato-grossense",
@@ -194,6 +206,7 @@
     },
     {
       "unidade-federativa":"Minas Gerais",
+      "codigo-ibge":"31",
       "abreviacao":"MG",
       "sede":"Belo Horizonte",
       "gentilico":"mineiro",
@@ -209,6 +222,7 @@
     },
     {
       "unidade-federativa":"Pará",
+      "codigo-ibge":"15",
       "abreviacao":"PA",
       "sede":"Belém",
       "gentilico":"paraense",
@@ -224,6 +238,7 @@
     },
     {
       "unidade-federativa":"Paraíba",
+      "codigo-ibge":"25",
       "abreviacao":"PB",
       "sede":"João Pessoa",
       "gentilico":"paraibano",
@@ -239,6 +254,7 @@
     },
     {
       "unidade-federativa":"Paraná",
+      "codigo-ibge":"41",
       "abreviacao":"PR",
       "sede":"Curitiba",
       "gentilico":"paranaense",
@@ -254,6 +270,7 @@
     },
     {
       "unidade-federativa":"Pernambuco",
+      "codigo-ibge":"26",
       "abreviacao":"PE",
       "sede":"Recife",
       "gentilico":"pernambucano",
@@ -269,6 +286,7 @@
     },
     {
       "unidade-federativa":"Piauí",
+      "codigo-ibge":"22",
       "abreviacao":"PI",
       "sede":"Teresina",
       "gentilico":"piauiense",
@@ -284,6 +302,7 @@
     },
     {
       "unidade-federativa":"Rio de Janeiro",
+      "codigo-ibge":"33",
       "abreviacao":"RJ",
       "sede":"Rio de Janeiro",
       "gentilico":"fluminense",
@@ -299,6 +318,7 @@
     },
     {
       "unidade-federativa":"Rio Grande do Norte",
+      "codigo-ibge":"24",
       "abreviacao":"RN",
       "sede":"Natal",
       "gentilico":"potiguar",
@@ -314,6 +334,7 @@
     },
     {
       "unidade-federativa":"Rio Grande do Sul",
+      "codigo-ibge":"43",
       "abreviacao":"RS",
       "sede":"Porto Alegre",
       "gentilico":"gaúcho",
@@ -329,6 +350,7 @@
     },
     {
       "unidade-federativa":"Rondônia",
+      "codigo-ibge":"11",
       "abreviacao":"RO",
       "sede":"Porto Velho",
       "gentilico":"rondoniano",
@@ -344,6 +366,7 @@
     },
     {
       "unidade-federativa":"Roraima",
+      "codigo-ibge":"14",
       "abreviacao":"RR",
       "sede":"Boa Vista",
       "gentilico":"roraimense",
@@ -359,6 +382,7 @@
     },
     {
       "unidade-federativa":"Santa Catarina",
+      "codigo-ibge":"42",
       "abreviacao":"SC",
       "sede":"Florianópolis",
       "gentilico":"catarinense",
@@ -374,6 +398,7 @@
     },
     {
       "unidade-federativa":"São Paulo",
+      "codigo-ibge":"35",
       "abreviacao":"SP",
       "sede":"São Paulo",
       "gentilico":"paulista",
@@ -389,6 +414,7 @@
     },
     {
       "unidade-federativa":"Sergipe",
+      "codigo-ibge":"28",
       "abreviacao":"SE",
       "sede":"Aracaju",
       "gentilico":"sergipano",
@@ -404,6 +430,7 @@
     },
     {
       "unidade-federativa":"Tocantins",
+      "codigo-ibge":"17",
       "abreviacao":"TO",
       "sede":"Palmas",
       "gentilico":"tocantinense",
