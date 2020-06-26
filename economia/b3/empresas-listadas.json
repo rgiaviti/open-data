@@ -1,7 +1,7 @@
 {
   "meta-info":{
     "status":"ATIVO",
-    "data-ultima-atualizacao":"2020-06-20",
+    "data-ultima-atualizacao":"2020-06-26",
     "versao":"1.0.0.BETA",
     "site":"https://github.com/rgiaviti/open-data/blob/master/economia/b3/empresas-listadas.json",
     "fontes":[
@@ -391,7 +391,7 @@
       "nome":"B3 S.A. - BRASIL. BOLSA. BALCÃO",
       "codigo-cvm":"21610",
       "tickers":[
-
+        "B3SA3"
       ],
       "nome-pregao":"B3",
       "cnpj":"09.346.601/0001-25",
@@ -4325,7 +4325,7 @@
       ],
       "nome-pregao":"MERC FINANC",
       "cnpj":"33.040.601/0001-87",
-      "ramo-atividade":"Crédito. Financiamento E Investimentos.",
+      "ramo-atividade":"Crédito. Financiamento E Investimentos",
       "setores":[
         "FINANCEIRO",
         "INTERMEDIÁRIOS FINANCEIROS",
@@ -5033,7 +5033,7 @@
       ],
       "nome-pregao":"PETROBRAS",
       "cnpj":"33.000.167/0001-01",
-      "ramo-atividade":"Petróleo. Gás E Energia",
+      "ramo-atividade":"Pesquisa. Lavra. Refinação. Processamento. Comércio E Transporte de Petróleo. de Seus Derivados. de Gás Natural E de Outros Hidrocarbonetos Fluidos. Além Das Atividades Vinculadas à Energia.",
       "setores":[
         "EXPLORAÇÃO. REFINO E DISTRIBUIÇÃO",
         "PETRÓLEO. GÁS E BIOCOMBUSTÍVEIS"
@@ -6218,7 +6218,7 @@
       ],
       "nome-pregao":"MENEZES CORT",
       "cnpj":"02.664.042/0001-52",
-      "ramo-atividade":"Estacionamento E Locação de Lojas E Espaços",
+      "ramo-atividade":"",
       "setores":[
         "EXPLORAÇÃO DE IMÓVEIS",
         "FINANCEIRO"
@@ -6615,6 +6615,7 @@
       "nome":"VIVER INCORPORADORA E CONSTRUTORA S.A.",
       "codigo-cvm":"20702",
       "tickers":[
+        "VIVR1",
         "VIVR3"
       ],
       "nome-pregao":"VIVER",
