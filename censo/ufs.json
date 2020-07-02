@@ -16,7 +16,7 @@
     {
       "unidade-federativa":"Acre",
       "codigo-ibge":"12",
-      "abreviacao":"AC",
+      "sigla":"AC",
       "sede":"Rio Branco",
       "gentilico":"acriano",
       "regiao":"Norte",
@@ -32,7 +32,7 @@
     {
       "unidade-federativa":"Alagoas",
       "codigo-ibge":"27",
-      "abreviacao":"AL",
+      "sigla":"AL",
       "sede":"Maceió",
       "gentilico":"alagoano",
       "regiao":"Nordeste",
@@ -48,7 +48,7 @@
     {
       "unidade-federativa":"Amapá",
       "codigo-ibge":"16",
-      "abreviacao":"AP",
+      "sigla":"AP",
       "sede":"Macapá",
       "gentilico":"amapaense",
       "regiao":"Norte",
@@ -64,7 +64,7 @@
     {
       "unidade-federativa":"Amazonas",
       "codigo-ibge":"13",
-      "abreviacao":"AM",
+      "sigla":"AM",
       "sede":"Manaus",
       "gentilico":"amazonense",
       "regiao":"Norte",
@@ -80,7 +80,7 @@
     {
       "unidade-federativa":"Bahia",
       "codigo-ibge":"29",
-      "abreviacao":"BA",
+      "sigla":"BA",
       "sede":"Salvador",
       "gentilico":"baiano",
       "regiao":"Nordeste",
@@ -96,7 +96,7 @@
     {
       "unidade-federativa":"Ceará",
       "codigo-ibge":"23",
-      "abreviacao":"CE",
+      "sigla":"CE",
       "sede":"Fortaleza",
       "gentilico":"cearense",
       "regiao":"Nordeste",
@@ -112,7 +112,7 @@
     {
       "unidade-federativa":"Distrito Federal",
       "codigo-ibge":"53",
-      "abreviacao":"DF",
+      "sigla":"DF",
       "sede":"Brasília",
       "gentilico":"brasiliense",
       "regiao":"Centro-Oeste",
@@ -128,7 +128,7 @@
     {
       "unidade-federativa":"Espírito Santo",
       "codigo-ibge":"32",
-      "abreviacao":"ES",
+      "sigla":"ES",
       "sede":"Vitória",
       "gentilico":"capixaba",
       "regiao":"Sudeste",
@@ -144,7 +144,7 @@
     {
       "unidade-federativa":"Goiás",
       "codigo-ibge":"52",
-      "abreviacao":"GO",
+      "sigla":"GO",
       "sede":"Goiânia",
       "gentilico":"goiano",
       "regiao":"Centro-Oeste",
@@ -160,7 +160,7 @@
     {
       "unidade-federativa":"Maranhão",
       "codigo-ibge":"21",
-      "abreviacao":"MA",
+      "sigla":"MA",
       "sede":"São Luís",
       "gentilico":"maranhense",
       "regiao":"Nordeste",
@@ -176,7 +176,7 @@
     {
       "unidade-federativa":"Mato Grosso",
       "codigo-ibge":"50",
-      "abreviacao":"MT",
+      "sigla":"MT",
       "sede":"Cuiabá",
       "gentilico":"mato-grossense",
       "regiao":"Centro-Oeste",
@@ -192,7 +192,7 @@
     {
       "unidade-federativa":"Mato Grosso do Sul",
       "codigo-ibge":"51",
-      "abreviacao":"MS",
+      "sigla":"MS",
       "sede":"Campo Grande",
       "gentilico":"Sul-mato-grossense",
       "regiao":"Centro-Oeste",
@@ -208,7 +208,7 @@
     {
       "unidade-federativa":"Minas Gerais",
       "codigo-ibge":"31",
-      "abreviacao":"MG",
+      "sigla":"MG",
       "sede":"Belo Horizonte",
       "gentilico":"mineiro",
       "regiao":"Sudeste",
@@ -224,7 +224,7 @@
     {
       "unidade-federativa":"Pará",
       "codigo-ibge":"15",
-      "abreviacao":"PA",
+      "sigla":"PA",
       "sede":"Belém",
       "gentilico":"paraense",
       "regiao":"Norte",
@@ -240,7 +240,7 @@
     {
       "unidade-federativa":"Paraíba",
       "codigo-ibge":"25",
-      "abreviacao":"PB",
+      "sigla":"PB",
       "sede":"João Pessoa",
       "gentilico":"paraibano",
       "regiao":"Nordeste",
@@ -256,7 +256,7 @@
     {
       "unidade-federativa":"Paraná",
       "codigo-ibge":"41",
-      "abreviacao":"PR",
+      "sigla":"PR",
       "sede":"Curitiba",
       "gentilico":"paranaense",
       "regiao":"Sul",
@@ -272,7 +272,7 @@
     {
       "unidade-federativa":"Pernambuco",
       "codigo-ibge":"26",
-      "abreviacao":"PE",
+      "sigla":"PE",
       "sede":"Recife",
       "gentilico":"pernambucano",
       "regiao":"Nordeste",
@@ -288,7 +288,7 @@
     {
       "unidade-federativa":"Piauí",
       "codigo-ibge":"22",
-      "abreviacao":"PI",
+      "sigla":"PI",
       "sede":"Teresina",
       "gentilico":"piauiense",
       "regiao":"Nordeste",
@@ -304,7 +304,7 @@
     {
       "unidade-federativa":"Rio de Janeiro",
       "codigo-ibge":"33",
-      "abreviacao":"RJ",
+      "sigla":"RJ",
       "sede":"Rio de Janeiro",
       "gentilico":"fluminense",
       "regiao":"Sudeste",
@@ -320,7 +320,7 @@
     {
       "unidade-federativa":"Rio Grande do Norte",
       "codigo-ibge":"24",
-      "abreviacao":"RN",
+      "sigla":"RN",
       "sede":"Natal",
       "gentilico":"potiguar",
       "regiao":"Nordeste",
@@ -336,7 +336,7 @@
     {
       "unidade-federativa":"Rio Grande do Sul",
       "codigo-ibge":"43",
-      "abreviacao":"RS",
+      "sigla":"RS",
       "sede":"Porto Alegre",
       "gentilico":"gaúcho",
       "regiao":"Sul",
@@ -352,7 +352,7 @@
     {
       "unidade-federativa":"Rondônia",
       "codigo-ibge":"11",
-      "abreviacao":"RO",
+      "sigla":"RO",
       "sede":"Porto Velho",
       "gentilico":"rondoniano",
       "regiao":"Norte",
@@ -368,7 +368,7 @@
     {
       "unidade-federativa":"Roraima",
       "codigo-ibge":"14",
-      "abreviacao":"RR",
+      "sigla":"RR",
       "sede":"Boa Vista",
       "gentilico":"roraimense",
       "regiao":"Norte",
@@ -384,7 +384,7 @@
     {
       "unidade-federativa":"Santa Catarina",
       "codigo-ibge":"42",
-      "abreviacao":"SC",
+      "sigla":"SC",
       "sede":"Florianópolis",
       "gentilico":"catarinense",
       "regiao":"Sul",
@@ -400,7 +400,7 @@
     {
       "unidade-federativa":"São Paulo",
       "codigo-ibge":"35",
-      "abreviacao":"SP",
+      "sigla":"SP",
       "sede":"São Paulo",
       "gentilico":"paulista",
       "regiao":"Sudeste",
@@ -416,7 +416,7 @@
     {
       "unidade-federativa":"Sergipe",
       "codigo-ibge":"28",
-      "abreviacao":"SE",
+      "sigla":"SE",
       "sede":"Aracaju",
       "gentilico":"sergipano",
       "regiao":"Nordeste",
@@ -432,7 +432,7 @@
     {
       "unidade-federativa":"Tocantins",
       "codigo-ibge":"17",
-      "abreviacao":"TO",
+      "sigla":"TO",
       "sede":"Palmas",
       "gentilico":"tocantinense",
       "regiao":"Norte",
