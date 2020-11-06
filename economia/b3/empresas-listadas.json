@@ -1,9 +1,9 @@
 {
   "meta-info":{
     "status":"ATIVO",
-    "data-ultima-atualizacao":"2020-06-26",
-    "versao":"1.0.0.BETA-2",
-    "contagem":422,
+    "data-ultima-atualizacao":"2020-11-06",
+    "versao":"1.0.0.BETA",
+    "contagem":433,
     "site":"https://github.com/rgiaviti/open-data/blob/master/economia/b3/empresas-listadas.json",
     "fontes":[
       "B3 - Brasil, Bolsa, Balcão"
@@ -14,7 +14,7 @@
       "nome":"524 PARTICIPACOES S.A.",
       "codigo-cvm":"16284",
       "tickers":[
-
+        
       ],
       "nome-pregao":"524 PARTICIP",
       "cnpj":"01.851.771/0001-55",
@@ -75,7 +75,7 @@
       "nome":"ALEF S.A.",
       "codigo-cvm":"16705",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ALEF S/A",
       "cnpj":"02.217.319/0001-07",
@@ -107,7 +107,7 @@
       "nome":"ALGAR TELECOM S/A",
       "codigo-cvm":"21032",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ALGAR TELEC",
       "cnpj":"71.208.516/0001-74",
@@ -186,7 +186,7 @@
       "nome":"ALTERE SECURITIZADORA S.A.",
       "codigo-cvm":"18066",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ALTERE SEC",
       "cnpj":"02.783.423/0001-50",
@@ -229,6 +229,21 @@
         "CONSUMO NÃO CÍCLICO"
       ],
       "site":"http://http://ri.ambev.com.br"
+    },
+    {
+      "nome":"AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A",
+      "codigo-cvm":"24961",
+      "tickers":[
+        "AMBP3"
+      ],
+      "nome-pregao":"AMBIPAR",
+      "cnpj":"12.648.266/0001-24",
+      "ramo-atividade":"Gerenciamento E Valorização de Resíduos. Bem Como. Prestação de Serviços de Atendimento A Emergência.",
+      "setores":[
+        "UTILIDADE PÚBLICA",
+        "ÁGUA E SANEAMENTO"
+      ],
+      "site":""
     },
     {
       "nome":"AMPLA ENERGIA E SERVICOS S.A.",
@@ -327,7 +342,7 @@
       "nome":"AURA MINERALS INC.",
       "codigo-cvm":"80187",
       "tickers":[
-
+        "AURA32"
       ],
       "nome-pregao":"AURA 360",
       "cnpj":"07.857.093/0001-14",
@@ -343,12 +358,14 @@
       "nome":"AZEVEDO E TRAVASSOS S.A.",
       "codigo-cvm":"11975",
       "tickers":[
+        "AZEV1",
+        "AZEV2",
         "AZEV3",
         "AZEV4"
       ],
       "nome-pregao":"AZEVEDO",
       "cnpj":"61.351.532/0001-68",
-      "ramo-atividade":"Execução de Obras de Construção Pesada Junto A Orgãos Públicos",
+      "ramo-atividade":"Execução de Obras de Construção Pesada Junto à Orgãos Púbicos",
       "setores":[
         "BENS INDUSTRIAIS",
         "CONSTRUÇÃO E ENGENHARIA",
@@ -555,6 +572,7 @@
       "nome":"BCO ABC BRASIL S.A.",
       "codigo-cvm":"20958",
       "tickers":[
+        "ABCB10",
         "ABCB4"
       ],
       "nome-pregao":"ABC BRASIL",
@@ -823,25 +841,10 @@
       "site":"http://www.santander.com.br"
     },
     {
-      "nome":"BETA SECURITIZADORA S.A.",
-      "codigo-cvm":"19747",
-      "tickers":[
-
-      ],
-      "nome-pregao":"BETA SECURIT",
-      "cnpj":"07.021.459/0001-10",
-      "ramo-atividade":"Desenvolver Operações Através Da Securitização de Créditos Imobiliários E Creditos Do Agronegócio",
-      "setores":[
-        "FINANCEIRO",
-        "SECURITIZADORAS DE RECEBÍVEIS"
-      ],
-      "site":"http://www.betasecuritizadora.com.br"
-    },
-    {
       "nome":"BETAPART PARTICIPACOES S.A.",
       "codigo-cvm":"17884",
       "tickers":[
-
+        
       ],
       "nome-pregao":"BETAPART",
       "cnpj":"02.762.124/0001-30",
@@ -871,7 +874,7 @@
       "nome":"BIOMM S.A.",
       "codigo-cvm":"19305",
       "tickers":[
-        "BIOM11",
+        "BIOM1",
         "BIOM3"
       ],
       "nome-pregao":"BIOMM",
@@ -903,7 +906,7 @@
       "nome":"BIOTOSCANA INVESTMENTS S.A.",
       "codigo-cvm":"80179",
       "tickers":[
-        "GBIO33"
+        
       ],
       "nome-pregao":"BIOTOSCANA",
       "cnpj":"19.688.956/0001-56",
@@ -934,7 +937,7 @@
       "nome":"BNDES PARTICIPACOES S.A. - BNDESPAR",
       "codigo-cvm":"16772",
       "tickers":[
-
+        
       ],
       "nome-pregao":"BNDESPAR",
       "cnpj":"00.383.281/0001-09",
@@ -945,6 +948,21 @@
         "SERVIÇOS FINANCEIROS DIVERSOS"
       ],
       "site":"http://http://www.bndes.gov.br"
+    },
+    {
+      "nome":"BOA VISTA SERVIÇOS S.A.",
+      "codigo-cvm":"25135",
+      "tickers":[
+        "BOAS3"
+      ],
+      "nome-pregao":"BOA VISTA",
+      "cnpj":"11.725.176/0001-27",
+      "ramo-atividade":"Atividades de Cobrança E Informações Cadastrais; Concessão de Crédito Pelas Oscip; Holdings de Instituições Não-financeiras; Consultoria em Tecnologia Da Informação; E Suporte Técnico E Manutenção.",
+      "setores":[
+        "FINANCEIRO",
+        "SERVIÇOS FINANCEIROS DIVERSOS"
+      ],
+      "site":""
     },
     {
       "nome":"BOMBRIL S.A.",
@@ -997,7 +1015,7 @@
       "nome":"BRADESCO LEASING S.A. ARREND MERCANTIL",
       "codigo-cvm":"19640",
       "tickers":[
-
+        
       ],
       "nome-pregao":"BRADESCO LSG",
       "cnpj":"47.509.120/0001-82",
@@ -1080,7 +1098,7 @@
       "nome":"BRAZIL REALTY CIA SECURIT. CRÉD. IMOBILIÁRIOS",
       "codigo-cvm":"19720",
       "tickers":[
-
+        
       ],
       "nome-pregao":"BRAZIL REALT",
       "cnpj":"07.119.838/0001-48",
@@ -1095,7 +1113,7 @@
       "nome":"BRAZILIAN FINANCE E REAL ESTATE S.A.",
       "codigo-cvm":"17922",
       "tickers":[
-
+        
       ],
       "nome-pregao":"BRAZILIAN FR",
       "cnpj":"02.762.113/0001-50",
@@ -1111,7 +1129,7 @@
       "nome":"BRAZILIAN SECURITIES CIA SECURITIZACAO",
       "codigo-cvm":"18759",
       "tickers":[
-
+        
       ],
       "nome-pregao":"BRAZILIAN SC",
       "cnpj":"03.767.538/0001-14",
@@ -1140,21 +1158,6 @@
       "site":"http://www.brb.com.br"
     },
     {
-      "nome":"BRC SECURITIZADORA S.A.",
-      "codigo-cvm":"20672",
-      "tickers":[
-
-      ],
-      "nome-pregao":"BRC SECURIT",
-      "cnpj":"08.653.753/0001-08",
-      "ramo-atividade":"Aquisição E Securitização de Recebíveis Imobiliários",
-      "setores":[
-        "FINANCEIRO",
-        "SECURITIZADORAS DE RECEBÍVEIS"
-      ],
-      "site":"http://www.bresco.com.br"
-    },
-    {
       "nome":"BRF S.A.",
       "codigo-cvm":"16292",
       "tickers":[
@@ -1174,7 +1177,7 @@
       "nome":"BRPR 56 SECURITIZADORA CRED IMOB S.A.",
       "codigo-cvm":"19984",
       "tickers":[
-
+        
       ],
       "nome-pregao":"BRPR 56 SEC",
       "cnpj":"06.137.677/0001-52",
@@ -1201,26 +1204,10 @@
       "site":"http://www.brq.com"
     },
     {
-      "nome":"BV LEASING - ARRENDAMENTO MERCANTIL S.A.",
-      "codigo-cvm":"20133",
-      "tickers":[
-
-      ],
-      "nome-pregao":"BV LEASING",
-      "cnpj":"01.858.774/0001-10",
-      "ramo-atividade":"Arrendamento Mercantil",
-      "setores":[
-        "FINANCEIRO",
-        "INTERMEDIÁRIOS FINANCEIROS",
-        "SOC. ARRENDAMENTO MERCANTIL"
-      ],
-      "site":"http://www.bancovotorantim.com.br"
-    },
-    {
       "nome":"CABINDA PARTICIPACOES S.A.",
       "codigo-cvm":"19119",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CABINDA PART",
       "cnpj":"04.030.182/0001-02",
@@ -1234,7 +1221,7 @@
       "nome":"CACHOEIRA PAULISTA TRANSMISSORA ENERGIA S.A.",
       "codigo-cvm":"22683",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CACHOEIRA",
       "cnpj":"05.336.882/0001-84",
@@ -1249,7 +1236,7 @@
       "nome":"CACONDE PARTICIPACOES S.A.",
       "codigo-cvm":"19135",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CACONDE PART",
       "cnpj":"04.031.213/0001-31",
@@ -1290,20 +1277,6 @@
         "CONSUMO NÃO CÍCLICO"
       ],
       "site":"http://www.camilalimentos.com.br"
-    },
-    {
-      "nome":"CAPITALPART PARTICIPACOES S.A.",
-      "codigo-cvm":"17493",
-      "tickers":[
-
-      ],
-      "nome-pregao":"CAPITALPART",
-      "cnpj":"02.591.787/0001-39",
-      "ramo-atividade":"Participação em Outras Sociedades.",
-      "setores":[
-        "OUTROS"
-      ],
-      "site":"http://http://capitalpartparticipacoes.mzweb.com.br"
     },
     {
       "nome":"CCR S.A.",
@@ -1356,7 +1329,7 @@
       "nome":"CEMIG DISTRIBUICAO S.A.",
       "codigo-cvm":"20303",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CEMIG DIST",
       "cnpj":"06.981.180/0001-16",
@@ -1371,7 +1344,7 @@
       "nome":"CEMIG GERACAO E TRANSMISSAO S.A.",
       "codigo-cvm":"20320",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CEMIG GT",
       "cnpj":"06.981.176/0001-58",
@@ -1428,7 +1401,7 @@
         "SAÚDE",
         "SERV.MÉD.HOSPIT..ANÁLISES E DIAGNÓSTICOS"
       ],
-      "site":"http://www.alliar.com/ri"
+      "site":"http://http://ri.alliar.com/"
     },
     {
       "nome":"CESP - CIA ENERGETICA DE SAO PAULO",
@@ -1467,8 +1440,6 @@
       "nome":"CIA CATARINENSE DE AGUAS E SANEAM.-CASAN",
       "codigo-cvm":"16861",
       "tickers":[
-        "CASN1",
-        "CASN2",
         "CASN3",
         "CASN4"
       ],
@@ -1814,7 +1785,7 @@
       "nome":"CIA PAULISTA DE FORCA E LUZ",
       "codigo-cvm":"3824",
       "tickers":[
-
+        
       ],
       "nome-pregao":"PAUL F LUZ",
       "cnpj":"33.050.196/0001-88",
@@ -1829,7 +1800,7 @@
       "nome":"CIA PIRATININGA DE FORCA E LUZ",
       "codigo-cvm":"19275",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CPFL PIRATIN",
       "cnpj":"04.172.213/0001-51",
@@ -1959,7 +1930,7 @@
       "nome":"CIBRASEC - COMPANHIA BRASILEIRA DE SECURITIZACAO",
       "codigo-cvm":"18287",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CIBRASEC",
       "cnpj":"02.105.040/0001-23",
@@ -2036,7 +2007,7 @@
       "nome":"CONC AUTO RAPOSO TAVARES S.A.",
       "codigo-cvm":"22268",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CONC RAPOSO",
       "cnpj":"10.531.501/0001-58",
@@ -2052,7 +2023,7 @@
       "nome":"CONC DO AEROPORTO INTERNACIONAL DE GUARULHOS S.A.",
       "codigo-cvm":"23515",
       "tickers":[
-
+        
       ],
       "nome-pregao":"GRUAIRPORT",
       "cnpj":"15.578.569/0001-06",
@@ -2068,7 +2039,7 @@
       "nome":"CONC ECOVIAS IMIGRANTES S.A.",
       "codigo-cvm":"20397",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ECOVIAS",
       "cnpj":"02.509.491/0001-26",
@@ -2084,7 +2055,7 @@
       "nome":"CONC RIO-TERESOPOLIS S.A.",
       "codigo-cvm":"19208",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CONC RIO TER",
       "cnpj":"00.938.574/0001-05",
@@ -2100,7 +2071,7 @@
       "nome":"CONC ROD AYRTON SENNA E CARV PINTO S.A.-ECOPISTAS",
       "codigo-cvm":"22411",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ECOPISTAS",
       "cnpj":"10.841.050/0001-55",
@@ -2116,7 +2087,7 @@
       "nome":"CONC ROD.OESTE SP VIAOESTE S.A",
       "codigo-cvm":"21024",
       "tickers":[
-
+        
       ],
       "nome-pregao":"VIAOESTE",
       "cnpj":"02.415.408/0001-50",
@@ -2132,7 +2103,7 @@
       "nome":"CONC RODOVIAS DO TIETÊ S.A.",
       "codigo-cvm":"22721",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ROD TIETE",
       "cnpj":"10.678.505/0001-63",
@@ -2148,7 +2119,7 @@
       "nome":"CONC ROTA DAS BANDEIRAS S.A.",
       "codigo-cvm":"22071",
       "tickers":[
-
+        
       ],
       "nome-pregao":"RT BANDEIRAS",
       "cnpj":"10.647.979/0001-48",
@@ -2164,7 +2135,7 @@
       "nome":"CONC SIST ANHANG-BANDEIRANT S.A. AUTOBAN",
       "codigo-cvm":"20192",
       "tickers":[
-
+        
       ],
       "nome-pregao":"AUTOBAN",
       "cnpj":"02.451.848/0001-62",
@@ -2314,7 +2285,7 @@
       "nome":"CPFL ENERGIAS RENOVÁVEIS S.A.",
       "codigo-cvm":"20540",
       "tickers":[
-        "CPRE3"
+        
       ],
       "nome-pregao":"CPFL RENOVAV",
       "cnpj":"08.439.659/0001-50",
@@ -2329,7 +2300,7 @@
       "nome":"CPFL GERACAO DE ENERGIA S.A.",
       "codigo-cvm":"18953",
       "tickers":[
-
+        
       ],
       "nome-pregao":"CPFL GERACAO",
       "cnpj":"03.953.509/0001-47",
@@ -2405,9 +2376,26 @@
       "site":"http://http://www.isacteep.com.br"
     },
     {
+      "nome":"CURY CONSTRUTORA E INCORPORADORA S.A.",
+      "codigo-cvm":"25100",
+      "tickers":[
+        "CURY3"
+      ],
+      "nome-pregao":"CURY S/A",
+      "cnpj":"08.797.760/0001-83",
+      "ramo-atividade":"Somos Uma Companhia Com Foco Na Incorporação E Construção de Empreendimentos Residenciais Enquadrados No Programa Habitacional Minha Casa Minha Vida E Sistema Brasileiro de Poupança E Empréstimosbpe",
+      "setores":[
+        "CONSTRUÇÃO CIVIL",
+        "CONSUMO CÍCLICO",
+        "INCORPORAÇÕES"
+      ],
+      "site":""
+    },
+    {
       "nome":"CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.",
       "codigo-cvm":"23310",
       "tickers":[
+        "CVCB11",
         "CVCB3"
       ],
       "nome-pregao":"CVC BRASIL",
@@ -2452,6 +2440,22 @@
       "site":"http://www.ccpsa.com.br"
     },
     {
+      "nome":"D1000 VAREJO FARMA PARTICIPAÇÕES S.A.",
+      "codigo-cvm":"25046",
+      "tickers":[
+        "DMVF3"
+      ],
+      "nome-pregao":"D1000VFARMA",
+      "cnpj":"12.108.897/0001-50",
+      "ramo-atividade":"A Companhia Tem Por Objeto A Participação. Como Sócia Ou Acionista. em Outras Sociedades Do Varejo Farmacêutico. Nacionais Ou Estrangeiras.",
+      "setores":[
+        "COMÉRCIO E DISTRIBUIÇÃO",
+        "MEDICAMENTOS E OUTROS PRODUTOS",
+        "SAÚDE"
+      ],
+      "site":"http://www.d1000varejofarma.com.br/ri"
+    },
+    {
       "nome":"DIAGNOSTICOS DA AMERICA S.A.",
       "codigo-cvm":"19623",
       "tickers":[
@@ -2470,7 +2474,7 @@
       "nome":"DIBENS LEASING S.A. - ARREND.MERCANTIL",
       "codigo-cvm":"14214",
       "tickers":[
-
+        
       ],
       "nome-pregao":"DIBENS LSG",
       "cnpj":"65.654.303/0001-73",
@@ -2536,6 +2540,7 @@
       "nome":"DOMMO ENERGIA S.A.",
       "codigo-cvm":"23493",
       "tickers":[
+        "DMMO1",
         "DMMO11",
         "DMMO3"
       ],
@@ -2552,7 +2557,6 @@
       "nome":"DTCOM - DIRECT TO COMPANY S.A.",
       "codigo-cvm":"18597",
       "tickers":[
-        "DTCY1",
         "DTCY3",
         "DTCY4"
       ],
@@ -2586,7 +2590,7 @@
       "nome":"ECO SECURITIZADORA DIREITOS CRED AGRONEGÓCIO S.A.",
       "codigo-cvm":"21741",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ECO SEC AGRO",
       "cnpj":"10.753.164/0001-43",
@@ -2601,7 +2605,7 @@
       "nome":"ECORODOVIAS CONCESSÕES E SERVIÇOS S.A.",
       "codigo-cvm":"21903",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ECON",
       "cnpj":"08.873.873/0001-10",
@@ -2648,7 +2652,7 @@
       "nome":"EDP ESPIRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A.",
       "codigo-cvm":"15342",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ESCELSA",
       "cnpj":"28.152.650/0001-71",
@@ -2663,7 +2667,7 @@
       "nome":"EDP SÃO PAULO DISTRIBUIÇÃO DE ENERGIA S.A.",
       "codigo-cvm":"16985",
       "tickers":[
-
+        
       ],
       "nome-pregao":"EBE",
       "cnpj":"02.302.100/0001-06",
@@ -2690,23 +2694,6 @@
         "MÁQUINAS E EQUIPAMENTOS"
       ],
       "site":"http://www.altona.com.br"
-    },
-    {
-      "nome":"ELEKEIROZ S.A.",
-      "codigo-cvm":"4359",
-      "tickers":[
-        "ELEK3",
-        "ELEK4"
-      ],
-      "nome-pregao":"ELEKEIROZ",
-      "cnpj":"13.788.120/0001-47",
-      "ramo-atividade":"Industrialização E Comercialização de Produtos Químicos",
-      "setores":[
-        "MATERIAIS BÁSICOS",
-        "PETROQUÍMICOS",
-        "QUÍMICOS"
-      ],
-      "site":"http://www.elekeiroz.com.br"
     },
     {
       "nome":"ELEKTRO REDES S.A.",
@@ -2743,7 +2730,7 @@
       "nome":"ELETROPAULO METROP. ELET. SAO PAULO S.A.",
       "codigo-cvm":"14176",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ELETROPAULO",
       "cnpj":"61.695.227/0001-93",
@@ -2787,10 +2774,26 @@
       "site":"http://www.embraer.com.br"
     },
     {
+      "nome":"EMPREENDIMENTOS PAGUE MENOS S.A.",
+      "codigo-cvm":"22608",
+      "tickers":[
+        "PGMN3"
+      ],
+      "nome-pregao":"PAGUE MENOS",
+      "cnpj":"06.626.253/0001-51",
+      "ramo-atividade":"Comércio de Produtos Farmacêuticos. Perfumarias E Afins. Sem Manipulação de Fórmulas.",
+      "setores":[
+        "COMÉRCIO E DISTRIBUIÇÃO",
+        "MEDICAMENTOS E OUTROS PRODUTOS",
+        "SAÚDE"
+      ],
+      "site":"http://www.paguemenos.com.br/ri"
+    },
+    {
       "nome":"EMPRESA CONC RODOV DO NORTE S.A.ECONORTE",
       "codigo-cvm":"19011",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ECONORTE",
       "cnpj":"02.222.736/0001-30",
@@ -2838,7 +2841,7 @@
       "nome":"ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
       "codigo-cvm":"5576",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ENERSUL",
       "cnpj":"15.413.826/0001-50",
@@ -2932,7 +2935,7 @@
       "nome":"EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.",
       "codigo-cvm":"16608",
       "tickers":[
-
+        
       ],
       "nome-pregao":"EQTLMARANHAO",
       "cnpj":"06.272.793/0001-84",
@@ -3047,7 +3050,7 @@
       "nome":"FERREIRA GOMES ENERGIA S.A.",
       "codigo-cvm":"22977",
       "tickers":[
-
+        
       ],
       "nome-pregao":"FGENERGIA",
       "cnpj":"12.489.315/0001-23",
@@ -3062,6 +3065,7 @@
       "nome":"FERROVIA CENTRO-ATLANTICA S.A.",
       "codigo-cvm":"15369",
       "tickers":[
+        "VSPT1",
         "VSPT3",
         "VSPT4"
       ],
@@ -3191,7 +3195,7 @@
       "nome":"GAIA AGRO SECURITIZADORA S.A.",
       "codigo-cvm":"22764",
       "tickers":[
-
+        
       ],
       "nome-pregao":"GAIA AGRO",
       "cnpj":"14.876.090/0001-93",
@@ -3206,7 +3210,7 @@
       "nome":"GAIA SECURITIZADORA S.A.",
       "codigo-cvm":"20222",
       "tickers":[
-
+        
       ],
       "nome-pregao":"GAIA SECURIT",
       "cnpj":"07.587.384/0001-30",
@@ -3221,7 +3225,7 @@
       "nome":"GAMA PARTICIPACOES S.A.",
       "codigo-cvm":"17965",
       "tickers":[
-
+        
       ],
       "nome-pregao":"GAMA PART",
       "cnpj":"02.796.775/0001-40",
@@ -3348,6 +3352,38 @@
       "site":"http://www.grendene.com.br"
     },
     {
+      "nome":"GRUPO DE MODA SOMA S.A.",
+      "codigo-cvm":"25011",
+      "tickers":[
+        "SOMA3"
+      ],
+      "nome-pregao":"GRUPO SOMA",
+      "cnpj":"10.285.590/0001-08",
+      "ramo-atividade":"(i) A Confecção de Peças Do Vestuário. Exceto Roupas íntimas E As Confeccionadas Sob Medida; E (ii) O Comércio Varejista de Artigos de Vestuário E Acessórios de Qualquer Material.",
+      "setores":[
+        "COMÉRCIO",
+        "CONSUMO CÍCLICO",
+        "TECIDOS. VESTUÁRIO E CALÇADOS"
+      ],
+      "site":"http://www.somagrupo.com.br/ri"
+    },
+    {
+      "nome":"GRUPO MATEUS S.A.",
+      "codigo-cvm":"25186",
+      "tickers":[
+        "GMAT3"
+      ],
+      "nome-pregao":"GRUPO MATEUS",
+      "cnpj":"24.990.777/0001-09",
+      "ramo-atividade":"Holdings de Instituições Não Financeiras. Participação No Capital de Outras Sociedades. Na Condição de Acionista. Sócia Ou Quotista. em Caráter Permanente Ou Temporário. Como Controladora Ou Coligada.",
+      "setores":[
+        "ALIMENTOS",
+        "COMÉRCIO E DISTRIBUIÇÃO",
+        "CONSUMO NÃO CÍCLICO"
+      ],
+      "site":""
+    },
+    {
       "nome":"GRUPO SBF SA",
       "codigo-cvm":"24694",
       "tickers":[
@@ -3445,6 +3481,22 @@
       "site":"http://http://www.hercules.ind.br"
     },
     {
+      "nome":"HIDROVIAS DO BRASIL S.A.",
+      "codigo-cvm":"22675",
+      "tickers":[
+        "HBSA3"
+      ],
+      "nome-pregao":"HIDROVIAS",
+      "cnpj":"12.648.327/0001-53",
+      "ramo-atividade":"Operador de Logística Hidroviária Para Clientes de Commodities Agrícolas. Minerais. Combustíveis E Derivados E Carga. Integrando O Transporte Por Barcaças Com Operação de Terminais de Origem E Destino",
+      "setores":[
+        "BENS INDUSTRIAIS",
+        "TRANSPORTE",
+        "TRANSPORTE HIDROVIÁRIO"
+      ],
+      "site":"http://www.hbsa.com.br"
+    },
+    {
       "nome":"HOTEIS OTHON S.A.",
       "codigo-cvm":"6700",
       "tickers":[
@@ -3476,21 +3528,6 @@
         "SAÚDE"
       ],
       "site":"http://www.hypermarcas.com.br"
-    },
-    {
-      "nome":"IDEIASNET S.A.",
-      "codigo-cvm":"18414",
-      "tickers":[
-        "IDNT3"
-      ],
-      "nome-pregao":"IDEIASNET",
-      "cnpj":"02.365.069/0001-44",
-      "ramo-atividade":"Aquisição de Participações Diretas E Indiretas em Companhias Do Setor de Tecnologia. Mídia E Telecomunicações; E Gestão de Carteiras de Valores Mobiliários E Recursos Próprios E de Terceiros.",
-      "setores":[
-        "FINANCEIRO",
-        "SERVIÇOS FINANCEIROS DIVERSOS"
-      ],
-      "site":"http://www.ideiasnet.com.br"
     },
     {
       "nome":"IGB ELETRÔNICA S/A",
@@ -3589,7 +3626,7 @@
       "nome":"INNCORP S.A.",
       "codigo-cvm":"17558",
       "tickers":[
-
+        
       ],
       "nome-pregao":"SELECTPART",
       "cnpj":"02.604.860/0001-60",
@@ -3665,7 +3702,7 @@
       "nome":"INVESTIMENTOS E PARTICIP. EM INFRA S.A. - INVEPAR",
       "codigo-cvm":"18775",
       "tickers":[
-
+        
       ],
       "nome-pregao":"INVEPAR",
       "cnpj":"03.758.318/0001-24",
@@ -3729,7 +3766,7 @@
       "nome":"ITAPEBI GERACAO DE ENERGIA S.A.",
       "codigo-cvm":"19364",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ITAPEBI",
       "cnpj":"02.397.080/0001-96",
@@ -3778,7 +3815,7 @@
       "nome":"J. MACEDO S.A.",
       "codigo-cvm":"21156",
       "tickers":[
-
+        
       ],
       "nome-pregao":"J.MACEDO",
       "cnpj":"14.998.371/0001-19",
@@ -3845,7 +3882,7 @@
       ],
       "nome-pregao":"JOAO FORTES",
       "cnpj":"33.035.536/0001-00",
-      "ramo-atividade":"Incorporação E Construção de Imóveis; Execução Por Administração de Obras de Construção Civil",
+      "ramo-atividade":"Incorporação E Construção de Imóveis; Execução Por Administração de Obras de Construção Civil.",
       "setores":[
         "CONSTRUÇÃO CIVIL",
         "CONSUMO CÍCLICO",
@@ -3874,7 +3911,7 @@
       "nome":"JSL S.A.",
       "codigo-cvm":"22020",
       "tickers":[
-        "JSLG3"
+        "JSLG11"
       ],
       "nome-pregao":"JSL",
       "cnpj":"52.548.435/0001-79",
@@ -3939,6 +3976,22 @@
       "site":"http://www.klabin.com.br"
     },
     {
+      "nome":"LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+      "codigo-cvm":"25062",
+      "tickers":[
+        "LAVV3"
+      ],
+      "nome-pregao":"LAVVI",
+      "cnpj":"26.462.693/0001-28",
+      "ramo-atividade":"Incorporadora Imobiliária",
+      "setores":[
+        "CONSTRUÇÃO CIVIL",
+        "CONSUMO CÍCLICO",
+        "INCORPORAÇÕES"
+      ],
+      "site":"http://www.lavvi.com.br"
+    },
+    {
       "nome":"LIFEMED INDUSTRIAL EQUIP. DE ART. MÉD. HOSP. S.A.",
       "codigo-cvm":"24872",
       "tickers":[
@@ -3972,7 +4025,7 @@
       "nome":"LIGHT SERVICOS DE ELETRICIDADE S.A.",
       "codigo-cvm":"8036",
       "tickers":[
-
+        
       ],
       "nome-pregao":"LIGHT",
       "cnpj":"60.444.437/0001-46",
@@ -4002,7 +4055,7 @@
       "nome":"LITEL PARTICIPACOES S.A.",
       "codigo-cvm":"15091",
       "tickers":[
-
+        
       ],
       "nome-pregao":"LITEL",
       "cnpj":"00.743.065/0001-27",
@@ -4018,7 +4071,7 @@
       "nome":"LITELA PARTICIPAÇÕES S.A.",
       "codigo-cvm":"24759",
       "tickers":[
-
+        
       ],
       "nome-pregao":"LITELA",
       "cnpj":"05.495.546/0001-84",
@@ -4110,6 +4163,22 @@
       "site":"http://http://ri.lasa.com.br"
     },
     {
+      "nome":"LOJAS QUERO-QUERO S/A",
+      "codigo-cvm":"25038",
+      "tickers":[
+        "LJQQ3"
+      ],
+      "nome-pregao":"QUERO-QUERO",
+      "cnpj":"96.418.264/0218-02",
+      "ramo-atividade":"Comércio Varejista Especializado em Material de Construção. Eletrodomésticos E Móveis.",
+      "setores":[
+        "COMÉRCIO",
+        "CONSUMO CÍCLICO",
+        "PRODUTOS DIVERSOS"
+      ],
+      "site":""
+    },
+    {
       "nome":"LOJAS RENNER S.A.",
       "codigo-cvm":"8133",
       "tickers":[
@@ -4124,20 +4193,6 @@
         "TECIDOS. VESTUÁRIO E CALÇADOS"
       ],
       "site":"http://www.lojasrenner.com.br"
-    },
-    {
-      "nome":"LONGDIS S.A.",
-      "codigo-cvm":"17434",
-      "tickers":[
-
-      ],
-      "nome-pregao":"LONGDIS",
-      "cnpj":"02.338.534/0001-58",
-      "ramo-atividade":"Participação em Outras Sociedades.",
-      "setores":[
-        "OUTROS"
-      ],
-      "site":"http://http://longdis.mzweb.com.br"
     },
     {
       "nome":"LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.",
@@ -4318,6 +4373,22 @@
       "site":"http://www.marisa.com.br"
     },
     {
+      "nome":"MELNICK EVEN DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "codigo-cvm":"25119",
+      "tickers":[
+        "MELK3"
+      ],
+      "nome-pregao":"MELNICK",
+      "cnpj":"12.181.987/0001-77",
+      "ramo-atividade":"Construção. Incorporação. Loteamento E Comercialização de Condomínios E Empreendimentos Imobiliários de Qualquer Natureza.",
+      "setores":[
+        "CONSTRUÇÃO CIVIL",
+        "CONSUMO CÍCLICO",
+        "INCORPORAÇÕES"
+      ],
+      "site":""
+    },
+    {
       "nome":"MERCANTIL BRASIL FINANC S.A. C.F.I.",
       "codigo-cvm":"8540",
       "tickers":[
@@ -4421,7 +4492,7 @@
       "nome":"MGI - MINAS GERAIS PARTICIPAÇÕES S.A.",
       "codigo-cvm":"22942",
       "tickers":[
-
+        
       ],
       "nome-pregao":"MGI PARTICIP",
       "cnpj":"19.296.342/0001-29",
@@ -4581,7 +4652,7 @@
       "nome":"MRS LOGISTICA S.A.",
       "codigo-cvm":"17949",
       "tickers":[
-
+        
       ],
       "nome-pregao":"MRS LOGIST",
       "cnpj":"01.417.222/0001-77",
@@ -4601,7 +4672,7 @@
       ],
       "nome-pregao":"MRV",
       "cnpj":"08.343.492/0001-20",
-      "ramo-atividade":"Atividades de Incorporação E Construção atividades de Logística",
+      "ramo-atividade":"Atividades de Incorporação E Construção",
       "setores":[
         "CONSTRUÇÃO CIVIL",
         "CONSUMO CÍCLICO",
@@ -4641,6 +4712,21 @@
       "site":"http://www.mundial.com"
     },
     {
+      "nome":"MÉLIUZ S.A.",
+      "codigo-cvm":"25232",
+      "tickers":[
+        "CASH3"
+      ],
+      "nome-pregao":"MELIUZ",
+      "cnpj":"14.110.585/0001-07",
+      "ramo-atividade":"Portal Virtual Para Veiculação E Divulgação de Marcas. Produtos E Outros Materiais. Locação de Espaço Publicitário. Intermediação de Negócios. Licenciamento de Softwares E Participação em Sociedades.",
+      "setores":[
+        "PROGRAMAS E SERVIÇOS",
+        "TECNOLOGIA DA INFORMAÇÃO"
+      ],
+      "site":""
+    },
+    {
       "nome":"NATURA &CO HOLDING S.A.",
       "codigo-cvm":"24783",
       "tickers":[
@@ -4660,7 +4746,7 @@
       "nome":"NATURA COSMETICOS S.A.",
       "codigo-cvm":"19550",
       "tickers":[
-
+        
       ],
       "nome-pregao":"NATURA",
       "cnpj":"71.673.990/0001-77",
@@ -4753,7 +4839,7 @@
       "nome":"OCTANTE SECURITIZADORA S.A.",
       "codigo-cvm":"22390",
       "tickers":[
-
+        
       ],
       "nome-pregao":"OCTANTE SEC",
       "cnpj":"12.139.922/0001-63",
@@ -4814,7 +4900,7 @@
       "nome":"OPPORTUNITY ENERGIA E PARTICIPACOES S.A.",
       "codigo-cvm":"16942",
       "tickers":[
-
+        
       ],
       "nome-pregao":"OPPORT ENERG",
       "cnpj":"02.318.346/0001-68",
@@ -4843,7 +4929,7 @@
       "nome":"OURINVEST SECURITIZADORA SA",
       "codigo-cvm":"22250",
       "tickers":[
-
+        
       ],
       "nome-pregao":"OURINVESTSEC",
       "cnpj":"12.320.349/0001-90",
@@ -4873,7 +4959,7 @@
       "nome":"OURO VERDE LOCACAO E SERVICO S.A.",
       "codigo-cvm":"23280",
       "tickers":[
-
+        
       ],
       "nome-pregao":"OURO VERDE",
       "cnpj":"75.609.123/0001-23",
@@ -4883,6 +4969,21 @@
         "NÃO CLASSIFICADOS"
       ],
       "site":"http://www.ouroverde.net.br"
+    },
+    {
+      "nome":"PADTEC HOLDING S.A.",
+      "codigo-cvm":"18414",
+      "tickers":[
+        "PDTC3"
+      ],
+      "nome-pregao":"PADTEC",
+      "cnpj":"02.365.069/0001-44",
+      "ramo-atividade":"Participação em Outras Sociedades. Fdos de Investimento. Carteiras de Valores Mobiliários Ou Outros Veículos de Investimento. Que Atuem Na área de Tecnologia. em Especial Na Padtec S.A.",
+      "setores":[
+        "FINANCEIRO",
+        "SERVIÇOS FINANCEIROS DIVERSOS"
+      ],
+      "site":"http://www.padtec.com.br"
     },
     {
       "nome":"PANATLANTICA S.A.",
@@ -4905,7 +5006,7 @@
       "nome":"PARANA BCO S.A.",
       "codigo-cvm":"20729",
       "tickers":[
-
+        
       ],
       "nome-pregao":"PARANA",
       "cnpj":"14.388.334/0001-99",
@@ -4937,7 +5038,7 @@
       "nome":"PATRIA CIA SECURITIZADORA DE CRED IMOB",
       "codigo-cvm":"18236",
       "tickers":[
-
+        
       ],
       "nome-pregao":"PATRIA SEC",
       "cnpj":"02.736.470/0001-43",
@@ -4968,7 +5069,7 @@
       "nome":"PDG COMPANHIA SECURITIZADORA",
       "codigo-cvm":"21644",
       "tickers":[
-
+        
       ],
       "nome-pregao":"PDG SECURIT",
       "cnpj":"09.538.973/0001-53",
@@ -4994,6 +5095,22 @@
         "INCORPORAÇÕES"
       ],
       "site":"http://www.pdg.com.br"
+    },
+    {
+      "nome":"PET CENTER COMERCIO E PARTICIPACOES S.A.",
+      "codigo-cvm":"25089",
+      "tickers":[
+        "PETZ3"
+      ],
+      "nome-pregao":"PETZ",
+      "cnpj":"18.328.118/0001-09",
+      "ramo-atividade":"Importação. Exportação E Comércio (inclusive Via Internet E-commerce) de Artigos Para Animais. Plantas. Flores. Sementes; Hospital Veterinário. Consultório. Clínica Veterinária. Banho/tosa E Hotel.",
+      "setores":[
+        "COMÉRCIO",
+        "CONSUMO CÍCLICO",
+        "PRODUTOS DIVERSOS"
+      ],
+      "site":"http://www.petz.com.br"
     },
     {
       "nome":"PETRO RIO S.A.",
@@ -5059,6 +5176,22 @@
       "site":"http://www.pettenati.com.br"
     },
     {
+      "nome":"PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "codigo-cvm":"25070",
+      "tickers":[
+        "PLPL3"
+      ],
+      "nome-pregao":"PLANOEPLANO",
+      "cnpj":"24.230.275/0001-80",
+      "ramo-atividade":"(i) Incorporação. Construção E Comercialização de Empreendimentos Imobiliários; (ii) Locação de Imóveis Próprios; (iii) Administração de Carteira de Recebíveis de Financiamentos. Empréstimos Imobiliár",
+      "setores":[
+        "CONSTRUÇÃO CIVIL",
+        "CONSUMO CÍCLICO",
+        "INCORPORAÇÕES"
+      ],
+      "site":"http://www.planoeplanori.com.br"
+    },
+    {
       "nome":"PLASCAR PARTICIPACOES INDUSTRIAIS S.A.",
       "codigo-cvm":"13471",
       "tickers":[
@@ -5078,7 +5211,7 @@
       "nome":"POLO CAPITAL SECURITIZADORA S.A",
       "codigo-cvm":"22160",
       "tickers":[
-
+        
       ],
       "nome-pregao":"POLO CAP SEC",
       "cnpj":"12.261.588/0001-16",
@@ -5219,7 +5352,7 @@
       "nome":"PRODUTORES ENERGET.DE MANSO S.A.- PROMAN",
       "codigo-cvm":"19232",
       "tickers":[
-
+        
       ],
       "nome-pregao":"PROMAN",
       "cnpj":"02.291.077/0001-93",
@@ -5250,7 +5383,7 @@
       "nome":"PROMPT PARTICIPACOES S.A.",
       "codigo-cvm":"18333",
       "tickers":[
-
+        
       ],
       "nome-pregao":"PROMPT PART",
       "cnpj":"02.992.449/0001-09",
@@ -5283,7 +5416,7 @@
       ],
       "nome-pregao":"QUALITY SOFT",
       "cnpj":"35.791.391/0001-94",
-      "ramo-atividade":"Serviços Nos Setores de Informática. Auditoria de Sistemas Softwares; Treinamento.desenvolvimento de Sistemas de Suporte Técnico. Hardware E Software em Geral; Design Gráfico E Editoração Eletrónica.",
+      "ramo-atividade":"Serviços Nos Setores de Informática. Auditoria de Sistemas Softwares; Treinamentos.desenvolvimento de Sistemas de Suporte Técnico; Hardware E Software em Geral; Design Gráfico E Editoração Eletronica.",
       "setores":[
         "PROGRAMAS E SERVIÇOS",
         "TECNOLOGIA DA INFORMAÇÃO"
@@ -5310,7 +5443,7 @@
       "nome":"RAIZEN ENERGIA S.A.",
       "codigo-cvm":"23230",
       "tickers":[
-
+        
       ],
       "nome-pregao":"RAIZEN ENERG",
       "cnpj":"08.070.508/0001-78",
@@ -5343,7 +5476,7 @@
       "nome":"RB CAPITAL COMPANHIA DE SECURITIZAÇÃO",
       "codigo-cvm":"18406",
       "tickers":[
-
+        
       ],
       "nome-pregao":"RBCAPITALRES",
       "cnpj":"02.773.542/0001-22",
@@ -5358,7 +5491,7 @@
       "nome":"REAL AI PIC SEC DE CREDITOS IMOBILIARIO S.A.",
       "codigo-cvm":"18430",
       "tickers":[
-
+        
       ],
       "nome-pregao":"WTORRE PIC",
       "cnpj":"02.643.896/0001-52",
@@ -5453,7 +5586,7 @@
       "nome":"RGE SUL DISTRIBUIDORA DE ENERGIA S.A.",
       "codigo-cvm":"16527",
       "tickers":[
-
+        
       ],
       "nome-pregao":"AES SUL",
       "cnpj":"02.016.440/0001-62",
@@ -5500,7 +5633,7 @@
       "nome":"RODOVIAS DAS COLINAS S.A.",
       "codigo-cvm":"23167",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ROD COLINAS",
       "cnpj":"03.025.305/0001-46",
@@ -5532,7 +5665,7 @@
       "nome":"RUMO MALHA NORTE S.A.",
       "codigo-cvm":"15300",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ALL NORTE",
       "cnpj":"24.962.466/0001-36",
@@ -5548,7 +5681,7 @@
       "nome":"RUMO MALHA PAULISTA S.A.",
       "codigo-cvm":"17930",
       "tickers":[
-
+        
       ],
       "nome-pregao":"ALL PAULISTA",
       "cnpj":"02.502.844/0001-66",
@@ -5580,7 +5713,7 @@
       "nome":"SALUS INFRAESTRUTURA PORTUARIA SA",
       "codigo-cvm":"23540",
       "tickers":[
-
+        
       ],
       "nome-pregao":"SALUS INFRA",
       "cnpj":"15.494.541/0001-90",
@@ -5596,7 +5729,7 @@
       "nome":"SANESALTO SANEAMENTO S.A.",
       "codigo-cvm":"19593",
       "tickers":[
-
+        
       ],
       "nome-pregao":"SANESALTO",
       "cnpj":"02.724.983/0001-34",
@@ -5628,7 +5761,7 @@
       "nome":"SANTHER FAB DE PAPEL STA THEREZINHA S.A.",
       "codigo-cvm":"14923",
       "tickers":[
-
+        
       ],
       "nome-pregao":"SANTHER",
       "cnpj":"61.101.895/0001-45",
@@ -5644,7 +5777,7 @@
       "nome":"SANTO ANTONIO ENERGIA S.A.",
       "codigo-cvm":"23388",
       "tickers":[
-
+        
       ],
       "nome-pregao":"STO ANTONIO",
       "cnpj":"09.391.823/0001-60",
@@ -5757,6 +5890,22 @@
       "site":"http://www.schulz.com.br"
     },
     {
+      "nome":"SEQUOIA LOGISTICA E TRANSPORTES S.A",
+      "codigo-cvm":"25160",
+      "tickers":[
+        "SEQL3"
+      ],
+      "nome-pregao":"SEQUOIA LOG",
+      "cnpj":"01.599.101/0001-93",
+      "ramo-atividade":"Logística.transporte Rodoviário de Cargas em Geral. Municipal. Intermunicipal. Estadual E Interestadual. Serviços de Entrega Rápida E Carga E Descarga. Dentre Outros.",
+      "setores":[
+        "BENS INDUSTRIAIS",
+        "SERVIÇOS",
+        "SERVIÇOS DIVERSOS"
+      ],
+      "site":""
+    },
+    {
       "nome":"SER EDUCACIONAL S.A.",
       "codigo-cvm":"23221",
       "tickers":[
@@ -5788,6 +5937,21 @@
         "CONSUMO NÃO CÍCLICO"
       ],
       "site":"http://www.aliperti.com.br"
+    },
+    {
+      "nome":"SIMPAR S.A.",
+      "codigo-cvm":"25003",
+      "tickers":[
+        "SIMH3"
+      ],
+      "nome-pregao":"SIMPAR",
+      "cnpj":"07.415.333/0001-20",
+      "ramo-atividade":"Participação em Outras Sociedades Empresariais. Como Sócia Ou Acionista.",
+      "setores":[
+        "FINANCEIRO",
+        "HOLDINGS DIVERSIFICADAS"
+      ],
+      "site":"http://HTTP://RI.SIMPAR.COM.BR/PT-BR"
     },
     {
       "nome":"SINQIA S.A.",
@@ -5862,30 +6026,13 @@
       ],
       "nome-pregao":"SONDOTECNICA",
       "cnpj":"33.386.210/0001-19",
-      "ramo-atividade":"Consultoria Técnica E Económica Na área de Engenharia E Arquitetura",
+      "ramo-atividade":"Serviços de Engenharia.",
       "setores":[
         "BENS INDUSTRIAIS",
         "CONSTRUÇÃO E ENGENHARIA",
         "ENGENHARIA CONSULTIVA"
       ],
       "site":"http://www.sondotecnica.com.br"
-    },
-    {
-      "nome":"SPRINGER S.A.",
-      "codigo-cvm":"10960",
-      "tickers":[
-        "SPRI3",
-        "SPRI5",
-        "SPRI6"
-      ],
-      "nome-pregao":"SPRINGER",
-      "cnpj":"92.929.520/0001-00",
-      "ramo-atividade":"Indústria E Comércio. Importação E Exportação de Eletrodomésticos",
-      "setores":[
-        "FINANCEIRO",
-        "HOLDINGS DIVERSIFICADAS"
-      ],
-      "site":"http://www.springergroup.com.br"
     },
     {
       "nome":"SPRINGS GLOBAL PARTICIPACOES S.A.",
@@ -5938,7 +6085,7 @@
       "nome":"SUDESTE S.A.",
       "codigo-cvm":"16586",
       "tickers":[
-
+        
       ],
       "nome-pregao":"SUDESTE S/A",
       "cnpj":"02.062.747/0001-08",
@@ -5952,7 +6099,7 @@
       "nome":"SUL 116 PARTICIPACOES S.A.",
       "codigo-cvm":"16438",
       "tickers":[
-
+        
       ],
       "nome-pregao":"SUL 116 PART",
       "cnpj":"01.957.772/0001-89",
@@ -6054,11 +6201,11 @@
       "nome":"TCP TERMINAL DE CONTEINERES DE PARANAGUA SA",
       "codigo-cvm":"24066",
       "tickers":[
-
+        
       ],
       "nome-pregao":"TCP TERMINAL",
       "cnpj":"12.919.786/0001-24",
-      "ramo-atividade":"Exploração de Instalações Portuárias E de área. Atividade de Operador Portuário. de Movimentação E Armazenagem de Carga E Contêineres. Veículos Automotivos. Bens. Produtos E Equipamentos.",
+      "ramo-atividade":"Exploração de Instalações Portuárias E de área. Atividade de Operador Portuário. De movimentação E Armazenagem de Carga E Contêineres. Veículos Automotivos. Bens. Produtos E equipamentos.",
       "setores":[
         "NÃO CLASSIFICADO",
         "NÃO CLASSIFICADOS"
@@ -6173,7 +6320,7 @@
       ],
       "nome-pregao":"TELEBRAS",
       "cnpj":"00.336.701/0001-04",
-      "ramo-atividade":"Consecução Dos Objetivos Previstos No Programa Nacional de Banda Larga - (dec. 7.175 de 12/05/2010)",
+      "ramo-atividade":"Consecução E Execução Das Políticas Públicas de Telecomunicação (decreto 9.612/2018).",
       "setores":[
         "COMUNICAÇÕES",
         "TELECOMUNICAÇÕES"
@@ -6189,7 +6336,7 @@
       ],
       "nome-pregao":"TELEF BRASIL",
       "cnpj":"02.558.157/0001-62",
-      "ramo-atividade":"Prestação de Serviços Públicos de Telecomunicações",
+      "ramo-atividade":"Prestação de Serviços de Telecomunicações. Exploração de Serviços de Valor Adicionado E Soluções Integradas.",
       "setores":[
         "COMUNICAÇÕES",
         "TELECOMUNICAÇÕES"
@@ -6200,11 +6347,11 @@
       "nome":"TERMELÉTRICA PERNAMBUCO III S.A.",
       "codigo-cvm":"23329",
       "tickers":[
-
+        
       ],
       "nome-pregao":"TERM. PE III",
       "cnpj":"10.502.676/0001-37",
-      "ramo-atividade":"Implantação E Exploração de Empreendimentos de Geração de Energia Elétrica E Infra¬estrutura Correlata. Comercialização de Energia Elétrica Gerada em Tais Empreendimentos.",
+      "ramo-atividade":"Implantação E Exploração de Empreendimentos de Geração de Energia Elétrica E Infra¬estrutura correlata. Comercialização de Energia Elétrica Gerada em Tais Empreendimentos.",
       "setores":[
         "ENERGIA ELÉTRICA",
         "UTILIDADE PÚBLICA"
@@ -6215,7 +6362,7 @@
       "nome":"TERMINAL GARAGEM MENEZES CORTES S.A.",
       "codigo-cvm":"18538",
       "tickers":[
-
+        
       ],
       "nome-pregao":"MENEZES CORT",
       "cnpj":"02.664.042/0001-52",
@@ -6230,7 +6377,7 @@
       "nome":"TERMOPERNAMBUCO S.A.",
       "codigo-cvm":"19852",
       "tickers":[
-
+        
       ],
       "nome-pregao":"TERMOPE",
       "cnpj":"03.795.050/0001-09",
@@ -6278,7 +6425,7 @@
       "nome":"TIM PARTICIPACOES S.A.",
       "codigo-cvm":"17639",
       "tickers":[
-        "TIMP3"
+        
       ],
       "nome-pregao":"TIM PART S/A",
       "cnpj":"02.558.115/0001-21",
@@ -6288,6 +6435,21 @@
         "TELECOMUNICAÇÕES"
       ],
       "site":"http://www.tim.com.br/ri"
+    },
+    {
+      "nome":"TIM S.A.",
+      "codigo-cvm":"24929",
+      "tickers":[
+        "TIMS3"
+      ],
+      "nome-pregao":"TIM",
+      "cnpj":"02.421.421/0001-11",
+      "ramo-atividade":"",
+      "setores":[
+        "COMUNICAÇÕES",
+        "TELECOMUNICAÇÕES"
+      ],
+      "site":""
     },
     {
       "nome":"TOTVS S.A.",
@@ -6319,6 +6481,22 @@
         "TRANSPORTE"
       ],
       "site":"http://www.triunfo.com"
+    },
+    {
+      "nome":"TRACK & FIELD CO S.A.",
+      "codigo-cvm":"25208",
+      "tickers":[
+        "TFCO4"
+      ],
+      "nome-pregao":"TRACK FIELD",
+      "cnpj":"59.418.806/0001-47",
+      "ramo-atividade":"Atuação No Varejo Dos Setores de Vestuário. Acessórios E Calçados. Dentre Outros.",
+      "setores":[
+        "CONSUMO CÍCLICO",
+        "TECIDOS. VESTUÁRIO E CALÇADOS",
+        "VESTUÁRIO"
+      ],
+      "site":""
     },
     {
       "nome":"TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
@@ -6374,7 +6552,7 @@
       "nome":"TRIÂNGULO DO SOL AUTO-ESTRADAS S.A.",
       "codigo-cvm":"23060",
       "tickers":[
-
+        
       ],
       "nome-pregao":"TRIANGULOSOL",
       "cnpj":"02.509.186/0001-34",
@@ -6408,7 +6586,7 @@
       "nome":"TRUE SECURITIZADORA S.A.",
       "codigo-cvm":"22276",
       "tickers":[
-
+        
       ],
       "nome-pregao":"TRUESEC",
       "cnpj":"12.130.744/0001-00",
@@ -6470,7 +6648,7 @@
       "nome":"UNIDAS S.A.",
       "codigo-cvm":"21555",
       "tickers":[
-
+        
       ],
       "nome-pregao":"UNIDAS",
       "cnpj":"04.437.534/0001-30",
@@ -6504,7 +6682,7 @@
       "nome":"UPTICK PARTICIPACOES S.A.",
       "codigo-cvm":"16624",
       "tickers":[
-
+        
       ],
       "nome-pregao":"UPTICK",
       "cnpj":"02.162.616/0001-94",
@@ -6569,7 +6747,7 @@
       "nome":"VERT COMPANHIA SECURITIZADORA",
       "codigo-cvm":"23990",
       "tickers":[
-
+        
       ],
       "nome-pregao":"VERTCIASEC",
       "cnpj":"25.005.683/0001-09",
@@ -6616,7 +6794,6 @@
       "nome":"VIVER INCORPORADORA E CONSTRUTORA S.A.",
       "codigo-cvm":"20702",
       "tickers":[
-        "VIVR1",
         "VIVR3"
       ],
       "nome-pregao":"VIVER",
