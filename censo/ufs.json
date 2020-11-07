@@ -1,390 +1,448 @@
 {
-  "meta-info": {
-    "status": "ATIVO",
-    "data-ultima-atualizacao": "2020-11-07",
-    "data-ultima-referencia": "2020-07-01",
-    "versao": "1.0.1.BETA",
-    "contagem": 27,
-    "site": "https://github.com/rgiaviti/open-data/blob/master/censo/ufs.json",
-    "fontes": ["IBGE", "Constituição Federal do Brasil", "Senado Federal"]
+  "meta-info":{
+    "status":"ATIVO",
+    "data-ultima-atualizacao":"2020-11-07",
+    "data-ultima-referencia":"2020-07-01",
+    "versao":"1.0.1.BETA-2",
+    "contagem":27,
+    "site":"https://github.com/rgiaviti/open-data/blob/master/censo/ufs.json",
+    "fontes":[
+      "IBGE",
+      "Constituição Federal do Brasil",
+      "Senado Federal"
+    ]
   },
-  "unidades-federativas": [
+  "unidades-federativas":[
     {
-      "unidade-federativa": "Acre",
-      "codigo-ibge": "12",
-      "sigla": "AC",
-      "sede": "Rio Branco",
-      "gentilico": "acriano",
-      "regiao": "Norte",
-      "populacao-estimada": 894470,
-      "area": 1.64123968e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Acre",
+      "codigo-ibge":"12",
+      "sigla":"AC",
+      "sede":"Rio Branco",
+      "gentilico":"acriano",
+      "regiao":"Norte",
+      "populacao-estimada":894470,
+      "area":164123964,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Alagoas",
-      "codigo-ibge": "27",
-      "sigla": "AL",
-      "sede": "Maceió",
-      "gentilico": "alagoano",
-      "regiao": "Nordeste",
-      "populacao-estimada": 3351543,
-      "area": 2.7843296e7,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Alagoas",
+      "codigo-ibge":"27",
+      "sigla":"AL",
+      "sede":"Maceió",
+      "gentilico":"alagoano",
+      "regiao":"Nordeste",
+      "populacao-estimada":3351543,
+      "area":27843295,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Amapá",
-      "codigo-ibge": "16",
-      "sigla": "AP",
-      "sede": "Macapá",
-      "gentilico": "amapaense",
-      "regiao": "Norte",
-      "populacao-estimada": 861773,
-      "area": 1.42470768e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Amapá",
+      "codigo-ibge":"16",
+      "sigla":"AP",
+      "sede":"Macapá",
+      "gentilico":"amapaense",
+      "regiao":"Norte",
+      "populacao-estimada":861773,
+      "area":142470762,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Amazonas",
-      "codigo-ibge": "13",
-      "sigla": "AM",
-      "sede": "Manaus",
-      "gentilico": "amazonense",
-      "regiao": "Norte",
-      "populacao-estimada": 4207714,
-      "area": 1.55916787e9,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Amazonas",
+      "codigo-ibge":"13",
+      "sigla":"AM",
+      "sede":"Manaus",
+      "gentilico":"amazonense",
+      "regiao":"Norte",
+      "populacao-estimada":4207714,
+      "area":1559167889,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Bahia",
-      "codigo-ibge": "29",
-      "sigla": "BA",
-      "sede": "Salvador",
-      "gentilico": "baiano",
-      "regiao": "Nordeste",
-      "populacao-estimada": 14930634,
-      "area": 5.6476045e8,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Bahia",
+      "codigo-ibge":"29",
+      "sigla":"BA",
+      "sede":"Salvador",
+      "gentilico":"baiano",
+      "regiao":"Nordeste",
+      "populacao-estimada":14930634,
+      "area":564760427,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Ceará",
-      "codigo-ibge": "23",
-      "sigla": "CE",
-      "sede": "Fortaleza",
-      "gentilico": "cearense",
-      "regiao": "Nordeste",
-      "populacao-estimada": 9187103,
-      "area": 1.48894448e8,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Ceará",
+      "codigo-ibge":"23",
+      "sigla":"CE",
+      "sede":"Fortaleza",
+      "gentilico":"cearense",
+      "regiao":"Nordeste",
+      "populacao-estimada":9187103,
+      "area":148894441,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Distrito Federal",
-      "codigo-ibge": "53",
-      "sigla": "DF",
-      "sede": "Brasília",
-      "gentilico": "brasiliense",
-      "regiao": "Centro-Oeste",
-      "populacao-estimada": 3055149,
-      "area": 5760783.0,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Distrito Federal",
+      "codigo-ibge":"53",
+      "sigla":"DF",
+      "sede":"Brasília",
+      "gentilico":"brasiliense",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":3055149,
+      "area":5760783,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Espírito Santo",
-      "codigo-ibge": "32",
-      "sigla": "ES",
-      "sede": "Vitória",
-      "gentilico": "capixaba",
-      "regiao": "Sudeste",
-      "populacao-estimada": 4064052,
-      "area": 4.6074448e7,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Espírito Santo",
+      "codigo-ibge":"32",
+      "sigla":"ES",
+      "sede":"Vitória",
+      "gentilico":"capixaba",
+      "regiao":"Sudeste",
+      "populacao-estimada":4064052,
+      "area":46074447,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Goiás",
-      "codigo-ibge": "52",
-      "sigla": "GO",
-      "sede": "Goiânia",
-      "gentilico": "goiano",
-      "regiao": "Centro-Oeste",
-      "populacao-estimada": 7113540,
-      "area": 3.40203328e8,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Goiás",
+      "codigo-ibge":"52",
+      "sigla":"GO",
+      "sede":"Goiânia",
+      "gentilico":"goiano",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":7113540,
+      "area":340203329,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 2.250 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Maranhão",
-      "codigo-ibge": "21",
-      "sigla": "MA",
-      "sede": "São Luís",
-      "gentilico": "maranhense",
-      "regiao": "Nordeste",
-      "populacao-estimada": 7114598,
-      "area": 3.29642176e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Maranhão",
+      "codigo-ibge":"21",
+      "sigla":"MA",
+      "sede":"São Luís",
+      "gentilico":"maranhense",
+      "regiao":"Nordeste",
+      "populacao-estimada":7114598,
+      "area":329642182,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Mato Grosso",
-      "codigo-ibge": "50",
-      "sigla": "MT",
-      "sede": "Cuiabá",
-      "gentilico": "mato-grossense",
-      "regiao": "Centro-Oeste",
-      "populacao-estimada": 3526220,
-      "area": 9.0320704e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Mato Grosso",
+      "codigo-ibge":"50",
+      "sigla":"MT",
+      "sede":"Cuiabá",
+      "gentilico":"mato-grossense",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":3526220,
+      "area":903207019,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Mato Grosso do Sul",
-      "codigo-ibge": "51",
-      "sigla": "MS",
-      "sede": "Campo Grande",
-      "gentilico": "Sul-mato-grossense",
-      "regiao": "Centro-Oeste",
-      "populacao-estimada": 2809394,
-      "area": 3.57145536e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Mato Grosso do Sul",
+      "codigo-ibge":"51",
+      "sigla":"MS",
+      "sede":"Campo Grande",
+      "gentilico":"Sul-mato-grossense",
+      "regiao":"Centro-Oeste",
+      "populacao-estimada":2809394,
+      "area":357145534,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Minas Gerais",
-      "codigo-ibge": "31",
-      "sigla": "MG",
-      "sede": "Belo Horizonte",
-      "gentilico": "mineiro",
-      "regiao": "Sudeste",
-      "populacao-estimada": 21292666,
-      "area": 5.8652115e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Minas Gerais",
+      "codigo-ibge":"31",
+      "sigla":"MG",
+      "sede":"Belo Horizonte",
+      "gentilico":"mineiro",
+      "regiao":"Sudeste",
+      "populacao-estimada":21292666,
+      "area":586521123,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Pará",
-      "codigo-ibge": "15",
-      "sigla": "PA",
-      "sede": "Belém",
-      "gentilico": "paraense",
-      "regiao": "Norte",
-      "populacao-estimada": 8690745,
-      "area": 1.24587085e9,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Pará",
+      "codigo-ibge":"15",
+      "sigla":"PA",
+      "sede":"Belém",
+      "gentilico":"paraense",
+      "regiao":"Norte",
+      "populacao-estimada":8690745,
+      "area":1245870798,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Paraíba",
-      "codigo-ibge": "25",
-      "sigla": "PB",
-      "sede": "João Pessoa",
-      "gentilico": "paraibano",
-      "regiao": "Nordeste",
-      "populacao-estimada": 4039277,
-      "area": 5.646724e7,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Paraíba",
+      "codigo-ibge":"25",
+      "sigla":"PB",
+      "sede":"João Pessoa",
+      "gentilico":"paraibano",
+      "regiao":"Nordeste",
+      "populacao-estimada":4039277,
+      "area":56467242,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Paraná",
-      "codigo-ibge": "41",
-      "sigla": "PR",
-      "sede": "Curitiba",
-      "gentilico": "paranaense",
-      "regiao": "Sul",
-      "populacao-estimada": 11516840,
-      "area": 1.99298976e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Paraná",
+      "codigo-ibge":"41",
+      "sigla":"PR",
+      "sede":"Curitiba",
+      "gentilico":"paranaense",
+      "regiao":"Sul",
+      "populacao-estimada":11516840,
+      "area":199298979,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Pernambuco",
-      "codigo-ibge": "26",
-      "sigla": "PE",
-      "sede": "Recife",
-      "gentilico": "pernambucano",
-      "regiao": "Nordeste",
-      "populacao-estimada": 9616621,
-      "area": 9.806788e7,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Pernambuco",
+      "codigo-ibge":"26",
+      "sigla":"PE",
+      "sede":"Recife",
+      "gentilico":"pernambucano",
+      "regiao":"Nordeste",
+      "populacao-estimada":9616621,
+      "area":98067881,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 446 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Piauí",
-      "codigo-ibge": "22",
-      "sigla": "PI",
-      "sede": "Teresina",
-      "gentilico": "piauiense",
-      "regiao": "Nordeste",
-      "populacao-estimada": 3281480,
-      "area": 2.51756512e8,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Piauí",
+      "codigo-ibge":"22",
+      "sigla":"PI",
+      "sede":"Teresina",
+      "gentilico":"piauiense",
+      "regiao":"Nordeste",
+      "populacao-estimada":3281480,
+      "area":251756515,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 780 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Rio de Janeiro",
-      "codigo-ibge": "33",
-      "sigla": "RJ",
-      "sede": "Rio de Janeiro",
-      "gentilico": "fluminense",
-      "regiao": "Sudeste",
-      "populacao-estimada": 17366189,
-      "area": 4.3750428e7,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Rio de Janeiro",
+      "codigo-ibge":"33",
+      "sigla":"RJ",
+      "sede":"Rio de Janeiro",
+      "gentilico":"fluminense",
+      "regiao":"Sudeste",
+      "populacao-estimada":17366189,
+      "area":43750427,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Rio Grande do Norte",
-      "codigo-ibge": "24",
-      "sigla": "RN",
-      "sede": "Natal",
-      "gentilico": "potiguar",
-      "regiao": "Nordeste",
-      "populacao-estimada": 3534165,
-      "area": 5.28096e7,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Rio Grande do Norte",
+      "codigo-ibge":"24",
+      "sigla":"RN",
+      "sede":"Natal",
+      "gentilico":"potiguar",
+      "regiao":"Nordeste",
+      "populacao-estimada":3534165,
+      "area":52809602,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Rio Grande do Sul",
-      "codigo-ibge": "43",
-      "sigla": "RS",
-      "sede": "Porto Alegre",
-      "gentilico": "gaúcho",
-      "regiao": "Sul",
-      "populacao-estimada": 11422973,
-      "area": 2.81707168e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Rio Grande do Sul",
+      "codigo-ibge":"43",
+      "sigla":"RS",
+      "sede":"Porto Alegre",
+      "gentilico":"gaúcho",
+      "regiao":"Sul",
+      "populacao-estimada":11422973,
+      "area":281707156,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Rondônia",
-      "codigo-ibge": "11",
-      "sigla": "RO",
-      "sede": "Porto Velho",
-      "gentilico": "rondoniano",
-      "regiao": "Norte",
-      "populacao-estimada": 1796460,
-      "area": 237765.23,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Rondônia",
+      "codigo-ibge":"11",
+      "sigla":"RO",
+      "sede":"Porto Velho",
+      "gentilico":"rondoniano",
+      "regiao":"Norte",
+      "populacao-estimada":1796460,
+      "area":23776524,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Roraima",
-      "codigo-ibge": "14",
-      "sigla": "RR",
-      "sede": "Boa Vista",
-      "gentilico": "roraimense",
-      "regiao": "Norte",
-      "populacao-estimada": 631181,
-      "area": 2.23644528e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Roraima",
+      "codigo-ibge":"14",
+      "sigla":"RR",
+      "sede":"Boa Vista",
+      "gentilico":"roraimense",
+      "regiao":"Norte",
+      "populacao-estimada":631181,
+      "area":223644527,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Santa Catarina",
-      "codigo-ibge": "42",
-      "sigla": "SC",
-      "sede": "Florianópolis",
-      "gentilico": "catarinense",
-      "regiao": "Sul",
-      "populacao-estimada": 7252502,
-      "area": 9.5730688e7,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Santa Catarina",
+      "codigo-ibge":"42",
+      "sigla":"SC",
+      "sede":"Florianópolis",
+      "gentilico":"catarinense",
+      "regiao":"Sul",
+      "populacao-estimada":7252502,
+      "area":95730684,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "São Paulo",
-      "codigo-ibge": "35",
-      "sigla": "SP",
-      "sede": "São Paulo",
-      "gentilico": "paulista",
-      "regiao": "Sudeste",
-      "populacao-estimada": 46289333,
-      "area": 2.48219488e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"São Paulo",
+      "codigo-ibge":"35",
+      "sigla":"SP",
+      "sede":"São Paulo",
+      "gentilico":"paulista",
+      "regiao":"Sudeste",
+      "populacao-estimada":46289333,
+      "area":248219481,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Sergipe",
-      "codigo-ibge": "28",
-      "sigla": "SE",
-      "sede": "Aracaju",
-      "gentilico": "sergipano",
-      "regiao": "Nordeste",
-      "populacao-estimada": 2318822,
-      "area": 2.1925424e7,
-      "notas-adicionais": {
-        "nota-populacional": "Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
-        "mensagens": []
+      "unidade-federativa":"Sergipe",
+      "codigo-ibge":"28",
+      "sigla":"SE",
+      "sede":"Aracaju",
+      "gentilico":"sergipano",
+      "regiao":"Nordeste",
+      "populacao-estimada":2318822,
+      "area":21925424,
+      "notas-adicionais":{
+        "nota-populacional":"Diferença de 206 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2019, para o ano de 2019, em virtude de alteração de limites entre municípios na fronteira interestadual.",
+        "mensagens":[
+          
+        ]
       }
     },
     {
-      "unidade-federativa": "Tocantins",
-      "codigo-ibge": "17",
-      "sigla": "TO",
-      "sede": "Palmas",
-      "gentilico": "tocantinense",
-      "regiao": "Norte",
-      "populacao-estimada": 1590248,
-      "area": 2.77466752e8,
-      "notas-adicionais": {
-        "nota-populacional": "",
-        "mensagens": []
+      "unidade-federativa":"Tocantins",
+      "codigo-ibge":"17",
+      "sigla":"TO",
+      "sede":"Palmas",
+      "gentilico":"tocantinense",
+      "regiao":"Norte",
+      "populacao-estimada":1590248,
+      "area":277466763,
+      "notas-adicionais":{
+        "nota-populacional":"",
+        "mensagens":[
+          
+        ]
       }
     }
   ]
