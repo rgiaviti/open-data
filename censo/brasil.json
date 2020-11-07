@@ -1,9 +1,9 @@
 {
   "meta-info":{
     "status":"ATIVO",
-    "data-ultima-atualizacao":"2020-06-25",
-    "data-ultima-referencia":"2019-07-01",
-    "versao":"1.0.0.BETA-2",
+    "data-ultima-atualizacao":"2020-11-07",
+    "data-ultima-referencia":"2020-07-01",
+    "versao":"1.0.1.BETA-1",
     "site":"https://github.com/rgiaviti/open-data/blob/master/censo/brasil.json",
     "fontes":[
       "IBGE",
@@ -22,7 +22,7 @@
       "sistema-de-governo":"Presidencialismo"
     },
     "populacao":{
-      "populacao-estimada":210147125,
+      "populacao-estimada":211755692,
       "densidade-demografica":22.43
     },
     "datas-importantes":[
