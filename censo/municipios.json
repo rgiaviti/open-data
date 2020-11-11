@@ -3,7 +3,7 @@
     "status": "ATIVO",
     "data-ultima-atualizacao": "2020-11-07",
     "data-ultima-referencia": "2020-07-01",
-    "versao": "1.0.1.BETA",
+    "versao": "1.0.1",
     "contagem": 5570,
     "site": "https://github.com/rgiaviti/open-data/blob/master/censo/municipios.json",
     "fontes": ["IBGE"]

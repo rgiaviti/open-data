@@ -1,73 +1,73 @@
 {
-  "meta-info":{
-    "status":"ATIVO",
-    "data-ultima-atualizacao":"2020-11-07",
-    "data-ultima-referencia":"2020-07-01",
-    "versao":"1.0.1.BETA-1",
-    "site":"https://github.com/rgiaviti/open-data/blob/master/censo/brasil.json",
-    "fontes":[
+  "meta-info": {
+    "status": "ATIVO",
+    "data-ultima-atualizacao": "2020-11-07",
+    "data-ultima-referencia": "2020-07-01",
+    "versao": "1.0.1",
+    "site": "https://github.com/rgiaviti/open-data/blob/master/censo/brasil.json",
+    "fontes": [
       "IBGE",
       "Governo Federal",
       "Senado Federal",
       "Constituição Federal do Brasil"
     ]
   },
-  "open-data":{
-    "dados-oficiais":{
-      "nome-oficial":"República Federativa do Brasil",
-      "gentilico":"Brasileiros",
-      "capital":"Brasília",
-      "lingua-oficial":"Português",
-      "numero-municipios":5570,
-      "sistema-de-governo":"Presidencialismo"
+  "open-data": {
+    "dados-oficiais": {
+      "nome-oficial": "República Federativa do Brasil",
+      "gentilico": "Brasileiros",
+      "capital": "Brasília",
+      "lingua-oficial": "Português",
+      "numero-municipios": 5570,
+      "sistema-de-governo": "Presidencialismo"
     },
-    "populacao":{
-      "populacao-estimada":211755692,
-      "densidade-demografica":22.43
+    "populacao": {
+      "populacao-estimada": 211755692,
+      "densidade-demografica": 22.43
     },
-    "datas-importantes":[
+    "datas-importantes": [
       {
-        "data":"1500-04-22",
-        "descricao":"Descobrimento do Brasil"
+        "data": "1500-04-22",
+        "descricao": "Descobrimento do Brasil"
       },
       {
-        "data":"1822-09-07",
-        "descricao":"Declaração da Independência"
+        "data": "1822-09-07",
+        "descricao": "Declaração da Independência"
       },
       {
-        "data":"1888-05-13",
-        "descricao":"Lei Áurea. Abolição da escravidão no Brasil"
+        "data": "1888-05-13",
+        "descricao": "Lei Áurea. Abolição da escravidão no Brasil"
       },
       {
-        "data":"1889-11-15",
-        "descricao":"Proclamação da República"
+        "data": "1889-11-15",
+        "descricao": "Proclamação da República"
       }
     ],
-    "dados-geograficos":{
-      "area":8515767.049,
-      "pontos-extremos":{
-        "norte":{
-          "latitude":"+05º 16'19\" N",
-          "longitude":"-60º 12'45\" W",
-          "localizacao":"Nascente do Rio Ailã (Roraima)"
+    "dados-geograficos": {
+      "area": 8515767.049,
+      "pontos-extremos": {
+        "norte": {
+          "latitude": "+05º 16'19\" N",
+          "longitude": "-60º 12'45\" W",
+          "localizacao": "Nascente do Rio Ailã (Roraima)"
         },
-        "sul":{
-          "latitude":"-33º 45'07\" S",
-          "longitude":"-53º 23'50\" W",
-          "localizacao":"Arroio Chuí (Rio Grande do Sul)"
+        "sul": {
+          "latitude": "-33º 45'07\" S",
+          "longitude": "-53º 23'50\" W",
+          "localizacao": "Arroio Chuí (Rio Grande do Sul)"
         },
-        "leste":{
-          "latitude":"-07º 09'18\" S",
-          "longitude":"-34º 47'34\" W",
-          "localizacao":"Ponta do Seixas (Cabo Branco-Paraíba)"
+        "leste": {
+          "latitude": "-07º 09'18\" S",
+          "longitude": "-34º 47'34\" W",
+          "localizacao": "Ponta do Seixas (Cabo Branco-Paraíba)"
         },
-        "oeste":{
-          "latitude":"-07º 32'09\" S",
-          "longitude":"73º 59'26\" W",
-          "localizacao":"Nascente do Rio Moa (Acre)"
+        "oeste": {
+          "latitude": "-07º 32'09\" S",
+          "longitude": "73º 59'26\" W",
+          "localizacao": "Nascente do Rio Moa (Acre)"
         }
       },
-      "fronteiras":[
+      "fronteiras": [
         "Argentina",
         "Bolívia",
         "Colômbia",
@@ -80,19 +80,19 @@
         "Venezuela"
       ]
     },
-    "moeda":{
-      "nome":"Real",
-      "iso-4217":"BRL",
-      "simbolo":"R$"
+    "moeda": {
+      "nome": "Real",
+      "iso-4217": "BRL",
+      "simbolo": "R$"
     },
-    "codigos":{
-      "iso-3166-1":{
-        "alpha-2":"BR",
-        "alpha-3":"BRA",
-        "numerico":"076"
+    "codigos": {
+      "iso-3166-1": {
+        "alpha-2": "BR",
+        "alpha-3": "BRA",
+        "numerico": "076"
       },
-      "codigo-internet":".br",
-      "codigo-telefonico":"+55"
+      "codigo-internet": ".br",
+      "codigo-telefonico": "+55"
     }
   }
 }
