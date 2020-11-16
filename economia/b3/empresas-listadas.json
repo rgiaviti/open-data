@@ -2,7 +2,7 @@
   "meta-info": {
     "status": "ATIVO",
     "data-ultima-atualizacao": "2020-11-06",
-    "versao": "1.0.1",
+    "versao": "1.1.0",
     "contagem": 433,
     "site": "https://github.com/rgiaviti/open-data/blob/master/economia/b3/empresas-listadas.json",
     "fontes": ["B3 - Brasil, Bolsa, Balcão"]
