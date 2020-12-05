@@ -1,3133 +1,2541 @@
 {
-  "meta-info":{
-    "status":"ATIVO",
-    "data-ultima-atualizacao":"2020-11-29",
-    "data-ultima-referencia":"2020-11-29",
-    "versao":"1.1.0-BETA.1",
-    "contagem":311,
-    "site":"https://github.com/rgiaviti/open-data/blob/master/economia/b3/fundos-imobiliarios.json",
-    "fontes":[
-      "B3 - Brasi Bolsa Balcão"
-    ]
+  "meta-info": {
+    "status": "ATIVO",
+    "data-ultima-atualizacao": "2020-12-04",
+    "data-ultima-referencia": "2020-12-04",
+    "versao": "1.1.0",
+    "contagem": 316,
+    "site": "https://github.com/rgiaviti/open-data/blob/master/economia/b3/fundos-imobiliarios-listados.json",
+    "fontes": ["B3 - Brasil Bolsa Balcão"]
   },
-  "fundos-imobiliarios":[
-    {
-      "nome":"AF INVEST FDO INV. IMOB. - RECEBÍVEIS IMOB.",
-      "ticker":"AFCR11 ",
-      "codigos":[
-        "AFCR11"
-      ],
-      "nome-pregao":"FII AFINVCR",
-      "cnpj":"32065364000146",
-      "site":"www.cmcapital.com.br"
-    },
-    {
-      "nome":"ALIANZA FOF FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII ALIANZFF",
-      "cnpj":"34847063000108",
-      "site":"www.brltrust.com.br/"
-    },
-    {
-      "nome":"ALIANZA TRUST RENDA IMOBILIARIA FDO INV IMOB",
-      "ticker":"ALZR11 ",
-      "codigos":[
-        "ALZR11"
-      ],
-      "nome-pregao":"FII ALIANZA",
-      "cnpj":"28737771000185",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"AQ3 RENDA FDO INV IMOB - FII",
-      "ticker":"ARFI11B ",
-      "codigos":[
-        "ARFI11B"
-      ],
-      "nome-pregao":"FII AQUIL RD",
-      "cnpj":"14069202000102",
-      "site":""
-    },
-    {
-      "nome":"ÁQUILLA FDO INV IMOB - FII",
-      "ticker":"AQLL11 ",
-      "codigos":[
-        "AQLL11"
-      ],
-      "nome-pregao":"FII AQUILLA",
-      "cnpj":"13555918000149",
-      "site":""
-    },
-    {
-      "nome":"AUTONOMY EDIFÍCIOS CORPORATIVOS FUND. INV. IMOB.",
-      "ticker":"AIEC11 ",
-      "codigos":[
-        "AIEC11"
-      ],
-      "nome-pregao":"FII AUTONOMY",
-      "cnpj":"35765826000126",
-      "site":"www.modal.com.br"
-    },
-    {
-      "nome":"BANESTES RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB  FII",
-      "ticker":"BCRI11 ",
-      "codigos":[
-        "BCRI11"
-      ],
-      "nome-pregao":"FII BEES CRI",
-      "cnpj":"22219335000138",
-      "site":""
-    },
-    {
-      "nome":"BANRISUL NOVAS FRONTEIRAS FDO INV IMOB - FII",
-      "ticker":"BNFS11 ",
-      "codigos":[
-        "BNFS11"
-      ],
-      "nome-pregao":"FII BANRISUL",
-      "cnpj":"15570431000160",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"BB FDO INV IMOB PROGRESSIVO",
-      "ticker":"BBFI11B ",
-      "codigos":[
-        "BBFI11B"
-      ],
-      "nome-pregao":"FII BB PROGR",
-      "cnpj":"07000400000146",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"BB PROGRESSIVO II FDO INV IMOB - FII",
-      "ticker":"BBPO11 ",
-      "codigos":[
-        "BBPO11"
-      ],
-      "nome-pregao":"FII BB PRGII",
-      "cnpj":"14410722000129",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"BB RECEBIVEIS IMOBILIARIOS FDO INV IMOB - FII",
-      "ticker":"BBIM11 ",
-      "codigos":[
-        "BBIM11"
-      ],
-      "nome-pregao":"FII BB RECIM",
-      "cnpj":"20716161000193",
-      "site":"www.bb.com.br/bbdtvm"
-    },
-    {
-      "nome":"BB RENDA CORPORATIVA FDO INV IMOB - FII",
-      "ticker":"BBRC11 ",
-      "codigos":[
-        "BBRC11"
-      ],
-      "nome-pregao":"FII BB CORP",
-      "cnpj":"12681340000104",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"BB RENDA DE PAPEIS IMOB II FDO INV IMOB - FII",
-      "ticker":"RDPD11 ",
-      "codigos":[
-        "RDPD11"
-      ],
-      "nome-pregao":"FII BB PAPII",
-      "cnpj":"23120027000113",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"BB RENDA DE PAPÉIS IMOBILIÁRIOS FDO INV IMOB - FII",
-      "ticker":"RNDP11 ",
-      "codigos":[
-        "RNDP11"
-      ],
-      "nome-pregao":"FII BB R PAP",
-      "cnpj":"15394563000189",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"BLUECAP RENDA LOG. FDO INV. IMOB. - FII",
-      "ticker":"BLCP11 ",
-      "codigos":[
-        "BLCP11"
-      ],
-      "nome-pregao":"FII BLUECAP",
-      "cnpj":"35652060000173",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"BLUEMACAW LOGÍSTICA FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII BLUE LOG",
-      "cnpj":"34081637000171",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"BLUEMACAW OFFICE FUND II - FDO. INVEST. IMOB.",
-      "ticker":"BLMO11 ",
-      "codigos":[
-        "BLMO11"
-      ],
-      "nome-pregao":"FII BLUEMAC",
-      "cnpj":"34895894000147",
-      "site":"www.brltrust.com.br/"
-    },
-    {
-      "nome":"BLUEMACAW RENDA + FOF FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII BLUE FOF",
-      "cnpj":"36368869000130",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"BRADESCO CARTEIRA IMOBILIÁRIA ATIVA - FII",
-      "ticker":"BCIA11 ",
-      "codigos":[
-        "BCIA11"
-      ],
-      "nome-pregao":"FII BCIA",
-      "cnpj":"20216935000117",
-      "site":"www.bradesco.com.br/html/classic/produtos-servicos/investimentos/fundosimobiliarios.shtm"
-    },
-    {
-      "nome":"BRAZIL REAL ESTATE VICTORY FUND I - FDO. INV. IMOB",
-      "ticker":"BREV11 ",
-      "codigos":[
-        "BREV11"
-      ],
-      "nome-pregao":"FII BRE VIC",
-      "cnpj":"26195121000120",
-      "site":"http://www.brcapitaldtvm.com.br"
-    },
-    {
-      "nome":"BRAZIL REALTY FDO INV IMOB",
-      "ticker":"BZLI11 ",
-      "codigos":[
-        "BZLI11"
-      ],
-      "nome-pregao":"FII BRREALTY",
-      "cnpj":"14074706000102",
-      "site":""
-    },
-    {
-      "nome":"BRAZILIAN GRAVEYARD DEATH CARE FDO INV IMOB - FII",
-      "ticker":"CARE11 ",
-      "codigos":[
-        "CARE11"
-      ],
-      "nome-pregao":"FII DEA CARE",
-      "cnpj":"13584584000131",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"BRESCO LOGÍSTICA - FDO INV IMOB",
-      "ticker":"BRCO11 ",
-      "codigos":[
-        "BRCO11"
-      ],
-      "nome-pregao":"FII BRESCO",
-      "cnpj":"20748515000181",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"BRIO REAL ESTATE II - FDO INV IMOB",
-      "ticker":"BRIM11 ",
-      "codigos":[
-        "BRIM11"
-      ],
-      "nome-pregao":"FII BRIO II",
-      "cnpj":"23964843000103",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"BRIO REAL ESTATE III FDO DE INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII BRIO III",
-      "cnpj":"34895752000180",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"BTG PACTUAL LOGISTICA FDO INV IMOB - FII",
-      "ticker":"BTLG11 ",
-      "codigos":[
-        "BTLG11"
-      ],
-      "nome-pregao":"FII BTLG",
-      "cnpj":"11839593000109",
-      "site":""
-    },
-    {
-      "nome":"BTSP I FDO. INVEST. IMOB - FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII BTSP I",
-      "cnpj":"36098375000183",
-      "site":"www.bancointer.com.br/inter-dtvm/"
-    },
-    {
-      "nome":"CAIXA RIO BRAVO FDO DE FDOS INV IMOB II",
-      "ticker":"CRFF11 ",
-      "codigos":[
-        "CRFF11"
-      ],
-      "nome-pregao":"FII CX RBRA2",
-      "cnpj":"31887401000139",
-      "site":"www.caixa.gov.br"
-    },
-    {
-      "nome":"CAIXA RIO BRAVO FUNDO DE FDO INV IMOB - FII",
-      "ticker":"CXRI11 ",
-      "codigos":[
-        "CXRI11"
-      ],
-      "nome-pregao":"FII CX RBRAV",
-      "cnpj":"17098794000170",
-      "site":"www.caixa.gov.br"
-    },
-    {
-      "nome":"CAPITÂNIA REIT FOF - FDO. INVEST. IMOB",
-      "ticker":"CPFF11 ",
-      "codigos":[
-        "CPFF11"
-      ],
-      "nome-pregao":"FII CAP REIT",
-      "cnpj":"34081611000123",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"CAPITANIA SECURITIES II FDO INV IMOB - FII",
-      "ticker":"CPTS11 CPTS12 ",
-      "codigos":[
-        "CPTS11",
-        "CPTS12"
-      ],
-      "nome-pregao":"FII CAPI SEC",
-      "cnpj":"18979895000113",
-      "site":""
-    },
-    {
-      "nome":"CASTELLO BRANCO OFFICE PARK FDO INV IMOB - FII",
-      "ticker":"CBOP11 ",
-      "codigos":[
-        "CBOP11"
-      ],
-      "nome-pregao":"FII C BRANCO",
-      "cnpj":"17144039000185",
-      "site":"www.cshg.com.br"
-    },
-    {
-      "nome":"CF2 FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"CFHI11 ",
-      "codigos":[
-        "CFHI11"
-      ],
-      "nome-pregao":"FII CF2",
-      "cnpj":"34508923000170",
-      "site":"vortx.com.br"
-    },
-    {
-      "nome":"CIDADE JARDIM CONTINENAL TOWER FDO INV IMOB",
-      "ticker":"CJCT11 ",
-      "codigos":[
-        "CJCT11"
-      ],
-      "nome-pregao":"FII CJCTOWER",
-      "cnpj":"10347985000180",
-      "site":""
-    },
-    {
-      "nome":"CSHG IMOB. FOF - FDO INV. IMOB. - FII",
-      "ticker":"HGFF11 ",
-      "codigos":[
-        "HGFF11"
-      ],
-      "nome-pregao":"FII CSHG FOF",
-      "cnpj":"32784898000122",
-      "site":"www.cshg.com.br"
-    },
-    {
-      "nome":"CSHG LOGÍSTICA FDO INV IMOB - FII",
-      "ticker":"HGLG11 ",
-      "codigos":[
-        "HGLG11"
-      ],
-      "nome-pregao":"FII CSHG LOG",
-      "cnpj":"11728688000147",
-      "site":"www.cshg.com.br"
-    },
-    {
-      "nome":"CSHG PRIME OFFICES FDO INV IMOB - FII",
-      "ticker":"HGPO11 ",
-      "codigos":[
-        "HGPO11"
-      ],
-      "nome-pregao":"FII CSHGPRIM",
-      "cnpj":"11260134000168",
-      "site":"www.cshg.com.br"
-    },
-    {
-      "nome":"CSHG REAL ESTATE FDO INV IMOB - FII",
-      "ticker":"HGRE11 ",
-      "codigos":[
-        "HGRE11"
-      ],
-      "nome-pregao":"FII HG REAL",
-      "cnpj":"09072017000129",
-      "site":"www.cshg.com.br"
-    },
-    {
-      "nome":"CSHG RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB - FII",
-      "ticker":"HGCR11 ",
-      "codigos":[
-        "HGCR11"
-      ],
-      "nome-pregao":"FII CSHG CRI",
-      "cnpj":"11160521000122",
-      "site":"www.cshg.com.br"
-    },
-    {
-      "nome":"CSHG RENDA URBANA - FDO INV IMOB - FII",
-      "ticker":"HGRU11 ",
-      "codigos":[
-        "HGRU11"
-      ],
-      "nome-pregao":"FII CSHG URB",
-      "cnpj":"29641226000153",
-      "site":"WWW.CSHG.COM.BR"
-    },
-    {
-      "nome":"DEL MONTE AJAX FDO INV IMOB - FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII DEL MONT",
-      "cnpj":"28108193000118",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"DEVANT RECEBÍVEIS IMOBILIÁRIOS FDO. INVEST. IMOB.",
-      "ticker":"DEVA11 ",
-      "codigos":[
-        "DEVA11"
-      ],
-      "nome-pregao":"FII DEVANT",
-      "cnpj":"37087810000137",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"DIAMANTE FDO INV IMOB",
-      "ticker":"DAMT11B ",
-      "codigos":[
-        "DAMT11B"
-      ],
-      "nome-pregao":"FII DIAMANTE",
-      "cnpj":"26642727000166",
-      "site":""
-    },
-    {
-      "nome":"DOVEL FDO INV IMOB",
-      "ticker":"DOVL11B ",
-      "codigos":[
-        "DOVL11B"
-      ],
-      "nome-pregao":"FII DOVEL",
-      "cnpj":"10522648000181",
-      "site":"www.bnymellon.com.br"
-    },
-    {
-      "nome":"ENERGY RESORT FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII ENERGY",
-      "cnpj":"36768685000168",
-      "site":"monetar.com.br"
-    },
-    {
-      "nome":"ESTOQUE RESIDENCIAL E COMERCIAL RJ FDO INV IMOB",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII ESTOQ RJ",
-      "cnpj":"37266902000184",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"EUROPA 105 - FDO INV IMOB",
-      "ticker":"ERPA11 ",
-      "codigos":[
-        "ERPA11"
-      ],
-      "nome-pregao":"FII EUROPA",
-      "cnpj":"31469385000164",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"EVEN II KINEA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"KEVE11 ",
-      "codigos":[
-        "KEVE11"
-      ],
-      "nome-pregao":"FII EVEN II",
-      "cnpj":"32317313000164",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"EVEN PERMUTA KINEA FII - FDO INV IMOB",
-      "ticker":"KINP11 ",
-      "codigos":[
-        "KINP11"
-      ],
-      "nome-pregao":"FII EV KINEA",
-      "cnpj":"24070076000151",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"FARIA LIMA CAPITAL RECEB. IMOB. I - FDO INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII FL RECEB",
-      "cnpj":"33884145000151",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FATOR VERITA FDO INV IMOB - FII",
-      "ticker":"VRTA11 ",
-      "codigos":[
-        "VRTA11"
-      ],
-      "nome-pregao":"FII FATOR VE",
-      "cnpj":"11664201000100",
-      "site":"www.bancofator.com.br"
-    },
-    {
-      "nome":"FDO BRASÍLIO MACHADO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"BMII11 ",
-      "codigos":[
-        "BMII11"
-      ],
-      "nome-pregao":"FII BRASILIO",
-      "cnpj":"02027437000144",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - BTG PACTUAL CREDITO IMOBILIARIO",
-      "ticker":"BTCR11 ",
-      "codigos":[
-        "BTCR11"
-      ],
-      "nome-pregao":"FII BTG CRI",
-      "cnpj":"29787928000140",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - BTG PACTUAL METROPOLIS",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII MTRS",
-      "cnpj":"32740844000165",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII ANCAR IC",
-      "ticker":"ANCR11B ",
-      "codigos":[
-        "ANCR11B"
-      ],
-      "nome-pregao":"FII ANCAR IC",
-      "cnpj":"07789135000127",
-      "site":"www.gerafuturo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII ANHANGUERA EDUCACIONAL",
-      "ticker":"FAED11 ",
-      "codigos":[
-        "FAED11"
-      ],
-      "nome-pregao":"FII ANH EDUC",
-      "cnpj":"11179118000145",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII BM BRASCAN LAJES CORPORATIVAS",
-      "ticker":"BMLC11B ",
-      "codigos":[
-        "BMLC11B"
-      ],
-      "nome-pregao":"FII BMBRC LC",
-      "cnpj":"14376247000111",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII BRLPROP",
-      "ticker":"BPRP11 ",
-      "codigos":[
-        "BPRP11"
-      ],
-      "nome-pregao":"FII BRLPROP",
-      "cnpj":"29800650000101",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII BTG PACTUAL CORP. OFFICE FUND",
-      "ticker":"BRCR11 ",
-      "codigos":[
-        "BRCR11"
-      ],
-      "nome-pregao":"FII BC FUND",
-      "cnpj":"08924783000101",
-      "site":"www.bcfund.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII BTG PACTUAL FUNDO DE CRI",
-      "ticker":"FEXC11 ",
-      "codigos":[
-        "FEXC11"
-      ],
-      "nome-pregao":"FII EXCELLEN",
-      "cnpj":"09552812000114",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII BTG PACTUAL FUNDO DE FUNDOS",
-      "ticker":"BCFF11 ",
-      "codigos":[
-        "BCFF11"
-      ],
-      "nome-pregao":"FII BC FFII",
-      "cnpj":"11026627000138",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII CAMPUS FARIA LIMA",
-      "ticker":"FCFL11 ",
-      "codigos":[
-        "FCFL11"
-      ],
-      "nome-pregao":"FII CAMPUSFL",
-      "cnpj":"11602654000101",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII CENESP",
-      "ticker":"CNES11 ",
-      "codigos":[
-        "CNES11"
-      ],
-      "nome-pregao":"FII CENESP",
-      "cnpj":"13551286000145",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII CEO CYRELA COMMERC. PROPERTIES",
-      "ticker":"CEOC11 ",
-      "codigos":[
-        "CEOC11"
-      ],
-      "nome-pregao":"FII CEO CCP",
-      "cnpj":"15799397000109",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII CYRELA THERA CORPORATE",
-      "ticker":"THRA11 ",
-      "codigos":[
-        "THRA11"
-      ],
-      "nome-pregao":"FII BM THERA",
-      "cnpj":"13966653000171",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII EDIFÍCIO ALMIRANTE BARROSO",
-      "ticker":"FAMB11B ",
-      "codigos":[
-        "FAMB11B"
-      ],
-      "nome-pregao":"FII ALMIRANT",
-      "cnpj":"05562312000102",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII EDIFÍCIO GALERIA",
-      "ticker":"EDGA11 ",
-      "codigos":[
-        "EDGA11"
-      ],
-      "nome-pregao":"FII GALERIA",
-      "cnpj":"15333306000137",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII ELDORADO",
-      "ticker":"ELDO11B ",
-      "codigos":[
-        "ELDO11B"
-      ],
-      "nome-pregao":"FII ELDORADO",
-      "cnpj":"13022994000199",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII FLORIPA SHOPPING",
-      "ticker":"FLRP11 ",
-      "codigos":[
-        "FLRP11"
-      ],
-      "nome-pregao":"FII FLORIPA",
-      "cnpj":"10375382000191",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII HOSPITAL DA CRIANÇA",
-      "ticker":"HCRI11 ",
-      "codigos":[
-        "HCRI11"
-      ],
-      "nome-pregao":"FII CRIANCA",
-      "cnpj":"04066582000160",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII HOSPITAL NOSSA SRA DE LOURDES",
-      "ticker":"NSLU11 ",
-      "codigos":[
-        "NSLU11"
-      ],
-      "nome-pregao":"FII LOURDES",
-      "cnpj":"08014513000163",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII HOTEL MAXINVEST",
-      "ticker":"HTMX11 ",
-      "codigos":[
-        "HTMX11"
-      ],
-      "nome-pregao":"FII HOTEL MX",
-      "cnpj":"08706065000169",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII MAX RETAIL",
-      "ticker":"MAXR11 ",
-      "codigos":[
-        "MAXR11"
-      ],
-      "nome-pregao":"FII MAX RET",
-      "cnpj":"11274415000170",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII NCH BRASIL RECEBÍVEIS IMOB",
-      "ticker":"NCHB11 ",
-      "codigos":[
-        "NCHB11"
-      ],
-      "nome-pregao":"FII NCH BRA",
-      "cnpj":"18085673000157",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII NOVO HORIZONTE",
-      "ticker":"NVHO11 ",
-      "codigos":[
-        "NVHO11"
-      ],
-      "nome-pregao":"FII NOVOHORI",
-      "cnpj":"17025970000144",
-      "site":"www.brasilplural.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII PARQUE D. PEDRO SHOPPING CENTER",
-      "ticker":"PQDP11 ",
-      "codigos":[
-        "PQDP11"
-      ],
-      "nome-pregao":"FII D PEDRO",
-      "cnpj":"10869155000112",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII PATEO BANDEIRANTES",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII PTO BAND",
-      "cnpj":"14788492000136",
-      "site":""
-    },
-    {
-      "nome":"FDO INV IMOB - FII RBR DESENVOLVIMENTO",
-      "ticker":"RBRM11 ",
-      "codigos":[
-        "RBRM11"
-      ],
-      "nome-pregao":"FII RBR DES",
-      "cnpj":"26314437000193",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII RBR RENDIMENTO HIGH GRADE",
-      "ticker":"RBRR11 ",
-      "codigos":[
-        "RBRR11"
-      ],
-      "nome-pregao":"FII RBRHGRAD",
-      "cnpj":"29467977000103",
-      "site":"www.btgpactual.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII REC RECEBIVEIS IMOBILIARIOS",
-      "ticker":"RECR11 ",
-      "codigos":[
-        "RECR11"
-      ],
-      "nome-pregao":"FII REC RECE",
-      "cnpj":"28152272000126",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII REC RENDA IMOBILIARIA",
-      "ticker":"RECT11 ",
-      "codigos":[
-        "RECT11"
-      ],
-      "nome-pregao":"FII REC REND",
-      "cnpj":"32274163000159",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII SHOPPING JARDIM SUL",
-      "ticker":"JRDM11 ",
-      "codigos":[
-        "JRDM11"
-      ],
-      "nome-pregao":"FII SHOPJSUL",
-      "cnpj":"14879856000193",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII SHOPPING PARQUE D. PEDRO",
-      "ticker":"SHDP11B ",
-      "codigos":[
-        "SHDP11B"
-      ],
-      "nome-pregao":"FII SHOP PDP",
-      "cnpj":"07224019000160",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII SIA CORPORATE",
-      "ticker":"SAIC11B ",
-      "codigos":[
-        "SAIC11B"
-      ],
-      "nome-pregao":"FII SIA CORP",
-      "cnpj":"17311079000174",
-      "site":"www.brb.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - FII TB OFFICE",
-      "ticker":"TBOF11 ",
-      "codigos":[
-        "TBOF11"
-      ],
-      "nome-pregao":"FII TBOFFICE",
-      "cnpj":"17365105000147",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - FII TORRE ALMIRANTE",
-      "ticker":"ALMI11 ",
-      "codigos":[
-        "ALMI11"
-      ],
-      "nome-pregao":"FII TORRE AL",
-      "cnpj":"07122725000100",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII TORRE NORTE",
-      "ticker":"TRNT11 ",
-      "codigos":[
-        "TRNT11"
-      ],
-      "nome-pregao":"FII TORRE NO",
-      "cnpj":"04722883000102",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB - FII VILA OLÍMPIA CORPORATE",
-      "ticker":"VLOL11 ",
-      "codigos":[
-        "VLOL11"
-      ],
-      "nome-pregao":"FII OLIMPIA",
-      "cnpj":"15296696000112",
-      "site":"http://www.oliveiratrust.com.br/sites/fundos/"
-    },
-    {
-      "nome":"FDO INV IMOB - OURINVEST FUNDO DE FUNDOS",
-      "ticker":"OUFF11 ",
-      "codigos":[
-        "OUFF11"
-      ],
-      "nome-pregao":"FII OURI FOF",
-      "cnpj":"30791386000168",
-      "site":"www.ourinvest.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - OURINVEST RE I",
-      "ticker":"WTSP11B ",
-      "codigos":[
-        "WTSP11B"
-      ],
-      "nome-pregao":"FII WTC SP",
-      "cnpj":"28693595000127",
-      "site":""
-    },
-    {
-      "nome":"FDO INV IMOB - REC HOTELARIA",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII REC HTL",
-      "cnpj":"35652306000107",
-      "site":"www.btgpactual.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB - V2 PROPERTIES",
-      "ticker":"VVPR11 ",
-      "codigos":[
-        "VVPR11"
-      ],
-      "nome-pregao":"FII V2 PROP",
-      "cnpj":"33045581000137",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB - VBI LOGÍSTICO",
-      "ticker":"LVBI11 ",
-      "codigos":[
-        "LVBI11"
-      ],
-      "nome-pregao":"FII VBI LOG",
-      "cnpj":"30629603000118",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB BARIGUI RENDIMENTOS IMOB I FII",
-      "ticker":"BARI11 ",
-      "codigos":[
-        "BARI11"
-      ],
-      "nome-pregao":"FII BARIGUI",
-      "cnpj":"29267567000100",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB BR HOTEIS - FII",
-      "ticker":"BRHT11B ",
-      "codigos":[
-        "BRHT11B"
-      ],
-      "nome-pregao":"FII BRHOTEIS",
-      "cnpj":"15461076000191",
-      "site":"www3.eliteccvm.com.br/novo/"
-    },
-    {
-      "nome":"FDO INV IMOB BRASIL PLURAL ABSOLUTO FDO DE FUNDOS",
-      "ticker":"BPFF11 ",
-      "codigos":[
-        "BPFF11"
-      ],
-      "nome-pregao":"FII ABSOLUTO",
-      "cnpj":"17324357000128",
-      "site":"www.gerafuturo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB BRASIL VAREJO - FII",
-      "ticker":"BVAR11 ",
-      "codigos":[
-        "BVAR11"
-      ],
-      "nome-pregao":"FII B VAREJO",
-      "cnpj":"21126204000143",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB BTG PACTUAL SHOPPINGS",
-      "ticker":"BPML11 ",
-      "codigos":[
-        "BPML11"
-      ],
-      "nome-pregao":"FII BTG SHOP",
-      "cnpj":"33046142000149",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB CAIXA CEDAE",
-      "ticker":"CXCE11B ",
-      "codigos":[
-        "CXCE11B"
-      ],
-      "nome-pregao":"FII CX CEDAE",
-      "cnpj":"10991914000115",
-      "site":"www.caixa.gov.br"
-    },
-    {
-      "nome":"FDO INV IMOB CAIXA TRX LOGÍSTICA RENDA",
-      "ticker":"CXTL11 ",
-      "codigos":[
-        "CXTL11"
-      ],
-      "nome-pregao":"FII CX TRX",
-      "cnpj":"12887506000143",
-      "site":"www.caixa.gov.br"
-    },
-    {
-      "nome":"FDO INV IMOB CENTRO TEXTIL INTERNACIONAL",
-      "ticker":"CTXT11 ",
-      "codigos":[
-        "CTXT11"
-      ],
-      "nome-pregao":"FII C TEXTIL",
-      "cnpj":"00762723000128",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB CJ - FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII CJ",
-      "cnpj":"23582914000103",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB CONTINENTAL SQUARE FARIA LIMA",
-      "ticker":"FLMA11 ",
-      "codigos":[
-        "FLMA11"
-      ],
-      "nome-pregao":"FII S F LIMA",
-      "cnpj":"04141645000103",
-      "site":"http://unitas.com.br/site/"
-    },
-    {
-      "nome":"FDO INV IMOB EDIFÍCIO OURINVEST",
-      "ticker":"EDFO11B ",
-      "codigos":[
-        "EDFO11B"
-      ],
-      "nome-pregao":"FII OURINVES",
-      "cnpj":"06175262000173",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB EUROPAR",
-      "ticker":"EURO11 ",
-      "codigos":[
-        "EURO11"
-      ],
-      "nome-pregao":"FII EUROPAR",
-      "cnpj":"05437916000127",
-      "site":"www.coinvalores.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB GENERAL SEVERIANO - FII",
-      "ticker":"GESE11B ",
-      "codigos":[
-        "GESE11B"
-      ],
-      "nome-pregao":"FII GEN SEV",
-      "cnpj":"17007528000195",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB GENERAL SHOPPING ATIVO E RENDA - FII",
-      "ticker":"FIGS11 ",
-      "codigos":[
-        "FIGS11"
-      ],
-      "nome-pregao":"FII GEN SHOP",
-      "cnpj":"17590518000125",
-      "site":""
-    },
-    {
-      "nome":"FDO INV IMOB GRAND PLAZA SHOPPING",
-      "ticker":"ABCP11 ",
-      "codigos":[
-        "ABCP11"
-      ],
-      "nome-pregao":"FII ABC IMOB",
-      "cnpj":"01201140000190",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB GREEN TOWERS",
-      "ticker":"GTWR11 ",
-      "codigos":[
-        "GTWR11"
-      ],
-      "nome-pregao":"FII G TOWERS",
-      "cnpj":"23740527000158",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB HABITAT I",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII HABITAT",
-      "cnpj":"26846202000142",
-      "site":"https://vortx.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB HOSPITAL UNIMED SUL CAPIXABA",
-      "ticker":"HUSC11 ",
-      "codigos":[
-        "HUSC11"
-      ],
-      "nome-pregao":"FII H UNIMED",
-      "cnpj":"28851767000143",
-      "site":"WWW.RIOBRAVO.COM.BR"
-    },
-    {
-      "nome":"FDO INV IMOB INDUSTRIAL DO BRASIL",
-      "ticker":"FIIB11 ",
-      "codigos":[
-        "FIIB11"
-      ],
-      "nome-pregao":"FII INDL BR",
-      "cnpj":"14217108000145",
-      "site":"www.coinvalores.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB INFRA REAL ESTATE - FII",
-      "ticker":"FINF11 ",
-      "codigos":[
-        "FINF11"
-      ],
-      "nome-pregao":"FII INFRA RE",
-      "cnpj":"18369510000104",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB MEMORIAL OFFICE",
-      "ticker":"FMOF11 ",
-      "codigos":[
-        "FMOF11"
-      ],
-      "nome-pregao":"FII MEMORIAL",
-      "cnpj":"01633741000172",
-      "site":"www.coinvalores.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB MERCANTIL DO BRASIL - FII",
-      "ticker":"MBRF11 ",
-      "codigos":[
-        "MBRF11"
-      ],
-      "nome-pregao":"FII MERC BR",
-      "cnpj":"13500306000159",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB MOGNO FUNDO DE FUNDOS",
-      "ticker":"MGFF11 ",
-      "codigos":[
-        "MGFF11"
-      ],
-      "nome-pregao":"FII MOGNO",
-      "cnpj":"29216463000177",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB MV9 - FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII MV9",
-      "cnpj":"23537203000117",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB NESTPAR - FII",
-      "ticker":"NPAR11 ",
-      "codigos":[
-        "NPAR11"
-      ],
-      "nome-pregao":"FII NESTPAR",
-      "cnpj":"24814916000143",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB OURINVEST LOGÍSTICA",
-      "ticker":"OULG11 ",
-      "codigos":[
-        "OULG11"
-      ],
-      "nome-pregao":"FII OURILOG",
-      "cnpj":"13974819000100",
-      "site":""
-    },
-    {
-      "nome":"FDO INV IMOB PANAMBY",
-      "ticker":"PABY11 ",
-      "codigos":[
-        "PABY11"
-      ],
-      "nome-pregao":"FII PANAMBY",
-      "cnpj":"00613094000174",
-      "site":"www.brkbdtvm.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB PEDRA NEGRA RENDA IMOB",
-      "ticker":"FPNG11 ",
-      "codigos":[
-        "FPNG11"
-      ],
-      "nome-pregao":"FII P NEGRA",
-      "cnpj":"17161979000182",
-      "site":"www.brcapitaldtvm.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB POLO ESTOQUE II - FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII POLO II",
-      "cnpj":"18497672000110",
-      "site":""
-    },
-    {
-      "nome":"FDO INV IMOB POLO SHOPPING INDAIATUBA",
-      "ticker":"VPSI11 ",
-      "codigos":[
-        "VPSI11"
-      ],
-      "nome-pregao":"FII POLO SHO",
-      "cnpj":"14721889000100",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB PROJETO ÁGUA BRANCA",
-      "ticker":"FPAB11 ",
-      "codigos":[
-        "FPAB11"
-      ],
-      "nome-pregao":"FII A BRANCA",
-      "cnpj":"03251720000118",
-      "site":"www.coinvalores.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB RBR CRÉDITO IMOB HIGH YIELD",
-      "ticker":"RBRY11 ",
-      "codigos":[
-        "RBRY11"
-      ],
-      "nome-pregao":"FII RBR PCRI",
-      "cnpj":"30166700000111",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV IMOB RBR PROPERTIES - FII",
-      "ticker":"RBRP11 ",
-      "codigos":[
-        "RBRP11"
-      ],
-      "nome-pregao":"FII RBR PROP",
-      "cnpj":"21408063000151",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB RIO BRAVO RENDA CORPORATIVA",
-      "ticker":"RCRB11 ",
-      "codigos":[
-        "RCRB11"
-      ],
-      "nome-pregao":"FII RIOB RC",
-      "cnpj":"03683056000186",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB RIO BRAVO RENDA EDUCACIONAL - FII",
-      "ticker":"RBED11 ",
-      "codigos":[
-        "RBED11"
-      ],
-      "nome-pregao":"FII RIOB ED",
-      "cnpj":"13873457000152",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB RIO BRAVO RENDA VAREJO - FII",
-      "ticker":"RBVA11 ",
-      "codigos":[
-        "RBVA11"
-      ],
-      "nome-pregao":"FII RIOB VA",
-      "cnpj":"15576907000170",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB RIO NEGRO - FII",
-      "ticker":"RNGO11 ",
-      "codigos":[
-        "RNGO11"
-      ],
-      "nome-pregao":"FII RIONEGRO",
-      "cnpj":"15006286000190",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB SÃO FERNANDO",
-      "ticker":"SFND11 ",
-      "codigos":[
-        "SFND11"
-      ],
-      "nome-pregao":"FII SAO FER",
-      "cnpj":"09350920000104",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB SC 401",
-      "ticker":"FISC11 ",
-      "codigos":[
-        "FISC11"
-      ],
-      "nome-pregao":"FII SC 401",
-      "cnpj":"12804013000100",
-      "site":""
-    },
-    {
-      "nome":"FDO INV IMOB SCP",
-      "ticker":"SCPF11 ",
-      "codigos":[
-        "SCPF11"
-      ],
-      "nome-pregao":"FII SCP",
-      "cnpj":"01657856000105",
-      "site":"http://unitas.com.br/site/"
-    },
-    {
-      "nome":"FDO INV IMOB SDI RIO BRAVO RENDA LOGISTICA - FII",
-      "ticker":"SDIL11 ",
-      "codigos":[
-        "SDIL11"
-      ],
-      "nome-pregao":"FII SDI LOG",
-      "cnpj":"16671412000193",
-      "site":"http://www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB SHOPPING PÁTIO HIGIENÓPOLIS",
-      "ticker":"SHPH11 ",
-      "codigos":[
-        "SHPH11"
-      ],
-      "nome-pregao":"FII HIGIENOP",
-      "cnpj":"03507519000159",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB TG ATIVO REAL",
-      "ticker":"TGAR11 ",
-      "codigos":[
-        "TGAR11"
-      ],
-      "nome-pregao":"FII TG ATIVO",
-      "cnpj":"25032881000153",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"FDO INV IMOB THE ONE",
-      "ticker":"ONEF11 ",
-      "codigos":[
-        "ONEF11"
-      ],
-      "nome-pregao":"FII THE ONE",
-      "cnpj":"12948291000123",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB TOURMALET I",
-      "ticker":"TORM13 ",
-      "codigos":[
-        "TORM13"
-      ],
-      "nome-pregao":"FII TOURMALE",
-      "cnpj":"26395660000102",
-      "site":""
-    },
-    {
-      "nome":"FDO INV IMOB TOURMALET II",
-      "ticker":"TOUR11 TOUR12 TOUR13 ",
-      "codigos":[
-        "TOUR11",
-        "TOUR12",
-        "TOUR13"
-      ],
-      "nome-pregao":"FII TOUR II",
-      "cnpj":"30578316000126",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB VBI FL 4440 - FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII VBI 4440",
-      "cnpj":"13022993000144",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"FDO INV IMOB VEREDA - FII",
-      "ticker":"VERE11 ",
-      "codigos":[
-        "VERE11"
-      ],
-      "nome-pregao":"FII VEREDA",
-      "cnpj":"08693497000182",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"FDO INV IMOB VIA PARQUE SHOPPING - FII",
-      "ticker":"FVPQ11 ",
-      "codigos":[
-        "FVPQ11"
-      ],
-      "nome-pregao":"FII V PARQUE",
-      "cnpj":"00332266000131",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB VIDA NOVA - FII",
-      "ticker":"FIVN11 ",
-      "codigos":[
-        "FIVN11"
-      ],
-      "nome-pregao":"FII VIDANOVA",
-      "cnpj":"17854016000164",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"FDO INV IMOB VOTORANTIM LOGISTICA",
-      "ticker":"VTLT11 ",
-      "codigos":[
-        "VTLT11"
-      ],
-      "nome-pregao":"FII VOT LOG",
-      "cnpj":"27368600000163",
-      "site":"https://www.vam.com.br/"
-    },
-    {
-      "nome":"FDO INV IMOB VOTORANTIM SECURITIES",
-      "ticker":"VSEC11 ",
-      "codigos":[
-        "VSEC11"
-      ],
-      "nome-pregao":"FII VOT SEC",
-      "cnpj":"10347505000180",
-      "site":"WWW.VAM.COM.BR"
-    },
-    {
-      "nome":"FDO INV IMOB VOTORANTIM SHOPPING",
-      "ticker":"VSHO11 ",
-      "codigos":[
-        "VSHO11"
-      ],
-      "nome-pregao":"FII VOT SHOP",
-      "cnpj":"23740595000117",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"FDO INV. IMOB. FOF INTEGRAL BREI",
-      "ticker":"IBFF11 ",
-      "codigos":[
-        "IBFF11"
-      ],
-      "nome-pregao":"FII FOF BREI",
-      "cnpj":"33721517000129",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV. IMOB. PLURAL RECEBIVEIS",
-      "ticker":"PLCR11 ",
-      "codigos":[
-        "PLCR11"
-      ],
-      "nome-pregao":"FII PLURAL R",
-      "cnpj":"32527683000126",
-      "site":"www.brasilplural.com"
-    },
-    {
-      "nome":"FDO INV. IMOB. PLUS",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII PLUS",
-      "cnpj":"15098422000119",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO INV. IMOB. REC LOGISTICA",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII REC LOG",
-      "cnpj":"37112770000136",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FDO INV. IMOB. VBI CRI",
-      "ticker":"CVBI11 ",
-      "codigos":[
-        "CVBI11"
-      ],
-      "nome-pregao":"FII VBI CRI",
-      "cnpj":"28729197000113",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FDO INV. MAUA CAPITAL RECEBIVEIS IMOB. - FII",
-      "ticker":"MCCI11 ",
-      "codigos":[
-        "MCCI11"
-      ],
-      "nome-pregao":"FII MAUA",
-      "cnpj":"23648935000184",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO. INV. IMOB. - EVEN HOTEL FASANO ITAIM",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII EV HOTEL",
-      "cnpj":"34736390000184",
-      "site":"www.brltrust.com.br/"
-    },
-    {
-      "nome":"FDO. INV. IMOB. ÁTRIO REIT RECEBÍVEIS IMOBILIÁRIOS",
-      "ticker":"ARRI11 ",
-      "codigos":[
-        "ARRI11"
-      ],
-      "nome-pregao":"FII ATRIO",
-      "cnpj":"32006821000121",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"FDO. INV. IMOB. HOUSI",
-      "ticker":"HOSI11 ",
-      "codigos":[
-        "HOSI11"
-      ],
-      "nome-pregao":"FII HOUSI",
-      "cnpj":"34081631000102",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"FDO. INV. IMOB. MOGNO HOTEIS",
-      "ticker":"MGHT11 ",
-      "codigos":[
-        "MGHT11"
-      ],
-      "nome-pregao":"FII MOGNO HT",
-      "cnpj":"34197776000165",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO. INV. IMOB. VBI PRIME PROPERTIES",
-      "ticker":"PVBI11 ",
-      "codigos":[
-        "PVBI11"
-      ],
-      "nome-pregao":"FII VBI PRI",
-      "cnpj":"35652102000176",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"FDO. INVEST. IMOB. MOGNO CRI HIGH GRADE",
-      "ticker":"MGCR11 ",
-      "codigos":[
-        "MGCR11"
-      ],
-      "nome-pregao":"FII MOGNO HG",
-      "cnpj":"35652204000191",
-      "site":"www.btgpactual.com/asset-management/fundos-btg-pactual"
-    },
-    {
-      "nome":"FDO. INVEST. IMOB. RB CAPITAL I FUNDO DE FUNDOS",
-      "ticker":"RFOF11 ",
-      "codigos":[
-        "RFOF11"
-      ],
-      "nome-pregao":"FII RB CFOF",
-      "cnpj":"34027774000128",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FDO. INVEST. IMOB. TOURMALET V - ED. CIDADE NOVA",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII TOUR V",
-      "cnpj":"34197700000130",
-      "site":"www.socopainvest.com.br"
-    },
-    {
-      "nome":"FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL V",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII VOTP V",
-      "cnpj":"21500481000174",
-      "site":"www.vam.com.br/web/site/pt/"
-    },
-    {
-      "nome":"FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL XII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII VOTP XII",
-      "cnpj":"23740552000131",
-      "site":"www.vam.com.br/web/site/pt/"
-    },
-    {
-      "nome":"FDO.INVEST. IMOB. MULTI RENDA URBANA",
-      "ticker":"HBRH11 ",
-      "codigos":[
-        "HBRH11"
-      ],
-      "nome-pregao":"FII MULT REN",
-      "cnpj":"30871698000181",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"FII IRIDIUM RECEBÍVEIS IMOBILIÁRIOS",
-      "ticker":"IRDM11 ",
-      "codigos":[
-        "IRDM11"
-      ],
-      "nome-pregao":"FII IRIDIUM",
-      "cnpj":"28830325000110",
-      "site":"www.btgpactual.com.br"
-    },
-    {
-      "nome":"FUND. INVEST. IMOB. SUCCESPAR VAREJO",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII S VAREJO",
-      "cnpj":"27538422000171",
-      "site":"vortx.com.br"
-    },
-    {
-      "nome":"FUNDO DE FDO INV IMOB KINEA FII",
-      "ticker":"KFOF11 ",
-      "codigos":[
-        "KFOF11"
-      ],
-      "nome-pregao":"FII KINEAFOF",
-      "cnpj":"30091444000140",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"FUNDO DE INVESTIMENTO IMOBILIÁRIO ATHENA I",
-      "ticker":"FATN11 ",
-      "codigos":[
-        "FATN11"
-      ],
-      "nome-pregao":"FII ATHENA I",
-      "cnpj":"30567216000102",
-      "site":"www.brcapitaldtvm.com.br"
-    },
-    {
-      "nome":"FUNDO DE INVESTIMENTO IMOBILIÁRIO BRL PROP II",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII BRLPROII",
-      "cnpj":"35652278000128",
-      "site":"www.btgpactual.com/asset-management/administracao-fiduciaria"
-    },
-    {
-      "nome":"FUNDO DE INVESTIMENTO IMOBILIÁRIO MINT EDUCACIONAL",
-      "ticker":"MINT11 ",
-      "codigos":[
-        "MINT11"
-      ],
-      "nome-pregao":"FII MINT EDU",
-      "cnpj":"19872887000136",
-      "site":"www.brasilplural.com.br/administradora"
-    },
-    {
-      "nome":"FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX",
-      "ticker":"RZTR11 ",
-      "codigos":[
-        "RZTR11"
-      ],
-      "nome-pregao":"FII RIZA TX",
-      "cnpj":"36501128000186",
-      "site":"www.bancoplural.com"
-    },
-    {
-      "nome":"FUNDO INV IMOB - OURINVEST CYRELA - FII",
-      "ticker":"OUCY11 ",
-      "codigos":[
-        "OUCY11"
-      ],
-      "nome-pregao":"FII OURICYRE",
-      "cnpj":"28516650000103",
-      "site":"www.ourinvest.com.br"
-    },
-    {
-      "nome":"GALAPAGOS FDO DE FDO - FII FDO INV. IMOB.",
-      "ticker":"GCFF11 GCFF12 ",
-      "codigos":[
-        "GCFF11",
-        "GCFF12"
-      ],
-      "nome-pregao":"FII GALAPAGO",
-      "cnpj":"35652154000142",
-      "site":"www.btgpactual.com.br"
-    },
-    {
-      "nome":"GENERAL SHOP E OUTLETS DO BRASIL FDO INV IMOB - FI",
-      "ticker":"GSFI11 ",
-      "codigos":[
-        "GSFI11"
-      ],
-      "nome-pregao":"FII GENERAL",
-      "cnpj":"11769604000113",
-      "site":""
-    },
-    {
-      "nome":"GGR COVEPI RENDA FDO INV IMOB",
-      "ticker":"GGRC11 ",
-      "codigos":[
-        "GGRC11"
-      ],
-      "nome-pregao":"FII GGRCOVEP",
-      "cnpj":"26614291000100",
-      "site":"http://www.cmcapitalmarkets.com.br"
-    },
-    {
-      "nome":"GR LOUVEIRA FDO DE INV IMOB - FII",
-      "ticker":"GRLV11 ",
-      "codigos":[
-        "GRLV11"
-      ],
-      "nome-pregao":"FII LOUVEIRA",
-      "cnpj":"17143998000186",
-      "site":""
-    },
-    {
-      "nome":"GRUPO RCFA FDO INV IMOB",
-      "ticker":"RCFA11 ",
-      "codigos":[
-        "RCFA11"
-      ],
-      "nome-pregao":"FII GP RCFA",
-      "cnpj":"27771586000144",
-      "site":""
-    },
-    {
-      "nome":"GUARDIAN LOGISTICA FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII GUARDIAN",
-      "cnpj":"37295919000160",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"HABITAT II - FDO INV IMOB",
-      "ticker":"HABT11 ",
-      "codigos":[
-        "HABT11"
-      ],
-      "nome-pregao":"FII HABIT II",
-      "cnpj":"30578417000105",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"HAZ FDO INV IMOB - FII",
-      "ticker":"ATCR11 ",
-      "codigos":[
-        "ATCR11"
-      ],
-      "nome-pregao":"FII HAZ",
-      "cnpj":"14631148000139",
-      "site":""
-    },
-    {
-      "nome":"HECTARE CE - FDO INV IMOB",
-      "ticker":"HCTR11 ",
-      "codigos":[
-        "HCTR11"
-      ],
-      "nome-pregao":"FII HECTARE",
-      "cnpj":"30248180000196",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"HECTARE DESENV. STUDENT HOUSING – FDO. INV. IMOB.",
-      "ticker":"HCST11 ",
-      "codigos":[
-        "HCST11"
-      ],
-      "nome-pregao":"FII HECT DES",
-      "cnpj":"31152015000107",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"HEDGE AAA FDO. INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII HEDGEAAA",
-      "cnpj":"27445482000140",
-      "site":"www.hedgeinvest.com.br/"
-    },
-    {
-      "nome":"HEDGE ATRIUM SHOPPING SANTO ANDRE FDO INV IMOB",
-      "ticker":"ATSA11 ",
-      "codigos":[
-        "ATSA11"
-      ],
-      "nome-pregao":"FII HATRIUM",
-      "cnpj":"12809972000100",
-      "site":""
-    },
-    {
-      "nome":"HEDGE BRASIL SHOPPING FDO INV IMOB",
-      "ticker":"HGBS11 ",
-      "codigos":[
-        "HGBS11"
-      ],
-      "nome-pregao":"FII HEDGEBS",
-      "cnpj":"08431747000106",
-      "site":""
-    },
-    {
-      "nome":"HEDGE LOGÍSTICA FDO. INV. IMOB.",
-      "ticker":"HLOG11 ",
-      "codigos":[
-        "HLOG11"
-      ],
-      "nome-pregao":"FII HEDGELOG",
-      "cnpj":"27486542000172",
-      "site":"www.hedgeinvest.com.br/"
-    },
-    {
-      "nome":"HEDGE REALTY DEVELOPMENT FDO INV IMOB",
-      "ticker":"HRDF11 ",
-      "codigos":[
-        "HRDF11"
-      ],
-      "nome-pregao":"FII HREALTY",
-      "cnpj":"16929519000199",
-      "site":"www.hedgeinvest.com.br"
-    },
-    {
-      "nome":"HEDGE RECEBÍVEIS FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII HEDGEREC",
-      "cnpj":"35507262000121",
-      "site":"www.hedgeinvest.com.br/"
-    },
-    {
-      "nome":"HEDGE SHOPPING PARQUE DOM PEDRO FDO. DE INV. IMOB.",
-      "ticker":"HPDP11 ",
-      "codigos":[
-        "HPDP11"
-      ],
-      "nome-pregao":"FII HEDGE RE",
-      "cnpj":"35586415000173",
-      "site":"www.hedgeinvest.com.br/"
-    },
-    {
-      "nome":"HEDGE SHOPPING PRAÇA DA MOÇA FDO INV IMOB",
-      "ticker":"HMOC11 ",
-      "codigos":[
-        "HMOC11"
-      ],
-      "nome-pregao":"FII HEDMOCA",
-      "cnpj":"14733211000148",
-      "site":""
-    },
-    {
-      "nome":"HEDGE TOP FOFII 3 FDO INV IMOB",
-      "ticker":"HFOF11 ",
-      "codigos":[
-        "HFOF11"
-      ],
-      "nome-pregao":"FII HTOPFOF3",
-      "cnpj":"18307582000119",
-      "site":""
-    },
-    {
-      "nome":"HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBI",
-      "ticker":"HSAF11 ",
-      "codigos":[
-        "HSAF11"
-      ],
-      "nome-pregao":"FII HSI CRI",
-      "cnpj":"35360687000150",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII HSI LOG",
-      "cnpj":"32903621000171",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"HSI MALL FDO INV IMOB",
-      "ticker":"HSML11 ",
-      "codigos":[
-        "HSML11"
-      ],
-      "nome-pregao":"FII HSI MALL",
-      "cnpj":"32892018000131",
-      "site":"www.s3dtvm.com.br"
-    },
-    {
-      "nome":"HSI RENDA IMOB FDO INV IMOB",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII HSIRENDA",
-      "cnpj":"08098114000128",
-      "site":""
-    },
-    {
-      "nome":"HUSI FDO INV. IMOB.",
-      "ticker":"HUSI11 ",
-      "codigos":[
-        "HUSI11"
-      ],
-      "nome-pregao":"FII HUSI",
-      "cnpj":"30017492000199",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"IFI-D FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII IFI-D",
-      "cnpj":"36312772000106",
-      "site":"www.bancointer.com.br/inter-dtvm/"
-    },
-    {
-      "nome":"IFI-E FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
-      "ticker":"IFIE11 ",
-      "codigos":[
-        "IFIE11"
-      ],
-      "nome-pregao":"FII IFI-E",
-      "cnpj":"36293425000183",
-      "site":"www.bancointer.com.br/inter-dtvm/"
-    },
-    {
-      "nome":"INTER TÍTULOS IMOB. FDO INV. IMOB.",
-      "ticker":"BICR11 ",
-      "codigos":[
-        "BICR11"
-      ],
-      "nome-pregao":"FII INTER",
-      "cnpj":"34007109000172",
-      "site":"https://www.bancointer.com.br/inter-dtvm/"
-    },
-    {
-      "nome":"JBFO FOF FDO INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII JBFO FOF",
-      "cnpj":"36615915000159",
-      "site":"www.bemdtvm.com.br"
-    },
-    {
-      "nome":"JFL LIVING FDO. INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII JFL LIV",
-      "cnpj":"36501181000187",
-      "site":"www.bancoplural.com"
-    },
-    {
-      "nome":"JHSF RIO BRAVO FAZENDA BOA VISTA CAP. PROT. - FII",
-      "ticker":"RBBV11 ",
-      "codigos":[
-        "RBBV11"
-      ],
-      "nome-pregao":"FII JHSF FBV",
-      "cnpj":"16915868000151",
-      "site":"www.caixa.gov.br"
-    },
-    {
-      "nome":"JPP ALLOCATION MOGNO - FDO INV IMOB",
-      "ticker":"JPPA11 ",
-      "codigos":[
-        "JPPA11"
-      ],
-      "nome-pregao":"FII JPPMOGNO",
-      "cnpj":"30982880000100",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"JPP CAPITAL FDO INV IMOB - FII",
-      "ticker":"JPPC11 ",
-      "codigos":[
-        "JPPC11"
-      ],
-      "nome-pregao":"FII JPP CAPI",
-      "cnpj":"17216625000198",
-      "site":"www.finaxis.com.br"
-    },
-    {
-      "nome":"JS REAL ESTATE MULTIGESTÃO - FII",
-      "ticker":"JSRE11 ",
-      "codigos":[
-        "JSRE11"
-      ],
-      "nome-pregao":"FII JS REAL",
-      "cnpj":"13371132000171",
-      "site":"www.safraasset.com.br"
-    },
-    {
-      "nome":"JT PREV FDO INV IMOB DESENVOLVIMENTO HABITACIONAL",
-      "ticker":"JTPR11 ",
-      "codigos":[
-        "JTPR11"
-      ],
-      "nome-pregao":"FII JT PREV",
-      "cnpj":"23876086000116",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"KILIMA FIC FDO. IMOB. SUNO 30",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII KILIMA",
-      "cnpj":"36669660000107",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"KINEA HIGH YIELD CRI FDO INV IMOB - FII",
-      "ticker":"KNHY11 ",
-      "codigos":[
-        "KNHY11"
-      ],
-      "nome-pregao":"FII KINEA HY",
-      "cnpj":"30130708000128",
-      "site":""
-    },
-    {
-      "nome":"KINEA II REAL ESTATE EQUITY FDO INV IMOB",
-      "ticker":"KNRE11 ",
-      "codigos":[
-        "KNRE11"
-      ],
-      "nome-pregao":"FII KII REAL",
-      "cnpj":"14423780000197",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"KINEA ÍNDICES DE PREÇOS FDO INV IMOB - FII",
-      "ticker":"KNIP11 ",
-      "codigos":[
-        "KNIP11"
-      ],
-      "nome-pregao":"FII KINEA IP",
-      "cnpj":"24960430000113",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"KINEA RENDA IMOBILIÁRIA FDO INV IMOB - FII",
-      "ticker":"KNRI11 ",
-      "codigos":[
-        "KNRI11"
-      ],
-      "nome-pregao":"FII KINEA",
-      "cnpj":"12005956000165",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"KINEA RENDIMENTOS IMOBILIÁRIOS FDO INV IMOB - FII",
-      "ticker":"KNCR11 ",
-      "codigos":[
-        "KNCR11"
-      ],
-      "nome-pregao":"FII KINEA RI",
-      "cnpj":"16706958000132",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"KINEA SECURITIES FDO. DE INV. IMOB. - FII",
-      "ticker":"KNSC11 ",
-      "codigos":[
-        "KNSC11"
-      ],
-      "nome-pregao":"FII KINEA SC",
-      "cnpj":"35864448000138",
-      "site":"www.intrag.com.br"
-    },
-    {
-      "nome":"LATERES FDO INV IMOB - FII",
-      "ticker":"LATR11B ",
-      "codigos":[
-        "LATR11B"
-      ],
-      "nome-pregao":"FII LATERES",
-      "cnpj":"17209378000100",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"LEGATUS SHOPPINGS FDO. INV. IMOB. - FII",
-      "ticker":"LASC11 ",
-      "codigos":[
-        "LASC11"
-      ],
-      "nome-pregao":"FII LEGATUS",
-      "cnpj":"30248158000146",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"LOFT I - FDO INV IMOB",
-      "ticker":"LOFT11B LOFT13B ",
-      "codigos":[
-        "LOFT11B",
-        "LOFT13B"
-      ],
-      "nome-pregao":"FII LOFT I",
-      "cnpj":"19722048000131",
-      "site":"www.modal.com.br"
-    },
-    {
-      "nome":"LOFT II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"LFTT11 ",
-      "codigos":[
-        "LFTT11"
-      ],
-      "nome-pregao":"FII LOFT II",
-      "cnpj":"24796967000190",
-      "site":"www.modaldtvm.com.br"
-    },
-    {
-      "nome":"LOGCP INTER FDO INV IMOB",
-      "ticker":"LGCP11 ",
-      "codigos":[
-        "LGCP11"
-      ],
-      "nome-pregao":"FII LGCP INT",
-      "cnpj":"34598181000111",
-      "site":"www.bancointer.com.br/inter-dtvm/"
-    },
-    {
-      "nome":"LUGGO FDO. INV. IMOB.",
-      "ticker":"LUGG11 ",
-      "codigos":[
-        "LUGG11"
-      ],
-      "nome-pregao":"FII LUGGO",
-      "cnpj":"34835191000123",
-      "site":"www.bancointer.com.br/inter-dtvm/"
-    },
-    {
-      "nome":"MAC FDO INV IMOB",
-      "ticker":"DMAC11 ",
-      "codigos":[
-        "DMAC11"
-      ],
-      "nome-pregao":"FII MAC",
-      "cnpj":"30579348000146",
-      "site":""
-    },
-    {
-      "nome":"MALLS BRASIL PLURAL FDO INV IMOB",
-      "ticker":"MALL11 ",
-      "codigos":[
-        "MALL11"
-      ],
-      "nome-pregao":"FII MALLS BP",
-      "cnpj":"26499833000132",
-      "site":""
-    },
-    {
-      "nome":"MAUÁ CAPITAL FOF – FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII MAUA FOF",
-      "cnpj":"36642139000186",
-      "site":"www.btgpactual.com/home/asset-management/fundos-btg-pactual"
-    },
-    {
-      "nome":"MAXI RENDA FDO INV IMOB - FII",
-      "ticker":"MXRF11 ",
-      "codigos":[
-        "MXRF11"
-      ],
-      "nome-pregao":"FII MAXI REN",
-      "cnpj":"97521225000125",
-      "site":""
-    },
-    {
-      "nome":"MÉRITO DESENVOLVIMENTO IMOBILIÁRIO I FII - FII",
-      "ticker":"MFII11 ",
-      "codigos":[
-        "MFII11"
-      ],
-      "nome-pregao":"FII MERITO I",
-      "cnpj":"16915968000188",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"MERITO FDO. AÇÕES IMOB. FII - FDO INV. IMOB.",
-      "ticker":"MFAI11 ",
-      "codigos":[
-        "MFAI11"
-      ],
-      "nome-pregao":"FII MERITOFA",
-      "cnpj":"32397369000176",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"MORE REAL ESTATE FOF FII FDO. INV. IMOB.",
-      "ticker":"MORE11 ",
-      "codigos":[
-        "MORE11"
-      ],
-      "nome-pregao":"FII MORE RE",
-      "cnpj":"34197727000122",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"MULTI PROPERTIES FDO INV IMOB - FII",
-      "ticker":"PRTS11 ",
-      "codigos":[
-        "PRTS11"
-      ],
-      "nome-pregao":"FII MULTPROP",
-      "cnpj":"22957521000174",
-      "site":"www.modal.com.br"
-    },
-    {
-      "nome":"MULTI SHOPPINGS FDO INV IMOB - FII",
-      "ticker":"SHOP11 ",
-      "codigos":[
-        "SHOP11"
-      ],
-      "nome-pregao":"FII MULTSHOP",
-      "cnpj":"22459737000100",
-      "site":""
-    },
-    {
-      "nome":"MULTIGESTÃO RENDA COMERCIAL FDO INV IMOB - FII",
-      "ticker":"DRIT11B ",
-      "codigos":[
-        "DRIT11B"
-      ],
-      "nome-pregao":"FII MTGESTAO",
-      "cnpj":"10456810000100",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"MULTIOFFICES 1 – FDO. INV. IMOB",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII MULT OF1",
-      "cnpj":"22862226000134",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"MULTIOFFICES 2 - FDO. INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII MULT OF2",
-      "cnpj":"31508219000120",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"NEWPORT LOGÍSTICA FDO INV. IMOB.",
-      "ticker":"NEWL11 ",
-      "codigos":[
-        "NEWL11"
-      ],
-      "nome-pregao":"FII NEWPORT",
-      "cnpj":"32527626000147",
-      "site":"www.brasilplural.com"
-    },
-    {
-      "nome":"NEWPORT RENDA URBANA FDO INV IMOB",
-      "ticker":"NEWU11 ",
-      "codigos":[
-        "NEWU11"
-      ],
-      "nome-pregao":"FII NEWRU",
-      "cnpj":"14793782000178",
-      "site":""
-    },
-    {
-      "nome":"NOVA I - FDO INV IMOB - FII",
-      "ticker":"NVIF11B ",
-      "codigos":[
-        "NVIF11B"
-      ],
-      "nome-pregao":"FII NOVA I",
-      "cnpj":"22003469000117",
-      "site":""
-    },
-    {
-      "nome":"OPPORTUNITY FDO INV IMOB",
-      "ticker":"FTCE11B ",
-      "codigos":[
-        "FTCE11B"
-      ],
-      "nome-pregao":"FII OPPORTUN",
-      "cnpj":"01235622000161",
-      "site":"www.bnymellon.com.br/sf"
-    },
-    {
-      "nome":"OURINVEST JPP FDO INV IMOB - FII",
-      "ticker":"OUJP11 ",
-      "codigos":[
-        "OUJP11"
-      ],
-      "nome-pregao":"FII OURI JPP",
-      "cnpj":"26091656000150",
-      "site":"www.finaxis.com.br"
-    },
-    {
-      "nome":"OURO VERDE DESENV IMOB I FDO INV IMOB - FII",
-      "ticker":"ORPD11 ",
-      "codigos":[
-        "ORPD11"
-      ],
-      "nome-pregao":"FII OURO PRT",
-      "cnpj":"19107604000160",
-      "site":"https://planner.com.br/"
-    },
-    {
-      "nome":"PANORAMA DESENVOLVIMENTO LOGÍSTICO FDO. INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII PANORAMA",
-      "cnpj":"37899400000190",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"PARKING PARTNERS FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII PARK PAR",
-      "cnpj":"21500514000186",
-      "site":"www.vam.com.br/web/site/pt/"
-    },
-    {
-      "nome":"PARQUE ANHANGUERA FDO. INVEST. IMOB.",
-      "ticker":"PQAG11 ",
-      "codigos":[
-        "PQAG11"
-      ],
-      "nome-pregao":"FII PARQ ANH",
-      "cnpj":"12978943000172",
-      "site":"www.hedgeinvest.com.br/"
-    },
-    {
-      "nome":"PÁTRIA EDIFÍCIOS CORPORATIVOS FDO INV IMOB - FII",
-      "ticker":"PATC11 ",
-      "codigos":[
-        "PATC11"
-      ],
-      "nome-pregao":"FII PATRIA",
-      "cnpj":"30048651000112",
-      "site":"www.modaldtvm.com.br"
-    },
-    {
-      "nome":"PÁTRIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"PATL11 ",
-      "codigos":[
-        "PATL11"
-      ],
-      "nome-pregao":"FII PATR LOG",
-      "cnpj":"35754164000199",
-      "site":"vortx.com.br"
-    },
-    {
-      "nome":"PERSONALE I FDO INV IMOB - FII",
-      "ticker":"PRSN11B ",
-      "codigos":[
-        "PRSN11B"
-      ],
-      "nome-pregao":"FII PERSONAL",
-      "cnpj":"14056001000162",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"PLURAL LOGÍSTICA FDO. INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII PLURAL L",
-      "cnpj":"36501198000134",
-      "site":"www.bancoplural.com"
-    },
-    {
-      "nome":"POLO FDO INV IMOB - FII RECEBÍVEIS IMOBILIÁRIOS I",
-      "ticker":"PLRI11 ",
-      "codigos":[
-        "PLRI11"
-      ],
-      "nome-pregao":"FII POLO I",
-      "cnpj":"14080689000116",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"POLO FDO INV IMOB - RECEBÍVEIS IMOB II - FII",
-      "ticker":"PORD11 ",
-      "codigos":[
-        "PORD11"
-      ],
-      "nome-pregao":"FII POLO CRI",
-      "cnpj":"17156502000109",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"PRESIDENTE VARGAS FDO INV IMOB",
-      "ticker":"PRSV11 ",
-      "codigos":[
-        "PRSV11"
-      ],
-      "nome-pregao":"FII P VARGAS",
-      "cnpj":"11281322000172",
-      "site":"http://www.hedgeinvest.com.br/"
-    },
-    {
-      "nome":"PROLOGIS BRAZIL LOGISTICS VENTURE FDO INV IMOB",
-      "ticker":"PBLV11 ",
-      "codigos":[
-        "PBLV11"
-      ],
-      "nome-pregao":"FII PROLOGIS",
-      "cnpj":"31962875000106",
-      "site":""
-    },
-    {
-      "nome":"QUASAR AGRO - FDO INV. IMOB.",
-      "ticker":"QAGR11 ",
-      "codigos":[
-        "QAGR11"
-      ],
-      "nome-pregao":"FII QUASAR A",
-      "cnpj":"32754734000152",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"QUATA MONETAI FUNDO DE FUNDOS - FDO. INV. IMOB.",
-      "ticker":"QMFF11 ",
-      "codigos":[
-        "QMFF11"
-      ],
-      "nome-pregao":"FII QUATA",
-      "cnpj":"34736432000187",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"RB CAPITAL DESENV RESID III FDO INV IMOB - FII",
-      "ticker":"RSPD11 ",
-      "codigos":[
-        "RSPD11"
-      ],
-      "nome-pregao":"FII RBRESID3",
-      "cnpj":"19249989000108",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"RB CAPITAL DESENV. RESID. II FDO INV IMOB - FII",
-      "ticker":"RBDS11 ",
-      "codigos":[
-        "RBDS11"
-      ],
-      "nome-pregao":"FII RBRESID2",
-      "cnpj":"11945604000127",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"RB CAPITAL DESENV. RESIDENCIAL IV FDO. INV. IMOB.",
-      "ticker":"RBIR11 ",
-      "codigos":[
-        "RBIR11"
-      ],
-      "nome-pregao":"FII RBRES IV",
-      "cnpj":"31161410000148",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"RB CAPITAL GENERAL SHOP SULACAP FDO INV IMOB - FII",
-      "ticker":"RBGS11 ",
-      "codigos":[
-        "RBGS11"
-      ],
-      "nome-pregao":"FII RB GSB I",
-      "cnpj":"13652006000195",
-      "site":"www.oliveiratrust.com.br/sites/fundos"
-    },
-    {
-      "nome":"RB CAPITAL LOGÍSTICO FDO. INV. IMOB.ye",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII RBCAP LG",
-      "cnpj":"35652227000104",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"RB CAPITAL OFFICE INCOME FDO INV. IMOB.",
-      "ticker":"RBCO11 ",
-      "codigos":[
-        "RBCO11"
-      ],
-      "nome-pregao":"FII R INCOME",
-      "cnpj":"31894369000119",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"RB CAPITAL RECEBÍVEIS IMOB. FDO. INVEST. IMOB FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII RBCAP RI",
-      "cnpj":"35689733000160",
-      "site":"www.brltrust.com.br/"
-    },
-    {
-      "nome":"RB CAPITAL RENDA I FDO INV IMOB - FII",
-      "ticker":"FIIP11B ",
-      "codigos":[
-        "FIIP11B"
-      ],
-      "nome-pregao":"FII RB CAP I",
-      "cnpj":"08696175000197",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"RB CAPITAL RENDA II FDO INV IMOB - FII",
-      "ticker":"RBRD11 ",
-      "codigos":[
-        "RBRD11"
-      ],
-      "nome-pregao":"FII RB II",
-      "cnpj":"09006914000134",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"RB CAPITAL RENDIMENTOS IMOB FDO INV IMOB - FII",
-      "ticker":"RCRI11B ",
-      "codigos":[
-        "RCRI11B"
-      ],
-      "nome-pregao":"FII RB CRI",
-      "cnpj":"26511274000139",
-      "site":"WWW.OLIVEIRATRUST.COM.BR"
-    },
-    {
-      "nome":"RB CAPITAL TFO SITUS FDO INV IMOB - FII",
-      "ticker":"RBTS11 ",
-      "codigos":[
-        "RBTS11"
-      ],
-      "nome-pregao":"FII RB TFO",
-      "cnpj":"29299737000139",
-      "site":"WWW.OLIVEIRATRUST.COM.BR"
-    },
-    {
-      "nome":"RBR ALPHA MULTIESTRATÉGIA REAL ESTATE FDO INV IMOB",
-      "ticker":"RBRF11 ",
-      "codigos":[
-        "RBRF11"
-      ],
-      "nome-pregao":"FII RBRALPHA",
-      "cnpj":"27529279000151",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"RBR DESENV COMERCIAL FEEDER FOF FDO INVEST IMOB",
-      "ticker":"RCFF11 ",
-      "codigos":[
-        "RCFF11"
-      ],
-      "nome-pregao":"FII RBR FEED",
-      "cnpj":"35689670000141",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"RBR LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"RBRL11 RBRL12 ",
-      "codigos":[
-        "RBRL11",
-        "RBRL12"
-      ],
-      "nome-pregao":"FII RBR LOG",
-      "cnpj":"35705463000133",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"REAG MULTI ATIVOS IMOBILIÁRIOS - FII",
-      "ticker":"RMAI11 ",
-      "codigos":[
-        "RMAI11"
-      ],
-      "nome-pregao":"FII REAGMULT",
-      "cnpj":"17374696000119",
-      "site":""
-    },
-    {
-      "nome":"RIO BRAVO CRÉDITO IMOB IV FDO INV IMOB - FII",
-      "ticker":"RBIV11 ",
-      "codigos":[
-        "RBIV11"
-      ],
-      "nome-pregao":"FII RBCRI IV",
-      "cnpj":"30647758000187",
-      "site":""
-    },
-    {
-      "nome":"RIO BRAVO CRÉDITO IMOBILIÁRIO II FDO INV IMOB -FII",
-      "ticker":"RBVO11 ",
-      "codigos":[
-        "RBVO11"
-      ],
-      "nome-pregao":"FII RIOBCRI2",
-      "cnpj":"15769670000144",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOB",
-      "ticker":"RBFF11 ",
-      "codigos":[
-        "RBFF11"
-      ],
-      "nome-pregao":"FII RIOB FF",
-      "cnpj":"17329029000114",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"RIO BRAVO RENDA RESIDENCIAL FDO. INVEST. IMOB.",
-      "ticker":"RBRS11 ",
-      "codigos":[
-        "RBRS11"
-      ],
-      "nome-pregao":"FII RIOB RR",
-      "cnpj":"36517660000191",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"RIZA AKIN FDO. INV. IMOB. FII",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII RIZA AKN",
-      "cnpj":"36642219000131",
-      "site":"www.btgpactual.com/asset-management/fundos-btg-pactual"
-    },
-    {
-      "nome":"RIZA ARCTIUM REAL ESTATE FDO INV IMOB",
-      "ticker":"ARCT11 ",
-      "codigos":[
-        "ARCT11"
-      ],
-      "nome-pregao":"FII ARCTIUM",
-      "cnpj":"28267696000136",
-      "site":""
-    },
-    {
-      "nome":"SANTANDER PAPEIS IMOB CDI FDO INV IMOB",
-      "ticker":"SADI11 ",
-      "codigos":[
-        "SADI11"
-      ],
-      "nome-pregao":"FII SANT PAP",
-      "cnpj":"32903521000145",
-      "site":"www.s3dtvm.com.br"
-    },
-    {
-      "nome":"SANTANDER RENDA DE ALUGUÉIS FDO. INVEST. IMOB.",
-      "ticker":"SARE11 ",
-      "codigos":[
-        "SARE11"
-      ],
-      "nome-pregao":"FII SANT REN",
-      "cnpj":"32903702000171",
-      "site":"www.santander.com.br"
-    },
-    {
-      "nome":"SAO DOMINGOS FDO INV IMOB - FII",
-      "ticker":"FISD11 ",
-      "codigos":[
-        "FISD11"
-      ],
-      "nome-pregao":"FII DOMINGOS",
-      "cnpj":"16543270000189",
-      "site":""
-    },
-    {
-      "nome":"SHOPPING WEST PLAZA FDO INV IMOB",
-      "ticker":"WPLZ11 ",
-      "codigos":[
-        "WPLZ11"
-      ],
-      "nome-pregao":"FII W PLAZA",
-      "cnpj":"09326861000139",
-      "site":""
-    },
-    {
-      "nome":"SJ AU LOGÍSTICA FDO. INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII SJ AU",
-      "cnpj":"27771547000147",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"SOCOPA FDO INV IMOB - FII",
-      "ticker":"REIT11 ",
-      "codigos":[
-        "REIT11"
-      ],
-      "nome-pregao":"FII REIT RIV",
-      "cnpj":"16841067000199",
-      "site":"www.socopa.com.br"
-    },
-    {
-      "nome":"SOLARIUM FII - FDO INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII SOLARIUM",
-      "cnpj":"22169671000113",
-      "site":"www.brltrust.com.br/"
-    },
-    {
-      "nome":"SP DOWNTOWN FDO INV IMOB - FII",
-      "ticker":"SPTW11 ",
-      "codigos":[
-        "SPTW11"
-      ],
-      "nome-pregao":"FII SP DOWNT",
-      "cnpj":"15538445000105",
-      "site":"www.gerafuturo.com.br"
-    },
-    {
-      "nome":"SPA FDO INV IMOB - FII",
-      "ticker":"SPAF11 ",
-      "codigos":[
-        "SPAF11"
-      ],
-      "nome-pregao":"FII SPA",
-      "cnpj":"18311024000127",
-      "site":"www.brasilplural.com"
-    },
-    {
-      "nome":"STARX FDO INV IMOB - FII",
-      "ticker":"STRX11 ",
-      "codigos":[
-        "STRX11"
-      ],
-      "nome-pregao":"FII STARX",
-      "cnpj":"11044355000107",
-      "site":"www.oliveiratrust.com.br"
-    },
-    {
-      "nome":"TELLUS DESENVOLVIMENTO LOGÍSTICO FDO. INVEST. IMOB",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII TELLUS",
-      "cnpj":"36200701000111",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"TELLUS PROPERTIES - FDO INV. IMOB",
-      "ticker":"TEPP11 ",
-      "codigos":[
-        "TEPP11"
-      ],
-      "nome-pregao":"FII TEL PROP",
-      "cnpj":"26681370000125",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"TORDESILHAS EI FDO. INV. IMOB.",
-      "ticker":"TORD11 ",
-      "codigos":[
-        "TORD11"
-      ],
-      "nome-pregao":"FII TORDE EI",
-      "cnpj":"30230870000118",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"TRANSINC FDO INV IMOB - FII",
-      "ticker":"TSNC11 ",
-      "codigos":[
-        "TSNC11"
-      ],
-      "nome-pregao":"FII TRANSINC",
-      "cnpj":"17007443000107",
-      "site":""
-    },
-    {
-      "nome":"TREECORP REAL ESTATE FDO INV IMOB - I",
-      "ticker":"TCPF11 ",
-      "codigos":[
-        "TCPF11"
-      ],
-      "nome-pregao":"FII TREECORP",
-      "cnpj":"26990011000150",
-      "site":""
-    },
-    {
-      "nome":"TRX EDIFÍCIOS CORPORATIVOS FDO INV IMOB - FII",
-      "ticker":"XTED11 ",
-      "codigos":[
-        "XTED11"
-      ],
-      "nome-pregao":"FII TRXE COR",
-      "cnpj":"15006267000163",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"TRX REAL ESTATE FDO. INV. IMOB. - FII",
-      "ticker":"TRXF11 ",
-      "codigos":[
-        "TRXF11"
-      ],
-      "nome-pregao":"FII TRX REAL",
-      "cnpj":"28548288000152",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"TRX REAL ESTATE II FDO. INVEST. IMOB.",
-      "ticker":"TRXB11 ",
-      "codigos":[
-        "TRXB11"
-      ],
-      "nome-pregao":"FII TRX R II",
-      "cnpj":"36368925000137",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-      "ticker":"URPR11 ",
-      "codigos":[
-        "URPR11"
-      ],
-      "nome-pregao":"FII URCA REN",
-      "cnpj":"34508872000187",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"VALORA CRI ÍNDICE DE PREÇO FDO INVEST. IMOB. FII",
-      "ticker":"VGIP11 ",
-      "codigos":[
-        "VGIP11"
-      ],
-      "nome-pregao":"FII VALORAIP",
-      "cnpj":"34197811000146",
-      "site":"www.btgpactual.com/asset-management/fundos-btg-pactual"
-    },
-    {
-      "nome":"VALORA RE III FDO INV IMOB - FII",
-      "ticker":"VGIR11 ",
-      "codigos":[
-        "VGIR11"
-      ],
-      "nome-pregao":"FII VALREIII",
-      "cnpj":"29852732000191",
-      "site":"www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
-    },
-    {
-      "nome":"VBI CONSUMO ESSEN FDO. INVEST. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII VBI CON",
-      "cnpj":"34691520000100",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"VBI REITS FOF - FDO. INV. IMOB",
-      "ticker":"RVBI11 ",
-      "codigos":[
-        "RVBI11"
-      ],
-      "nome-pregao":"FII VBI REIT",
-      "cnpj":"35507457000171",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"VECTIS JUROS REAL FDO INV. IMOB. - FII",
-      "ticker":"VCJR11 ",
-      "codigos":[
-        "VCJR11"
-      ],
-      "nome-pregao":"FII VECTIS",
-      "cnpj":"32400250000105",
-      "site":"www.itau.com.br"
-    },
-    {
-      "nome":"VECTOR QUELUZ ATIVOS IMOB FDO INV IMOB",
-      "ticker":"VLJS11 VLJS12 ",
-      "codigos":[
-        "VLJS11",
-        "VLJS12"
-      ],
-      "nome-pregao":"FII VQ LAJES",
-      "cnpj":"13842683000176",
-      "site":"www.planner.com.br"
-    },
-    {
-      "nome":"VIC DESENVOLVIMENTO VINTAGE 20/21 FUND INVEST IMOB",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII VIC DES",
-      "cnpj":"32527552000149",
-      "site":"www.brasilplural.com/site"
-    },
-    {
-      "nome":"VINCI INSTRUMENTOS FINANCEIROS FDO INV IMOB - FII",
-      "ticker":"VIFI11 ",
-      "codigos":[
-        "VIFI11"
-      ],
-      "nome-pregao":"FII VINCI IF",
-      "cnpj":"31547855000160",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"VINCI LOGÍSTICA FDO INV IMOB - FII",
-      "ticker":"VILG11 ",
-      "codigos":[
-        "VILG11"
-      ],
-      "nome-pregao":"FII VINCILOG",
-      "cnpj":"24853044000122",
-      "site":"www.brltrust.com.br"
-    },
-    {
-      "nome":"VINCI OFFICES FDO INV IMOB",
-      "ticker":"VINO11 ",
-      "codigos":[
-        "VINO11"
-      ],
-      "nome-pregao":"FII VINC COR",
-      "cnpj":"12516185000170",
-      "site":"www.brltrust.com.br/"
-    },
-    {
-      "nome":"VINCI SHOPPING CENTERS FDO INVEST IMOB - FII",
-      "ticker":"VISC11 ",
-      "codigos":[
-        "VISC11"
-      ],
-      "nome-pregao":"FII VINCI SC",
-      "cnpj":"17554274000125",
-      "site":"WWW.brltrust.com.br"
-    },
-    {
-      "nome":"VOTORANTIM SECURITIES MASTER FDO INV IMOB - FII",
-      "ticker":"VOTS11 ",
-      "codigos":[
-        "VOTS11"
-      ],
-      "nome-pregao":"FII V MASTER",
-      "cnpj":"17870926000130",
-      "site":"www.vam.com.br"
-    },
-    {
-      "nome":"VX XVI - FDO INV. IMOB.",
-      "ticker":"VXXV11 ",
-      "codigos":[
-        "VXXV11"
-      ],
-      "nome-pregao":"FII VX XVI",
-      "cnpj":"30982974000189",
-      "site":"vortx.com.br"
-    },
-    {
-      "nome":"XP CORPORATE MACAÉ FDO INV IMOB - FII",
-      "ticker":"XPCM11 ",
-      "codigos":[
-        "XPCM11"
-      ],
-      "nome-pregao":"FII XP MACAE",
-      "cnpj":"16802320000103",
-      "site":"www.riobravo.com.br"
-    },
-    {
-      "nome":"XP CREDITO IMOBILIÁRIO - FDO INV IMOB",
-      "ticker":"XPCI11 ",
-      "codigos":[
-        "XPCI11"
-      ],
-      "nome-pregao":"FII XP CRED",
-      "cnpj":"28516301000191",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"XP HOTÉIS - FDO INV IMOB - FII",
-      "ticker":"XPHT11 XPHT12 ",
-      "codigos":[
-        "XPHT11",
-        "XPHT12"
-      ],
-      "nome-pregao":"FII XP HOT",
-      "cnpj":"18308516000163",
-      "site":"www.gerafuturo.com.br"
-    },
-    {
-      "nome":"XP INDUSTRIAL FDO INV IMOB - FII",
-      "ticker":"XPIN11 ",
-      "codigos":[
-        "XPIN11"
-      ],
-      "nome-pregao":"FII XP INDL",
-      "cnpj":"28516325000140",
-      "site":"www.vortx.com.br"
-    },
-    {
-      "nome":"XP LOG FDO INV IMOB - FII",
-      "ticker":"XPLG11 ",
-      "codigos":[
-        "XPLG11"
-      ],
-      "nome-pregao":"FII XP LOG",
-      "cnpj":"26502794000185",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"XP MALLS FDO INV IMOB FII",
-      "ticker":"XPML11 ",
-      "codigos":[
-        "XPML11"
-      ],
-      "nome-pregao":"FII XP MALLS",
-      "cnpj":"28757546000100",
-      "site":"www.btgpactual.com"
-    },
-    {
-      "nome":"XP PROPERTIES FDO. INV. IMOB.",
-      "ticker":"XPPR11 ",
-      "codigos":[
-        "XPPR11"
-      ],
-      "nome-pregao":"FII XP PROP",
-      "cnpj":"30654849000140",
-      "site":"https://vortx.com.br/"
-    },
-    {
-      "nome":"XP SELECTION FDO DE FUNDOS INV IMOB - FII",
-      "ticker":"XPSF11 ",
-      "codigos":[
-        "XPSF11"
-      ],
-      "nome-pregao":"FII XP SELEC",
-      "cnpj":"30983020000190",
-      "site":""
-    },
-    {
-      "nome":"YUCA FDO INV. IMOB.",
-      "ticker":"",
-      "codigos":[
-        
-      ],
-      "nome-pregao":"FII YUCA",
-      "cnpj":"36445551000106",
-      "site":"www.brltrust.com.br/"
+  "fundos-imobiliarios": [
+    {
+      "nome": "ALIANZA FOF FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII ALIANZFF",
+      "cnpj": "34847063000108",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "BB FUNDO DE FUNDOS - FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII BB FOF",
+      "cnpj": "37180091000102",
+      "site": "www.bb.com.br/pbb/pagina-inicial/bb-dtvm"
+    },
+    {
+      "nome": "BLUEMACAW LOGÍSTICA FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII BLUE LOG",
+      "cnpj": "34081637000171",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "BLUEMACAW RENDA + FOF FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII BLUE FOF",
+      "cnpj": "36368869000130",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "BRIO REAL ESTATE III FDO DE INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII BRIO III",
+      "cnpj": "34895752000180",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "BTSP I FDO. INVEST. IMOB - FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII BTSP I",
+      "cnpj": "36098375000183",
+      "site": "www.bancointer.com.br/inter-dtvm/"
+    },
+    {
+      "nome": "DEL MONTE AJAX FDO INV IMOB - FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII DEL MONT",
+      "cnpj": "28108193000118",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "ENERGY RESORT FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII ENERGY",
+      "cnpj": "36768685000168",
+      "site": "monetar.com.br"
+    },
+    {
+      "nome": "ESTOQUE RESIDENCIAL E COMERCIAL RJ FDO INV IMOB",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII ESTOQ RJ",
+      "cnpj": "37266902000184",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FARIA LIMA CAPITAL RECEB. IMOB. I - FDO INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII FL RECEB",
+      "cnpj": "33884145000151",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - BTG PACTUAL METROPOLIS",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII MTRS",
+      "cnpj": "32740844000165",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB - FII PATEO BANDEIRANTES",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII PTO BAND",
+      "cnpj": "14788492000136",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB - REC HOTELARIA",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII REC HTL",
+      "cnpj": "35652306000107",
+      "site": "www.btgpactual.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB CJ - FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII CJ",
+      "cnpj": "23582914000103",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB HABITAT I",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII HABITAT",
+      "cnpj": "26846202000142",
+      "site": "https://vortx.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB MV9 - FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII MV9",
+      "cnpj": "23537203000117",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB POLO ESTOQUE II - FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII POLO II",
+      "cnpj": "18497672000110",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB VBI FL 4440 - FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII VBI 4440",
+      "cnpj": "13022993000144",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FDO INV. IMOB. PLUS",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII PLUS",
+      "cnpj": "15098422000119",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO. INV. IMOB. - EVEN HOTEL FASANO ITAIM",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII EV HOTEL",
+      "cnpj": "34736390000184",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "FDO. INVEST. IMOB. TOURMALET V - ED. CIDADE NOVA",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII TOUR V",
+      "cnpj": "34197700000130",
+      "site": "www.socopainvest.com.br"
+    },
+    {
+      "nome": "FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL V",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII VOTP V",
+      "cnpj": "21500481000174",
+      "site": "www.vam.com.br/web/site/pt/"
+    },
+    {
+      "nome": "FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL XII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII VOTP XII",
+      "cnpj": "23740552000131",
+      "site": "www.vam.com.br/web/site/pt/"
+    },
+    {
+      "nome": "FUND. INVEST. IMOB. SUCCESPAR VAREJO",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII S VAREJO",
+      "cnpj": "27538422000171",
+      "site": "vortx.com.br"
+    },
+    {
+      "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO BRL PROP II",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII BRLPROII",
+      "cnpj": "35652278000128",
+      "site": "www.btgpactual.com/asset-management/administracao-fiduciaria"
+    },
+    {
+      "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HBC RENDA URBANA",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII HBC REN",
+      "cnpj": "36501159000137",
+      "site": "www.bancoplural.com"
+    },
+    {
+      "nome": "GUARDIAN LOGISTICA FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII GUARDIAN",
+      "cnpj": "37295919000160",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "HEDGE AAA FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII HEDGEAAA",
+      "cnpj": "27445482000140",
+      "site": "www.hedgeinvest.com.br/"
+    },
+    {
+      "nome": "HEDGE RECEBÍVEIS FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII HEDGEREC",
+      "cnpj": "35507262000121",
+      "site": "www.hedgeinvest.com.br/"
+    },
+    {
+      "nome": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII HSI LOG",
+      "cnpj": "32903621000171",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "HSI RENDA IMOB FDO INV IMOB",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII HSIRENDA",
+      "cnpj": "08098114000128",
+      "site": ""
+    },
+    {
+      "nome": "IFI-D FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII IFI-D",
+      "cnpj": "36312772000106",
+      "site": "www.bancointer.com.br/inter-dtvm/"
+    },
+    {
+      "nome": "JBFO FOF FDO INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII JBFO FOF",
+      "cnpj": "36615915000159",
+      "site": "www.bemdtvm.com.br"
+    },
+    {
+      "nome": "JFL LIVING FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII JFL LIV",
+      "cnpj": "36501181000187",
+      "site": "www.bancoplural.com"
+    },
+    {
+      "nome": "KILIMA FIC FDO. IMOB. SUNO 30",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII KILIMA",
+      "cnpj": "36669660000107",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "MAUÁ CAPITAL DESENV I FDO INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII MAUA DES",
+      "cnpj": "35652035000190",
+      "site": "www.btgpactual.com.br"
+    },
+    {
+      "nome": "MAUÁ CAPITAL FOF – FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII MAUA FOF",
+      "cnpj": "36642139000186",
+      "site": "www.btgpactual.com/home/asset-management/fundos-btg-pactual"
+    },
+    {
+      "nome": "MULTIOFFICES 1 – FDO. INV. IMOB",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII MULT OF1",
+      "cnpj": "22862226000134",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "MULTIOFFICES 2 - FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII MULT OF2",
+      "cnpj": "31508219000120",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "PANORAMA DESENVOLVIMENTO LOGÍSTICO FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII PANORAMA",
+      "cnpj": "37899400000190",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "PARKING PARTNERS FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII PARK PAR",
+      "cnpj": "21500514000186",
+      "site": "www.vam.com.br/web/site/pt/"
+    },
+    {
+      "nome": "PLURAL LOGÍSTICA FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII PLURAL L",
+      "cnpj": "36501198000134",
+      "site": "www.bancoplural.com"
+    },
+    {
+      "nome": "RB CAPITAL LOGÍSTICO FDO. INV. IMOB.ye",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII RBCAP LG",
+      "cnpj": "35652227000104",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "RIO BRAVO CRÉDITO IMOB. HIGH YIELD FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII RB YIELD",
+      "cnpj": "37899479000150",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "RIZA AKIN FDO. INV. IMOB. FII",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII RIZA AKN",
+      "cnpj": "36642219000131",
+      "site": "www.btgpactual.com/asset-management/fundos-btg-pactual"
+    },
+    {
+      "nome": "SJ AU LOGÍSTICA FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII SJ AU",
+      "cnpj": "27771547000147",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "SOLARIUM FII - FDO INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII SOLARIUM",
+      "cnpj": "22169671000113",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "TELLUS DESENVOLVIMENTO LOGÍSTICO FDO. INVEST. IMOB",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII TELLUS",
+      "cnpj": "36200701000111",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "TISHMAN SPEYER RENDA CORPORATIVA FDO. INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII TISHMAN",
+      "cnpj": "34847042000184",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "VBI CONSUMO ESSEN FDO. INVEST. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII VBI CON",
+      "cnpj": "34691520000100",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "VIC DESENVOLVIMENTO VINTAGE 20/21 FUND INVEST IMOB",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII VIC DES",
+      "cnpj": "32527552000149",
+      "site": "www.brasilplural.com/site"
+    },
+    {
+      "nome": "YUCA FDO INV. IMOB.",
+      "ticker": "",
+      "codigos": [],
+      "nome-pregao": "FII YUCA",
+      "cnpj": "36445551000106",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "FDO INV IMOB GRAND PLAZA SHOPPING",
+      "ticker": "ABCP11 ",
+      "codigos": ["ABCP11"],
+      "nome-pregao": "FII ABC IMOB",
+      "cnpj": "01201140000190",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "AF INVEST FDO INV. IMOB. - RECEBÍVEIS IMOB.",
+      "ticker": "AFCR11 ",
+      "codigos": ["AFCR11"],
+      "nome-pregao": "FII AFINVCR",
+      "cnpj": "32065364000146",
+      "site": "www.cmcapital.com.br"
+    },
+    {
+      "nome": "AUTONOMY EDIFÍCIOS CORPORATIVOS FUND. INV. IMOB.",
+      "ticker": "AIEC11 ",
+      "codigos": ["AIEC11"],
+      "nome-pregao": "FII AUTONOMY",
+      "cnpj": "35765826000126",
+      "site": "www.modal.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII TORRE ALMIRANTE",
+      "ticker": "ALMI11 ",
+      "codigos": ["ALMI11"],
+      "nome-pregao": "FII TORRE AL",
+      "cnpj": "07122725000100",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "ALIANZA TRUST RENDA IMOBILIARIA FDO INV IMOB",
+      "ticker": "ALZR11 ",
+      "codigos": ["ALZR11"],
+      "nome-pregao": "FII ALIANZA",
+      "cnpj": "28737771000185",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB - FII ANCAR IC",
+      "ticker": "ANCR11B ",
+      "codigos": ["ANCR11B"],
+      "nome-pregao": "FII ANCAR IC",
+      "cnpj": "07789135000127",
+      "site": "www.gerafuturo.com.br"
+    },
+    {
+      "nome": "ÁQUILLA FDO INV IMOB - FII",
+      "ticker": "AQLL11 ",
+      "codigos": ["AQLL11"],
+      "nome-pregao": "FII AQUILLA",
+      "cnpj": "13555918000149",
+      "site": ""
+    },
+    {
+      "nome": "RIZA ARCTIUM REAL ESTATE FDO INV IMOB",
+      "ticker": "ARCT11 ",
+      "codigos": ["ARCT11"],
+      "nome-pregao": "FII ARCTIUM",
+      "cnpj": "28267696000136",
+      "site": ""
+    },
+    {
+      "nome": "AQ3 RENDA FDO INV IMOB - FII",
+      "ticker": "ARFI11B ",
+      "codigos": ["ARFI11B"],
+      "nome-pregao": "FII AQUIL RD",
+      "cnpj": "14069202000102",
+      "site": ""
+    },
+    {
+      "nome": "FDO. INV. IMOB. ÁTRIO REIT RECEBÍVEIS IMOBILIÁRIOS",
+      "ticker": "ARRI11 ",
+      "codigos": ["ARRI11"],
+      "nome-pregao": "FII ATRIO",
+      "cnpj": "32006821000121",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "HAZ FDO INV IMOB - FII",
+      "ticker": "ATCR11 ",
+      "codigos": ["ATCR11"],
+      "nome-pregao": "FII HAZ",
+      "cnpj": "14631148000139",
+      "site": ""
+    },
+    {
+      "nome": "HEDGE ATRIUM SHOPPING SANTO ANDRE FDO INV IMOB",
+      "ticker": "ATSA11 ",
+      "codigos": ["ATSA11"],
+      "nome-pregao": "FII HATRIUM",
+      "cnpj": "12809972000100",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB BARIGUI RENDIMENTOS IMOB I FII",
+      "ticker": "BARI11 ",
+      "codigos": ["BARI11"],
+      "nome-pregao": "FII BARIGUI",
+      "cnpj": "29267567000100",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "BB FDO INV IMOB PROGRESSIVO",
+      "ticker": "BBFI11B ",
+      "codigos": ["BBFI11B"],
+      "nome-pregao": "FII BB PROGR",
+      "cnpj": "07000400000146",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "BB RECEBIVEIS IMOBILIARIOS FDO INV IMOB - FII",
+      "ticker": "BBIM11 ",
+      "codigos": ["BBIM11"],
+      "nome-pregao": "FII BB RECIM",
+      "cnpj": "20716161000193",
+      "site": "www.bb.com.br/bbdtvm"
+    },
+    {
+      "nome": "BB PROGRESSIVO II FDO INV IMOB - FII",
+      "ticker": "BBPO11 ",
+      "codigos": ["BBPO11"],
+      "nome-pregao": "FII BB PRGII",
+      "cnpj": "14410722000129",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "BB RENDA CORPORATIVA FDO INV IMOB - FII",
+      "ticker": "BBRC11 ",
+      "codigos": ["BBRC11"],
+      "nome-pregao": "FII BB CORP",
+      "cnpj": "12681340000104",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII BTG PACTUAL FUNDO DE FUNDOS",
+      "ticker": "BCFF11 ",
+      "codigos": ["BCFF11"],
+      "nome-pregao": "FII BC FFII",
+      "cnpj": "11026627000138",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "BRADESCO CARTEIRA IMOBILIÁRIA ATIVA - FII",
+      "ticker": "BCIA11 ",
+      "codigos": ["BCIA11"],
+      "nome-pregao": "FII BCIA",
+      "cnpj": "20216935000117",
+      "site": "www.bradesco.com.br/html/classic/produtos-servicos/investimentos/fundosimobiliarios.shtm"
+    },
+    {
+      "nome": "BANESTES RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB  FII",
+      "ticker": "BCRI11 ",
+      "codigos": ["BCRI11"],
+      "nome-pregao": "FII BEES CRI",
+      "cnpj": "22219335000138",
+      "site": ""
+    },
+    {
+      "nome": "INTER TÍTULOS IMOB. FDO INV. IMOB.",
+      "ticker": "BICR11 ",
+      "codigos": ["BICR11"],
+      "nome-pregao": "FII INTER",
+      "cnpj": "34007109000172",
+      "site": "https://www.bancointer.com.br/inter-dtvm/"
+    },
+    {
+      "nome": "BLUECAP RENDA LOG. FDO INV. IMOB. - FII",
+      "ticker": "BLCP11 ",
+      "codigos": ["BLCP11"],
+      "nome-pregao": "FII BLUECAP",
+      "cnpj": "35652060000173",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "BLUEMACAW OFFICE FUND II - FDO. INVEST. IMOB.",
+      "ticker": "BLMO11 ",
+      "codigos": ["BLMO11"],
+      "nome-pregao": "FII BLUEMAC",
+      "cnpj": "34895894000147",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "FDO BRASÍLIO MACHADO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "BMII11 ",
+      "codigos": ["BMII11"],
+      "nome-pregao": "FII BRASILIO",
+      "cnpj": "02027437000144",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII BM BRASCAN LAJES CORPORATIVAS",
+      "ticker": "BMLC11 ",
+      "codigos": ["BMLC11"],
+      "nome-pregao": "FII BMBRC LC",
+      "cnpj": "14376247000111",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "BANRISUL NOVAS FRONTEIRAS FDO INV IMOB - FII",
+      "ticker": "BNFS11 ",
+      "codigos": ["BNFS11"],
+      "nome-pregao": "FII BANRISUL",
+      "cnpj": "15570431000160",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB BRASIL PLURAL ABSOLUTO FDO DE FUNDOS",
+      "ticker": "BPFF11 ",
+      "codigos": ["BPFF11"],
+      "nome-pregao": "FII ABSOLUTO",
+      "cnpj": "17324357000128",
+      "site": "www.gerafuturo.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB BTG PACTUAL SHOPPINGS",
+      "ticker": "BPML11 ",
+      "codigos": ["BPML11"],
+      "nome-pregao": "FII BTG SHOP",
+      "cnpj": "33046142000149",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB - FII BRLPROP",
+      "ticker": "BPRP11 ",
+      "codigos": ["BPRP11"],
+      "nome-pregao": "FII BRLPROP",
+      "cnpj": "29800650000101",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "BRESCO LOGÍSTICA - FDO INV IMOB",
+      "ticker": "BRCO11 ",
+      "codigos": ["BRCO11"],
+      "nome-pregao": "FII BRESCO",
+      "cnpj": "20748515000181",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII BTG PACTUAL CORP. OFFICE FUND",
+      "ticker": "BRCR11 ",
+      "codigos": ["BRCR11"],
+      "nome-pregao": "FII BC FUND",
+      "cnpj": "08924783000101",
+      "site": "www.bcfund.com.br"
+    },
+    {
+      "nome": "BRAZIL REAL ESTATE VICTORY FUND I - FDO. INV. IMOB",
+      "ticker": "BREV11 ",
+      "codigos": ["BREV11"],
+      "nome-pregao": "FII BRE VIC",
+      "cnpj": "26195121000120",
+      "site": "http://www.brcapitaldtvm.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB BR HOTEIS - FII",
+      "ticker": "BRHT11B ",
+      "codigos": ["BRHT11B"],
+      "nome-pregao": "FII BRHOTEIS",
+      "cnpj": "15461076000191",
+      "site": "www3.eliteccvm.com.br/novo/"
+    },
+    {
+      "nome": "BRIO REAL ESTATE II - FDO INV IMOB",
+      "ticker": "BRIM11 ",
+      "codigos": ["BRIM11"],
+      "nome-pregao": "FII BRIO II",
+      "cnpj": "23964843000103",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - BTG PACTUAL CREDITO IMOBILIARIO",
+      "ticker": "BTCR11 ",
+      "codigos": ["BTCR11"],
+      "nome-pregao": "FII BTG CRI",
+      "cnpj": "29787928000140",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "BTG PACTUAL LOGISTICA FDO INV IMOB - FII",
+      "ticker": "BTLG11 ",
+      "codigos": ["BTLG11"],
+      "nome-pregao": "FII BTLG",
+      "cnpj": "11839593000109",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB BRASIL VAREJO - FII",
+      "ticker": "BVAR11 ",
+      "codigos": ["BVAR11"],
+      "nome-pregao": "FII B VAREJO",
+      "cnpj": "21126204000143",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "BRAZIL REALTY FDO INV IMOB",
+      "ticker": "BZLI11 ",
+      "codigos": ["BZLI11"],
+      "nome-pregao": "FII BRREALTY",
+      "cnpj": "14074706000102",
+      "site": ""
+    },
+    {
+      "nome": "BRAZILIAN GRAVEYARD DEATH CARE FDO INV IMOB - FII",
+      "ticker": "CARE11 ",
+      "codigos": ["CARE11"],
+      "nome-pregao": "FII DEA CARE",
+      "cnpj": "13584584000131",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "CASTELLO BRANCO OFFICE PARK FDO INV IMOB - FII",
+      "ticker": "CBOP11 ",
+      "codigos": ["CBOP11"],
+      "nome-pregao": "FII C BRANCO",
+      "cnpj": "17144039000185",
+      "site": "www.cshg.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII CEO CYRELA COMMERC. PROPERTIES",
+      "ticker": "CEOC11 ",
+      "codigos": ["CEOC11"],
+      "nome-pregao": "FII CEO CCP",
+      "cnpj": "15799397000109",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "CF2 FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "CFHI11 ",
+      "codigos": ["CFHI11"],
+      "nome-pregao": "FII CF2",
+      "cnpj": "34508923000170",
+      "site": "vortx.com.br"
+    },
+    {
+      "nome": "CIDADE JARDIM CONTINENAL TOWER FDO INV IMOB",
+      "ticker": "CJCT11 ",
+      "codigos": ["CJCT11"],
+      "nome-pregao": "FII CJCTOWER",
+      "cnpj": "10347985000180",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB - FII CENESP",
+      "ticker": "CNES11 ",
+      "codigos": ["CNES11"],
+      "nome-pregao": "FII CENESP",
+      "cnpj": "13551286000145",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "CAPITÂNIA REIT FOF - FDO. INVEST. IMOB",
+      "ticker": "CPFF11 ",
+      "codigos": ["CPFF11"],
+      "nome-pregao": "FII CAP REIT",
+      "cnpj": "34081611000123",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "CAPITANIA SECURITIES II FDO INV IMOB - FII",
+      "ticker": "CPTS11 ",
+      "codigos": ["CPTS11"],
+      "nome-pregao": "FII CAPI SEC",
+      "cnpj": "18979895000113",
+      "site": ""
+    },
+    {
+      "nome": "CAIXA RIO BRAVO FDO DE FDOS INV IMOB II",
+      "ticker": "CRFF11 ",
+      "codigos": ["CRFF11"],
+      "nome-pregao": "FII CX RBRA2",
+      "cnpj": "31887401000139",
+      "site": "www.caixa.gov.br"
+    },
+    {
+      "nome": "FDO INV IMOB CENTRO TEXTIL INTERNACIONAL",
+      "ticker": "CTXT11 ",
+      "codigos": ["CTXT11"],
+      "nome-pregao": "FII C TEXTIL",
+      "cnpj": "00762723000128",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "FDO INV. IMOB. VBI CRI",
+      "ticker": "CVBI11 ",
+      "codigos": ["CVBI11"],
+      "nome-pregao": "FII VBI CRI",
+      "cnpj": "28729197000113",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB CAIXA CEDAE",
+      "ticker": "CXCE11B ",
+      "codigos": ["CXCE11B"],
+      "nome-pregao": "FII CX CEDAE",
+      "cnpj": "10991914000115",
+      "site": "www.caixa.gov.br"
+    },
+    {
+      "nome": "CAIXA RIO BRAVO FUNDO DE FDO INV IMOB - FII",
+      "ticker": "CXRI11 ",
+      "codigos": ["CXRI11"],
+      "nome-pregao": "FII CX RBRAV",
+      "cnpj": "17098794000170",
+      "site": "www.caixa.gov.br"
+    },
+    {
+      "nome": "FDO INV IMOB CAIXA TRX LOGÍSTICA RENDA",
+      "ticker": "CXTL11 ",
+      "codigos": ["CXTL11"],
+      "nome-pregao": "FII CX TRX",
+      "cnpj": "12887506000143",
+      "site": "www.caixa.gov.br"
+    },
+    {
+      "nome": "DIAMANTE FDO INV IMOB",
+      "ticker": "DAMT11B ",
+      "codigos": ["DAMT11B"],
+      "nome-pregao": "FII DIAMANTE",
+      "cnpj": "26642727000166",
+      "site": ""
+    },
+    {
+      "nome": "DEVANT RECEBÍVEIS IMOBILIÁRIOS FDO. INVEST. IMOB.",
+      "ticker": "DEVA11 ",
+      "codigos": ["DEVA11"],
+      "nome-pregao": "FII DEVANT",
+      "cnpj": "37087810000137",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "MAC FDO INV IMOB",
+      "ticker": "DMAC11 ",
+      "codigos": ["DMAC11"],
+      "nome-pregao": "FII MAC",
+      "cnpj": "30579348000146",
+      "site": ""
+    },
+    {
+      "nome": "DOVEL FDO INV IMOB",
+      "ticker": "DOVL11B ",
+      "codigos": ["DOVL11B"],
+      "nome-pregao": "FII DOVEL",
+      "cnpj": "10522648000181",
+      "site": "www.bnymellon.com.br"
+    },
+    {
+      "nome": "MULTIGESTÃO RENDA COMERCIAL FDO INV IMOB - FII",
+      "ticker": "DRIT11B ",
+      "codigos": ["DRIT11B"],
+      "nome-pregao": "FII MTGESTAO",
+      "cnpj": "10456810000100",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB EDIFÍCIO OURINVEST",
+      "ticker": "EDFO11B ",
+      "codigos": ["EDFO11B"],
+      "nome-pregao": "FII OURINVES",
+      "cnpj": "06175262000173",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII EDIFÍCIO GALERIA",
+      "ticker": "EDGA11 ",
+      "codigos": ["EDGA11"],
+      "nome-pregao": "FII GALERIA",
+      "cnpj": "15333306000137",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FDO INV IMOB - FII ELDORADO",
+      "ticker": "ELDO11B ",
+      "codigos": ["ELDO11B"],
+      "nome-pregao": "FII ELDORADO",
+      "cnpj": "13022994000199",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "EUROPA 105 - FDO INV IMOB",
+      "ticker": "ERPA11 ",
+      "codigos": ["ERPA11"],
+      "nome-pregao": "FII EUROPA",
+      "cnpj": "31469385000164",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB EUROPAR",
+      "ticker": "EURO11 ",
+      "codigos": ["EURO11"],
+      "nome-pregao": "FII EUROPAR",
+      "cnpj": "05437916000127",
+      "site": "www.coinvalores.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII ANHANGUERA EDUCACIONAL",
+      "ticker": "FAED11 ",
+      "codigos": ["FAED11"],
+      "nome-pregao": "FII ANH EDUC",
+      "cnpj": "11179118000145",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FDO INV IMOB - FII EDIFÍCIO ALMIRANTE BARROSO",
+      "ticker": "FAMB11B ",
+      "codigos": ["FAMB11B"],
+      "nome-pregao": "FII ALMIRANT",
+      "cnpj": "05562312000102",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO ATHENA I",
+      "ticker": "FATN11 ",
+      "codigos": ["FATN11"],
+      "nome-pregao": "FII ATHENA I",
+      "cnpj": "30567216000102",
+      "site": "www.brcapitaldtvm.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII CAMPUS FARIA LIMA",
+      "ticker": "FCFL11 ",
+      "codigos": ["FCFL11"],
+      "nome-pregao": "FII CAMPUSFL",
+      "cnpj": "11602654000101",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FDO INV IMOB - FII BTG PACTUAL FUNDO DE CRI",
+      "ticker": "FEXC11 ",
+      "codigos": ["FEXC11"],
+      "nome-pregao": "FII EXCELLEN",
+      "cnpj": "09552812000114",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB GENERAL SHOPPING ATIVO E RENDA - FII",
+      "ticker": "FIGS11 ",
+      "codigos": ["FIGS11"],
+      "nome-pregao": "FII GEN SHOP",
+      "cnpj": "17590518000125",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB INDUSTRIAL DO BRASIL",
+      "ticker": "FIIB11 ",
+      "codigos": ["FIIB11"],
+      "nome-pregao": "FII INDL BR",
+      "cnpj": "14217108000145",
+      "site": "www.coinvalores.com.br"
+    },
+    {
+      "nome": "RB CAPITAL RENDA I FDO INV IMOB - FII",
+      "ticker": "FIIP11B ",
+      "codigos": ["FIIP11B"],
+      "nome-pregao": "FII RB CAP I",
+      "cnpj": "08696175000197",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB INFRA REAL ESTATE - FII",
+      "ticker": "FINF11 ",
+      "codigos": ["FINF11"],
+      "nome-pregao": "FII INFRA RE",
+      "cnpj": "18369510000104",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB SC 401",
+      "ticker": "FISC11 ",
+      "codigos": ["FISC11"],
+      "nome-pregao": "FII SC 401",
+      "cnpj": "12804013000100",
+      "site": ""
+    },
+    {
+      "nome": "SAO DOMINGOS FDO INV IMOB - FII",
+      "ticker": "FISD11 ",
+      "codigos": ["FISD11"],
+      "nome-pregao": "FII DOMINGOS",
+      "cnpj": "16543270000189",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB VIDA NOVA - FII",
+      "ticker": "FIVN11 ",
+      "codigos": ["FIVN11"],
+      "nome-pregao": "FII VIDANOVA",
+      "cnpj": "17854016000164",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB CONTINENTAL SQUARE FARIA LIMA",
+      "ticker": "FLMA11 ",
+      "codigos": ["FLMA11"],
+      "nome-pregao": "FII S F LIMA",
+      "cnpj": "04141645000103",
+      "site": "http://unitas.com.br/site/"
+    },
+    {
+      "nome": "FDO INV IMOB - FII FLORIPA SHOPPING",
+      "ticker": "FLRP11 ",
+      "codigos": ["FLRP11"],
+      "nome-pregao": "FII FLORIPA",
+      "cnpj": "10375382000191",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FDO INV IMOB MEMORIAL OFFICE",
+      "ticker": "FMOF11 ",
+      "codigos": ["FMOF11"],
+      "nome-pregao": "FII MEMORIAL",
+      "cnpj": "01633741000172",
+      "site": "www.coinvalores.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB PROJETO ÁGUA BRANCA",
+      "ticker": "FPAB11 ",
+      "codigos": ["FPAB11"],
+      "nome-pregao": "FII A BRANCA",
+      "cnpj": "03251720000118",
+      "site": "www.coinvalores.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB PEDRA NEGRA RENDA IMOB",
+      "ticker": "FPNG11 ",
+      "codigos": ["FPNG11"],
+      "nome-pregao": "FII P NEGRA",
+      "cnpj": "17161979000182",
+      "site": "www.brcapitaldtvm.com.br"
+    },
+    {
+      "nome": "OPPORTUNITY FDO INV IMOB",
+      "ticker": "FTCE11B ",
+      "codigos": ["FTCE11B"],
+      "nome-pregao": "FII OPPORTUN",
+      "cnpj": "01235622000161",
+      "site": "www.bnymellon.com.br/sf"
+    },
+    {
+      "nome": "FDO INV IMOB VIA PARQUE SHOPPING - FII",
+      "ticker": "FVPQ11 ",
+      "codigos": ["FVPQ11"],
+      "nome-pregao": "FII V PARQUE",
+      "cnpj": "00332266000131",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "GALAPAGOS FDO DE FDO - FII FDO INV. IMOB.",
+      "ticker": "GCFF11 ",
+      "codigos": ["GCFF11"],
+      "nome-pregao": "FII GALAPAGO",
+      "cnpj": "35652154000142",
+      "site": "www.btgpactual.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB GENERAL SEVERIANO - FII",
+      "ticker": "GESE11B ",
+      "codigos": ["GESE11B"],
+      "nome-pregao": "FII GEN SEV",
+      "cnpj": "17007528000195",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "GGR COVEPI RENDA FDO INV IMOB",
+      "ticker": "GGRC11 ",
+      "codigos": ["GGRC11"],
+      "nome-pregao": "FII GGRCOVEP",
+      "cnpj": "26614291000100",
+      "site": "http://www.cmcapitalmarkets.com.br"
+    },
+    {
+      "nome": "GR LOUVEIRA FDO DE INV IMOB - FII",
+      "ticker": "GRLV11 ",
+      "codigos": ["GRLV11"],
+      "nome-pregao": "FII LOUVEIRA",
+      "cnpj": "17143998000186",
+      "site": ""
+    },
+    {
+      "nome": "GENERAL SHOP E OUTLETS DO BRASIL FDO INV IMOB - FI",
+      "ticker": "GSFI11 ",
+      "codigos": ["GSFI11"],
+      "nome-pregao": "FII GENERAL",
+      "cnpj": "11769604000113",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB GREEN TOWERS",
+      "ticker": "GTWR11 ",
+      "codigos": ["GTWR11"],
+      "nome-pregao": "FII G TOWERS",
+      "cnpj": "23740527000158",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "HABITAT II - FDO INV IMOB",
+      "ticker": "HABT11 ",
+      "codigos": ["HABT11"],
+      "nome-pregao": "FII HABIT II",
+      "cnpj": "30578417000105",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "FDO.INVEST. IMOB. MULTI RENDA URBANA",
+      "ticker": "HBRH11 ",
+      "codigos": ["HBRH11"],
+      "nome-pregao": "FII MULT REN",
+      "cnpj": "30871698000181",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII HOSPITAL DA CRIANÇA",
+      "ticker": "HCRI11 ",
+      "codigos": ["HCRI11"],
+      "nome-pregao": "FII CRIANCA",
+      "cnpj": "04066582000160",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "HECTARE DESENV. STUDENT HOUSING – FDO. INV. IMOB.",
+      "ticker": "HCST11 ",
+      "codigos": ["HCST11"],
+      "nome-pregao": "FII HECT DES",
+      "cnpj": "31152015000107",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "HECTARE CE - FDO INV IMOB",
+      "ticker": "HCTR11 ",
+      "codigos": ["HCTR11"],
+      "nome-pregao": "FII HECTARE",
+      "cnpj": "30248180000196",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "HEDGE TOP FOFII 3 FDO INV IMOB",
+      "ticker": "HFOF11 ",
+      "codigos": ["HFOF11"],
+      "nome-pregao": "FII HTOPFOF3",
+      "cnpj": "18307582000119",
+      "site": ""
+    },
+    {
+      "nome": "HEDGE BRASIL SHOPPING FDO INV IMOB",
+      "ticker": "HGBS11 ",
+      "codigos": ["HGBS11"],
+      "nome-pregao": "FII HEDGEBS",
+      "cnpj": "08431747000106",
+      "site": ""
+    },
+    {
+      "nome": "CSHG RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB - FII",
+      "ticker": "HGCR11 ",
+      "codigos": ["HGCR11"],
+      "nome-pregao": "FII CSHG CRI",
+      "cnpj": "11160521000122",
+      "site": "www.cshg.com.br"
+    },
+    {
+      "nome": "CSHG IMOB. FOF - FDO INV. IMOB. - FII",
+      "ticker": "HGFF11 ",
+      "codigos": ["HGFF11"],
+      "nome-pregao": "FII CSHG FOF",
+      "cnpj": "32784898000122",
+      "site": "www.cshg.com.br"
+    },
+    {
+      "nome": "CSHG LOGÍSTICA FDO INV IMOB - FII",
+      "ticker": "HGLG11 ",
+      "codigos": ["HGLG11"],
+      "nome-pregao": "FII CSHG LOG",
+      "cnpj": "11728688000147",
+      "site": "www.cshg.com.br"
+    },
+    {
+      "nome": "CSHG PRIME OFFICES FDO INV IMOB - FII",
+      "ticker": "HGPO11 ",
+      "codigos": ["HGPO11"],
+      "nome-pregao": "FII CSHGPRIM",
+      "cnpj": "11260134000168",
+      "site": "www.cshg.com.br"
+    },
+    {
+      "nome": "CSHG REAL ESTATE FDO INV IMOB - FII",
+      "ticker": "HGRE11 ",
+      "codigos": ["HGRE11"],
+      "nome-pregao": "FII HG REAL",
+      "cnpj": "09072017000129",
+      "site": "www.cshg.com.br"
+    },
+    {
+      "nome": "CSHG RENDA URBANA - FDO INV IMOB - FII",
+      "ticker": "HGRU11 ",
+      "codigos": ["HGRU11"],
+      "nome-pregao": "FII CSHG URB",
+      "cnpj": "29641226000153",
+      "site": "WWW.CSHG.COM.BR"
+    },
+    {
+      "nome": "HEDGE LOGÍSTICA FDO. INV. IMOB.",
+      "ticker": "HLOG11 ",
+      "codigos": ["HLOG11"],
+      "nome-pregao": "FII HEDGELOG",
+      "cnpj": "27486542000172",
+      "site": "www.hedgeinvest.com.br/"
+    },
+    {
+      "nome": "HEDGE SHOPPING PRAÇA DA MOÇA FDO INV IMOB",
+      "ticker": "HMOC11 ",
+      "codigos": ["HMOC11"],
+      "nome-pregao": "FII HEDMOCA",
+      "cnpj": "14733211000148",
+      "site": ""
+    },
+    {
+      "nome": "FDO. INV. IMOB. HOUSI",
+      "ticker": "HOSI11 ",
+      "codigos": ["HOSI11"],
+      "nome-pregao": "FII HOUSI",
+      "cnpj": "34081631000102",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "HEDGE SHOPPING PARQUE DOM PEDRO FDO. DE INV. IMOB.",
+      "ticker": "HPDP11 ",
+      "codigos": ["HPDP11"],
+      "nome-pregao": "FII HEDGE RE",
+      "cnpj": "35586415000173",
+      "site": "www.hedgeinvest.com.br/"
+    },
+    {
+      "nome": "HEDGE REALTY DEVELOPMENT FDO INV IMOB",
+      "ticker": "HRDF11 ",
+      "codigos": ["HRDF11"],
+      "nome-pregao": "FII HREALTY",
+      "cnpj": "16929519000199",
+      "site": "www.hedgeinvest.com.br"
+    },
+    {
+      "nome": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBI",
+      "ticker": "HSAF11 ",
+      "codigos": ["HSAF11"],
+      "nome-pregao": "FII HSI CRI",
+      "cnpj": "35360687000150",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "HSI MALL FDO INV IMOB",
+      "ticker": "HSML11 ",
+      "codigos": ["HSML11"],
+      "nome-pregao": "FII HSI MALL",
+      "cnpj": "32892018000131",
+      "site": "www.s3dtvm.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII HOTEL MAXINVEST",
+      "ticker": "HTMX11 ",
+      "codigos": ["HTMX11"],
+      "nome-pregao": "FII HOTEL MX",
+      "cnpj": "08706065000169",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FDO INV IMOB HOSPITAL UNIMED SUL CAPIXABA",
+      "ticker": "HUSC11 ",
+      "codigos": ["HUSC11"],
+      "nome-pregao": "FII H UNIMED",
+      "cnpj": "28851767000143",
+      "site": "WWW.RIOBRAVO.COM.BR"
+    },
+    {
+      "nome": "HUSI FDO INV. IMOB.",
+      "ticker": "HUSI11 ",
+      "codigos": ["HUSI11"],
+      "nome-pregao": "FII HUSI",
+      "cnpj": "30017492000199",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "FDO INV. IMOB. FOF INTEGRAL BREI",
+      "ticker": "IBFF11 ",
+      "codigos": ["IBFF11"],
+      "nome-pregao": "FII FOF BREI",
+      "cnpj": "33721517000129",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "IFI-E FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+      "ticker": "IFIE11 ",
+      "codigos": ["IFIE11"],
+      "nome-pregao": "FII IFI-E",
+      "cnpj": "36293425000183",
+      "site": "www.bancointer.com.br/inter-dtvm/"
+    },
+    {
+      "nome": "FII IRIDIUM RECEBÍVEIS IMOBILIÁRIOS",
+      "ticker": "IRDM11 ",
+      "codigos": ["IRDM11"],
+      "nome-pregao": "FII IRIDIUM",
+      "cnpj": "28830325000110",
+      "site": "www.btgpactual.com.br"
+    },
+    {
+      "nome": "JPP ALLOCATION MOGNO - FDO INV IMOB",
+      "ticker": "JPPA11 ",
+      "codigos": ["JPPA11"],
+      "nome-pregao": "FII JPPMOGNO",
+      "cnpj": "30982880000100",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "JPP CAPITAL FDO INV IMOB - FII",
+      "ticker": "JPPC11 ",
+      "codigos": ["JPPC11"],
+      "nome-pregao": "FII JPP CAPI",
+      "cnpj": "17216625000198",
+      "site": "www.finaxis.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII SHOPPING JARDIM SUL",
+      "ticker": "JRDM11 ",
+      "codigos": ["JRDM11"],
+      "nome-pregao": "FII SHOPJSUL",
+      "cnpj": "14879856000193",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "JS REAL ESTATE MULTIGESTÃO - FII",
+      "ticker": "JSRE11 ",
+      "codigos": ["JSRE11"],
+      "nome-pregao": "FII JS REAL",
+      "cnpj": "13371132000171",
+      "site": "www.safraasset.com.br"
+    },
+    {
+      "nome": "JT PREV FDO INV IMOB DESENVOLVIMENTO HABITACIONAL",
+      "ticker": "JTPR11 ",
+      "codigos": ["JTPR11"],
+      "nome-pregao": "FII JT PREV",
+      "cnpj": "23876086000116",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "EVEN II KINEA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "KEVE11 ",
+      "codigos": ["KEVE11"],
+      "nome-pregao": "FII EVEN II",
+      "cnpj": "32317313000164",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "FUNDO DE FDO INV IMOB KINEA FII",
+      "ticker": "KFOF11 ",
+      "codigos": ["KFOF11"],
+      "nome-pregao": "FII KINEAFOF",
+      "cnpj": "30091444000140",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "EVEN PERMUTA KINEA FII - FDO INV IMOB",
+      "ticker": "KINP11 ",
+      "codigos": ["KINP11"],
+      "nome-pregao": "FII EV KINEA",
+      "cnpj": "24070076000151",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "KINEA RENDIMENTOS IMOBILIÁRIOS FDO INV IMOB - FII",
+      "ticker": "KNCR11 ",
+      "codigos": ["KNCR11"],
+      "nome-pregao": "FII KINEA RI",
+      "cnpj": "16706958000132",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "KINEA HIGH YIELD CRI FDO INV IMOB - FII",
+      "ticker": "KNHY11 ",
+      "codigos": ["KNHY11"],
+      "nome-pregao": "FII KINEA HY",
+      "cnpj": "30130708000128",
+      "site": ""
+    },
+    {
+      "nome": "KINEA ÍNDICES DE PREÇOS FDO INV IMOB - FII",
+      "ticker": "KNIP11 ",
+      "codigos": ["KNIP11"],
+      "nome-pregao": "FII KINEA IP",
+      "cnpj": "24960430000113",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "KINEA II REAL ESTATE EQUITY FDO INV IMOB",
+      "ticker": "KNRE11 ",
+      "codigos": ["KNRE11"],
+      "nome-pregao": "FII KII REAL",
+      "cnpj": "14423780000197",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "KINEA RENDA IMOBILIÁRIA FDO INV IMOB - FII",
+      "ticker": "KNRI11 ",
+      "codigos": ["KNRI11"],
+      "nome-pregao": "FII KINEA",
+      "cnpj": "12005956000165",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "KINEA SECURITIES FDO. DE INV. IMOB. - FII",
+      "ticker": "KNSC11 ",
+      "codigos": ["KNSC11"],
+      "nome-pregao": "FII KINEA SC",
+      "cnpj": "35864448000138",
+      "site": "www.intrag.com.br"
+    },
+    {
+      "nome": "LEGATUS SHOPPINGS FDO. INV. IMOB. - FII",
+      "ticker": "LASC11 ",
+      "codigos": ["LASC11"],
+      "nome-pregao": "FII LEGATUS",
+      "cnpj": "30248158000146",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "LATERES FDO INV IMOB - FII",
+      "ticker": "LATR11B ",
+      "codigos": ["LATR11B"],
+      "nome-pregao": "FII LATERES",
+      "cnpj": "17209378000100",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "LOFT II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "LFTT11 ",
+      "codigos": ["LFTT11"],
+      "nome-pregao": "FII LOFT II",
+      "cnpj": "24796967000190",
+      "site": "www.modaldtvm.com.br"
+    },
+    {
+      "nome": "LOGCP INTER FDO INV IMOB",
+      "ticker": "LGCP11 ",
+      "codigos": ["LGCP11"],
+      "nome-pregao": "FII LGCP INT",
+      "cnpj": "34598181000111",
+      "site": "www.bancointer.com.br/inter-dtvm/"
+    },
+    {
+      "nome": "LOFT I - FDO INV IMOB",
+      "ticker": "LOFT11B LOFT13B ",
+      "codigos": ["LOFT11B", "LOFT13B"],
+      "nome-pregao": "FII LOFT I",
+      "cnpj": "19722048000131",
+      "site": "www.modal.com.br"
+    },
+    {
+      "nome": "LUGGO FDO. INV. IMOB.",
+      "ticker": "LUGG11 ",
+      "codigos": ["LUGG11"],
+      "nome-pregao": "FII LUGGO",
+      "cnpj": "34835191000123",
+      "site": "www.bancointer.com.br/inter-dtvm/"
+    },
+    {
+      "nome": "FDO INV IMOB - VBI LOGÍSTICO",
+      "ticker": "LVBI11 ",
+      "codigos": ["LVBI11"],
+      "nome-pregao": "FII VBI LOG",
+      "cnpj": "30629603000118",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "MALLS BRASIL PLURAL FDO INV IMOB",
+      "ticker": "MALL11 ",
+      "codigos": ["MALL11"],
+      "nome-pregao": "FII MALLS BP",
+      "cnpj": "26499833000132",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB - FII MAX RETAIL",
+      "ticker": "MAXR11 ",
+      "codigos": ["MAXR11"],
+      "nome-pregao": "FII MAX RET",
+      "cnpj": "11274415000170",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB MERCANTIL DO BRASIL - FII",
+      "ticker": "MBRF11 ",
+      "codigos": ["MBRF11"],
+      "nome-pregao": "FII MERC BR",
+      "cnpj": "13500306000159",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "FDO INV. MAUA CAPITAL RECEBIVEIS IMOB. - FII",
+      "ticker": "MCCI11 ",
+      "codigos": ["MCCI11"],
+      "nome-pregao": "FII MAUA",
+      "cnpj": "23648935000184",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "MERITO FDO. AÇÕES IMOB. FII - FDO INV. IMOB.",
+      "ticker": "MFAI11 ",
+      "codigos": ["MFAI11"],
+      "nome-pregao": "FII MERITOFA",
+      "cnpj": "32397369000176",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "MÉRITO DESENVOLVIMENTO IMOBILIÁRIO I FII - FII",
+      "ticker": "MFII11 ",
+      "codigos": ["MFII11"],
+      "nome-pregao": "FII MERITO I",
+      "cnpj": "16915968000188",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "FDO. INVEST. IMOB. MOGNO CRI HIGH GRADE",
+      "ticker": "MGCR11 ",
+      "codigos": ["MGCR11"],
+      "nome-pregao": "FII MOGNO HG",
+      "cnpj": "35652204000191",
+      "site": "www.btgpactual.com/asset-management/fundos-btg-pactual"
+    },
+    {
+      "nome": "FDO INV IMOB MOGNO FUNDO DE FUNDOS",
+      "ticker": "MGFF11 ",
+      "codigos": ["MGFF11"],
+      "nome-pregao": "FII MOGNO",
+      "cnpj": "29216463000177",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO. INV. IMOB. MOGNO HOTEIS",
+      "ticker": "MGHT11 ",
+      "codigos": ["MGHT11"],
+      "nome-pregao": "FII MOGNO HT",
+      "cnpj": "34197776000165",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MINT EDUCACIONAL",
+      "ticker": "MINT11 ",
+      "codigos": ["MINT11"],
+      "nome-pregao": "FII MINT EDU",
+      "cnpj": "19872887000136",
+      "site": "www.brasilplural.com.br/administradora"
+    },
+    {
+      "nome": "MORE REAL ESTATE FOF FII FDO. INV. IMOB.",
+      "ticker": "MORE11 ",
+      "codigos": ["MORE11"],
+      "nome-pregao": "FII MORE RE",
+      "cnpj": "34197727000122",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "MAXI RENDA FDO INV IMOB - FII",
+      "ticker": "MXRF11 ",
+      "codigos": ["MXRF11"],
+      "nome-pregao": "FII MAXI REN",
+      "cnpj": "97521225000125",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB - FII NCH BRASIL RECEBÍVEIS IMOB",
+      "ticker": "NCHB11 ",
+      "codigos": ["NCHB11"],
+      "nome-pregao": "FII NCH BRA",
+      "cnpj": "18085673000157",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "NEWPORT LOGÍSTICA FDO INV. IMOB.",
+      "ticker": "NEWL11 ",
+      "codigos": ["NEWL11"],
+      "nome-pregao": "FII NEWPORT",
+      "cnpj": "32527626000147",
+      "site": "www.brasilplural.com"
+    },
+    {
+      "nome": "NEWPORT RENDA URBANA FDO INV IMOB",
+      "ticker": "NEWU11 ",
+      "codigos": ["NEWU11"],
+      "nome-pregao": "FII NEWRU",
+      "cnpj": "14793782000178",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB NESTPAR - FII",
+      "ticker": "NPAR11 ",
+      "codigos": ["NPAR11"],
+      "nome-pregao": "FII NESTPAR",
+      "cnpj": "24814916000143",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII HOSPITAL NOSSA SRA DE LOURDES",
+      "ticker": "NSLU11 ",
+      "codigos": ["NSLU11"],
+      "nome-pregao": "FII LOURDES",
+      "cnpj": "08014513000163",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "FDO INV IMOB - FII NOVO HORIZONTE",
+      "ticker": "NVHO11 ",
+      "codigos": ["NVHO11"],
+      "nome-pregao": "FII NOVOHORI",
+      "cnpj": "17025970000144",
+      "site": "www.brasilplural.com.br"
+    },
+    {
+      "nome": "NOVA I - FDO INV IMOB - FII",
+      "ticker": "NVIF11B ",
+      "codigos": ["NVIF11B"],
+      "nome-pregao": "FII NOVA I",
+      "cnpj": "22003469000117",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB THE ONE",
+      "ticker": "ONEF11 ",
+      "codigos": ["ONEF11"],
+      "nome-pregao": "FII THE ONE",
+      "cnpj": "12948291000123",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "OURO VERDE DESENV IMOB I FDO INV IMOB - FII",
+      "ticker": "ORPD11 ",
+      "codigos": ["ORPD11"],
+      "nome-pregao": "FII OURO PRT",
+      "cnpj": "19107604000160",
+      "site": "https://planner.com.br/"
+    },
+    {
+      "nome": "FUNDO INV IMOB - OURINVEST CYRELA - FII",
+      "ticker": "OUCY11 ",
+      "codigos": ["OUCY11"],
+      "nome-pregao": "FII OURICYRE",
+      "cnpj": "28516650000103",
+      "site": "www.ourinvest.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - OURINVEST FUNDO DE FUNDOS",
+      "ticker": "OUFF11 ",
+      "codigos": ["OUFF11"],
+      "nome-pregao": "FII OURI FOF",
+      "cnpj": "30791386000168",
+      "site": "www.ourinvest.com.br"
+    },
+    {
+      "nome": "OURINVEST JPP FDO INV IMOB - FII",
+      "ticker": "OUJP11 ",
+      "codigos": ["OUJP11"],
+      "nome-pregao": "FII OURI JPP",
+      "cnpj": "26091656000150",
+      "site": "www.finaxis.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB OURINVEST LOGÍSTICA",
+      "ticker": "OULG11 ",
+      "codigos": ["OULG11"],
+      "nome-pregao": "FII OURILOG",
+      "cnpj": "13974819000100",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB PANAMBY",
+      "ticker": "PABY11 ",
+      "codigos": ["PABY11"],
+      "nome-pregao": "FII PANAMBY",
+      "cnpj": "00613094000174",
+      "site": "www.brkbdtvm.com.br"
+    },
+    {
+      "nome": "PÁTRIA EDIFÍCIOS CORPORATIVOS FDO INV IMOB - FII",
+      "ticker": "PATC11 ",
+      "codigos": ["PATC11"],
+      "nome-pregao": "FII PATRIA",
+      "cnpj": "30048651000112",
+      "site": "www.modaldtvm.com.br"
+    },
+    {
+      "nome": "PÁTRIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "PATL11 ",
+      "codigos": ["PATL11"],
+      "nome-pregao": "FII PATR LOG",
+      "cnpj": "35754164000199",
+      "site": "vortx.com.br"
+    },
+    {
+      "nome": "PROLOGIS BRAZIL LOGISTICS VENTURE FDO INV IMOB",
+      "ticker": "PBLV11 ",
+      "codigos": ["PBLV11"],
+      "nome-pregao": "FII PROLOGIS",
+      "cnpj": "31962875000106",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV. IMOB. PLURAL RECEBIVEIS",
+      "ticker": "PLCR11 ",
+      "codigos": ["PLCR11"],
+      "nome-pregao": "FII PLURAL R",
+      "cnpj": "32527683000126",
+      "site": "www.brasilplural.com"
+    },
+    {
+      "nome": "POLO FDO INV IMOB - FII RECEBÍVEIS IMOBILIÁRIOS I",
+      "ticker": "PLRI11 ",
+      "codigos": ["PLRI11"],
+      "nome-pregao": "FII POLO I",
+      "cnpj": "14080689000116",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "POLO FDO INV IMOB - RECEBÍVEIS IMOB II - FII",
+      "ticker": "PORD11 ",
+      "codigos": ["PORD11"],
+      "nome-pregao": "FII POLO CRI",
+      "cnpj": "17156502000109",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "PARQUE ANHANGUERA FDO. INVEST. IMOB.",
+      "ticker": "PQAG11 ",
+      "codigos": ["PQAG11"],
+      "nome-pregao": "FII PARQ ANH",
+      "cnpj": "12978943000172",
+      "site": "www.hedgeinvest.com.br/"
+    },
+    {
+      "nome": "FDO INV IMOB - FII PARQUE D. PEDRO SHOPPING CENTER",
+      "ticker": "PQDP11 ",
+      "codigos": ["PQDP11"],
+      "nome-pregao": "FII D PEDRO",
+      "cnpj": "10869155000112",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "PERSONALE I FDO INV IMOB - FII",
+      "ticker": "PRSN11B ",
+      "codigos": ["PRSN11B"],
+      "nome-pregao": "FII PERSONAL",
+      "cnpj": "14056001000162",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "PRESIDENTE VARGAS FDO INV IMOB",
+      "ticker": "PRSV11 ",
+      "codigos": ["PRSV11"],
+      "nome-pregao": "FII P VARGAS",
+      "cnpj": "11281322000172",
+      "site": "http://www.hedgeinvest.com.br/"
+    },
+    {
+      "nome": "MULTI PROPERTIES FDO INV IMOB - FII",
+      "ticker": "PRTS11 ",
+      "codigos": ["PRTS11"],
+      "nome-pregao": "FII MULTPROP",
+      "cnpj": "22957521000174",
+      "site": "www.modal.com.br"
+    },
+    {
+      "nome": "FDO. INV. IMOB. VBI PRIME PROPERTIES",
+      "ticker": "PVBI11 ",
+      "codigos": ["PVBI11"],
+      "nome-pregao": "FII VBI PRI",
+      "cnpj": "35652102000176",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "QUASAR AGRO - FDO INV. IMOB.",
+      "ticker": "QAGR11 ",
+      "codigos": ["QAGR11"],
+      "nome-pregao": "FII QUASAR A",
+      "cnpj": "32754734000152",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "QUATA MONETAI FUNDO DE FUNDOS - FDO. INV. IMOB.",
+      "ticker": "QMFF11 ",
+      "codigos": ["QMFF11"],
+      "nome-pregao": "FII QUATA",
+      "cnpj": "34736432000187",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "JHSF RIO BRAVO FAZENDA BOA VISTA CAP. PROT. - FII",
+      "ticker": "RBBV11 ",
+      "codigos": ["RBBV11"],
+      "nome-pregao": "FII JHSF FBV",
+      "cnpj": "16915868000151",
+      "site": "www.caixa.gov.br"
+    },
+    {
+      "nome": "RB CAPITAL OFFICE INCOME FDO INV. IMOB.",
+      "ticker": "RBCO11 ",
+      "codigos": ["RBCO11"],
+      "nome-pregao": "FII R INCOME",
+      "cnpj": "31894369000119",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "RB CAPITAL DESENV. RESID. II FDO INV IMOB - FII",
+      "ticker": "RBDS11 ",
+      "codigos": ["RBDS11"],
+      "nome-pregao": "FII RBRESID2",
+      "cnpj": "11945604000127",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB RIO BRAVO RENDA EDUCACIONAL - FII",
+      "ticker": "RBED11 ",
+      "codigos": ["RBED11"],
+      "nome-pregao": "FII RIOB ED",
+      "cnpj": "13873457000152",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOB",
+      "ticker": "RBFF11 ",
+      "codigos": ["RBFF11"],
+      "nome-pregao": "FII RIOB FF",
+      "cnpj": "17329029000114",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "RB CAPITAL GENERAL SHOP SULACAP FDO INV IMOB - FII",
+      "ticker": "RBGS11 ",
+      "codigos": ["RBGS11"],
+      "nome-pregao": "FII RB GSB I",
+      "cnpj": "13652006000195",
+      "site": "www.oliveiratrust.com.br/sites/fundos"
+    },
+    {
+      "nome": "RB CAPITAL DESENV. RESIDENCIAL IV FDO. INV. IMOB.",
+      "ticker": "RBIR11 ",
+      "codigos": ["RBIR11"],
+      "nome-pregao": "FII RBRES IV",
+      "cnpj": "31161410000148",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "RIO BRAVO CRÉDITO IMOB IV FDO INV IMOB - FII",
+      "ticker": "RBIV11 ",
+      "codigos": ["RBIV11"],
+      "nome-pregao": "FII RBCRI IV",
+      "cnpj": "30647758000187",
+      "site": ""
+    },
+    {
+      "nome": "RB CAPITAL RENDA II FDO INV IMOB - FII",
+      "ticker": "RBRD11 ",
+      "codigos": ["RBRD11"],
+      "nome-pregao": "FII RB II",
+      "cnpj": "09006914000134",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "RBR ALPHA MULTIESTRATÉGIA REAL ESTATE FDO INV IMOB",
+      "ticker": "RBRF11 ",
+      "codigos": ["RBRF11"],
+      "nome-pregao": "FII RBRALPHA",
+      "cnpj": "27529279000151",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "RBR LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "RBRL11 ",
+      "codigos": ["RBRL11"],
+      "nome-pregao": "FII RBR LOG",
+      "cnpj": "35705463000133",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII RBR DESENVOLVIMENTO",
+      "ticker": "RBRM11 ",
+      "codigos": ["RBRM11"],
+      "nome-pregao": "FII RBR DES",
+      "cnpj": "26314437000193",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "FDO INV IMOB RBR PROPERTIES - FII",
+      "ticker": "RBRP11 ",
+      "codigos": ["RBRP11"],
+      "nome-pregao": "FII RBR PROP",
+      "cnpj": "21408063000151",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII RBR RENDIMENTO HIGH GRADE",
+      "ticker": "RBRR11 ",
+      "codigos": ["RBRR11"],
+      "nome-pregao": "FII RBRHGRAD",
+      "cnpj": "29467977000103",
+      "site": "www.btgpactual.com.br"
+    },
+    {
+      "nome": "RIO BRAVO RENDA RESIDENCIAL FDO. INVEST. IMOB.",
+      "ticker": "RBRS11 ",
+      "codigos": ["RBRS11"],
+      "nome-pregao": "FII RIOB RR",
+      "cnpj": "36517660000191",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB RBR CRÉDITO IMOB HIGH YIELD",
+      "ticker": "RBRY11 ",
+      "codigos": ["RBRY11"],
+      "nome-pregao": "FII RBR PCRI",
+      "cnpj": "30166700000111",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "RB CAPITAL TFO SITUS FDO INV IMOB - FII",
+      "ticker": "RBTS11 ",
+      "codigos": ["RBTS11"],
+      "nome-pregao": "FII RB TFO",
+      "cnpj": "29299737000139",
+      "site": "WWW.OLIVEIRATRUST.COM.BR"
+    },
+    {
+      "nome": "FDO INV IMOB RIO BRAVO RENDA VAREJO - FII",
+      "ticker": "RBVA11 ",
+      "codigos": ["RBVA11"],
+      "nome-pregao": "FII RIOB VA",
+      "cnpj": "15576907000170",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "RIO BRAVO CRÉDITO IMOBILIÁRIO II FDO INV IMOB -FII",
+      "ticker": "RBVO11 ",
+      "codigos": ["RBVO11"],
+      "nome-pregao": "FII RIOBCRI2",
+      "cnpj": "15769670000144",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "GRUPO RCFA FDO INV IMOB",
+      "ticker": "RCFA11 ",
+      "codigos": ["RCFA11"],
+      "nome-pregao": "FII GP RCFA",
+      "cnpj": "27771586000144",
+      "site": ""
+    },
+    {
+      "nome": "RBR DESENV COMERCIAL FEEDER FOF FDO INVEST IMOB",
+      "ticker": "RCFF11 ",
+      "codigos": ["RCFF11"],
+      "nome-pregao": "FII RBR FEED",
+      "cnpj": "35689670000141",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB RIO BRAVO RENDA CORPORATIVA",
+      "ticker": "RCRB11 ",
+      "codigos": ["RCRB11"],
+      "nome-pregao": "FII RIOB RC",
+      "cnpj": "03683056000186",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "RB CAPITAL RENDIMENTOS IMOB FDO INV IMOB - FII",
+      "ticker": "RCRI11B ",
+      "codigos": ["RCRI11B"],
+      "nome-pregao": "FII RB CRI",
+      "cnpj": "26511274000139",
+      "site": "WWW.OLIVEIRATRUST.COM.BR"
+    },
+    {
+      "nome": "BB RENDA DE PAPEIS IMOB II FDO INV IMOB - FII",
+      "ticker": "RDPD11 ",
+      "codigos": ["RDPD11"],
+      "nome-pregao": "FII BB PAPII",
+      "cnpj": "23120027000113",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII REC RECEBIVEIS IMOBILIARIOS",
+      "ticker": "RECR11 ",
+      "codigos": ["RECR11"],
+      "nome-pregao": "FII REC RECE",
+      "cnpj": "28152272000126",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII REC RENDA IMOBILIARIA",
+      "ticker": "RECT11 ",
+      "codigos": ["RECT11"],
+      "nome-pregao": "FII REC REND",
+      "cnpj": "32274163000159",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "SOCOPA FDO INV IMOB - FII",
+      "ticker": "REIT11 ",
+      "codigos": ["REIT11"],
+      "nome-pregao": "FII REIT RIV",
+      "cnpj": "16841067000199",
+      "site": "www.socopa.com.br"
+    },
+    {
+      "nome": "FDO INV. IMOB. REC LOGISTICA",
+      "ticker": "RELG12 ",
+      "codigos": ["RELG12"],
+      "nome-pregao": "FII REC LOG",
+      "cnpj": "37112770000136",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO. INVEST. IMOB. RB CAPITAL I FUNDO DE FUNDOS",
+      "ticker": "RFOF11 ",
+      "codigos": ["RFOF11"],
+      "nome-pregao": "FII RB CFOF",
+      "cnpj": "34027774000128",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "REAG MULTI ATIVOS IMOBILIÁRIOS - FII",
+      "ticker": "RMAI11 ",
+      "codigos": ["RMAI11"],
+      "nome-pregao": "FII REAGMULT",
+      "cnpj": "17374696000119",
+      "site": ""
+    },
+    {
+      "nome": "BB RENDA DE PAPÉIS IMOBILIÁRIOS FDO INV IMOB - FII",
+      "ticker": "RNDP11 ",
+      "codigos": ["RNDP11"],
+      "nome-pregao": "FII BB R PAP",
+      "cnpj": "15394563000189",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB RIO NEGRO - FII",
+      "ticker": "RNGO11 ",
+      "codigos": ["RNGO11"],
+      "nome-pregao": "FII RIONEGRO",
+      "cnpj": "15006286000190",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "RB CAPITAL RECEBÍVEIS IMOB. FDO. INVEST. IMOB FII",
+      "ticker": "RRCI11 ",
+      "codigos": ["RRCI11"],
+      "nome-pregao": "FII RBCAP RI",
+      "cnpj": "35689733000160",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "RB CAPITAL DESENV RESID III FDO INV IMOB - FII",
+      "ticker": "RSPD11 ",
+      "codigos": ["RSPD11"],
+      "nome-pregao": "FII RBRESID3",
+      "cnpj": "19249989000108",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "VBI REITS FOF - FDO. INV. IMOB",
+      "ticker": "RVBI11 ",
+      "codigos": ["RVBI11"],
+      "nome-pregao": "FII VBI REIT",
+      "cnpj": "35507457000171",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX",
+      "ticker": "RZTR11 ",
+      "codigos": ["RZTR11"],
+      "nome-pregao": "FII RIZA TX",
+      "cnpj": "36501128000186",
+      "site": "www.bancoplural.com"
+    },
+    {
+      "nome": "SANTANDER PAPEIS IMOB CDI FDO INV IMOB",
+      "ticker": "SADI11 ",
+      "codigos": ["SADI11"],
+      "nome-pregao": "FII SANT PAP",
+      "cnpj": "32903521000145",
+      "site": "www.s3dtvm.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII SIA CORPORATE",
+      "ticker": "SAIC11B ",
+      "codigos": ["SAIC11B"],
+      "nome-pregao": "FII SIA CORP",
+      "cnpj": "17311079000174",
+      "site": "www.brb.com.br"
+    },
+    {
+      "nome": "SANTANDER RENDA DE ALUGUÉIS FDO. INVEST. IMOB.",
+      "ticker": "SARE11 ",
+      "codigos": ["SARE11"],
+      "nome-pregao": "FII SANT REN",
+      "cnpj": "32903702000171",
+      "site": "www.santander.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB SCP",
+      "ticker": "SCPF11 ",
+      "codigos": ["SCPF11"],
+      "nome-pregao": "FII SCP",
+      "cnpj": "01657856000105",
+      "site": "http://unitas.com.br/site/"
+    },
+    {
+      "nome": "FDO INV IMOB SDI RIO BRAVO RENDA LOGISTICA - FII",
+      "ticker": "SDIL11 ",
+      "codigos": ["SDIL11"],
+      "nome-pregao": "FII SDI LOG",
+      "cnpj": "16671412000193",
+      "site": "http://www.riobravo.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB SÃO FERNANDO",
+      "ticker": "SFND11 ",
+      "codigos": ["SFND11"],
+      "nome-pregao": "FII SAO FER",
+      "cnpj": "09350920000104",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII SHOPPING PARQUE D. PEDRO",
+      "ticker": "SHDP11B ",
+      "codigos": ["SHDP11B"],
+      "nome-pregao": "FII SHOP PDP",
+      "cnpj": "07224019000160",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "MULTI SHOPPINGS FDO INV IMOB - FII",
+      "ticker": "SHOP11 ",
+      "codigos": ["SHOP11"],
+      "nome-pregao": "FII MULTSHOP",
+      "cnpj": "22459737000100",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB SHOPPING PÁTIO HIGIENÓPOLIS",
+      "ticker": "SHPH11 ",
+      "codigos": ["SHPH11"],
+      "nome-pregao": "FII HIGIENOP",
+      "cnpj": "03507519000159",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "SPA FDO INV IMOB - FII",
+      "ticker": "SPAF11 ",
+      "codigos": ["SPAF11"],
+      "nome-pregao": "FII SPA",
+      "cnpj": "18311024000127",
+      "site": "www.brasilplural.com"
+    },
+    {
+      "nome": "SP DOWNTOWN FDO INV IMOB - FII",
+      "ticker": "SPTW11 ",
+      "codigos": ["SPTW11"],
+      "nome-pregao": "FII SP DOWNT",
+      "cnpj": "15538445000105",
+      "site": "www.gerafuturo.com.br"
+    },
+    {
+      "nome": "STARX FDO INV IMOB - FII",
+      "ticker": "STRX11 ",
+      "codigos": ["STRX11"],
+      "nome-pregao": "FII STARX",
+      "cnpj": "11044355000107",
+      "site": "www.oliveiratrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII TB OFFICE",
+      "ticker": "TBOF11 ",
+      "codigos": ["TBOF11"],
+      "nome-pregao": "FII TBOFFICE",
+      "cnpj": "17365105000147",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "TREECORP REAL ESTATE FDO INV IMOB - I",
+      "ticker": "TCPF11 ",
+      "codigos": ["TCPF11"],
+      "nome-pregao": "FII TREECORP",
+      "cnpj": "26990011000150",
+      "site": ""
+    },
+    {
+      "nome": "TELLUS PROPERTIES - FDO INV. IMOB",
+      "ticker": "TEPP11 ",
+      "codigos": ["TEPP11"],
+      "nome-pregao": "FII TEL PROP",
+      "cnpj": "26681370000125",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB TG ATIVO REAL",
+      "ticker": "TGAR11 ",
+      "codigos": ["TGAR11"],
+      "nome-pregao": "FII TG ATIVO",
+      "cnpj": "25032881000153",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "FDO INV IMOB - FII CYRELA THERA CORPORATE",
+      "ticker": "THRA11 ",
+      "codigos": ["THRA11"],
+      "nome-pregao": "FII BM THERA",
+      "cnpj": "13966653000171",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "TORDESILHAS EI FDO. INV. IMOB.",
+      "ticker": "TORD11 ",
+      "codigos": ["TORD11"],
+      "nome-pregao": "FII TORDE EI",
+      "cnpj": "30230870000118",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "FDO INV IMOB TOURMALET I",
+      "ticker": "TORM13 ",
+      "codigos": ["TORM13"],
+      "nome-pregao": "FII TOURMALE",
+      "cnpj": "26395660000102",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB TOURMALET II",
+      "ticker": "TOUR11 TOUR12 TOUR13 ",
+      "codigos": ["TOUR11", "TOUR12", "TOUR13"],
+      "nome-pregao": "FII TOUR II",
+      "cnpj": "30578316000126",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII TORRE NORTE",
+      "ticker": "TRNT11 ",
+      "codigos": ["TRNT11"],
+      "nome-pregao": "FII TORRE NO",
+      "cnpj": "04722883000102",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "TRX REAL ESTATE II FDO. INVEST. IMOB.",
+      "ticker": "TRXB11 ",
+      "codigos": ["TRXB11"],
+      "nome-pregao": "FII TRX R II",
+      "cnpj": "36368925000137",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "TRX REAL ESTATE FDO. INV. IMOB. - FII",
+      "ticker": "TRXF11 ",
+      "codigos": ["TRXF11"],
+      "nome-pregao": "FII TRX REAL",
+      "cnpj": "28548288000152",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "TRANSINC FDO INV IMOB - FII",
+      "ticker": "TSNC11 ",
+      "codigos": ["TSNC11"],
+      "nome-pregao": "FII TRANSINC",
+      "cnpj": "17007443000107",
+      "site": ""
+    },
+    {
+      "nome": "URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "ticker": "URPR11 ",
+      "codigos": ["URPR11"],
+      "nome-pregao": "FII URCA REN",
+      "cnpj": "34508872000187",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "VECTIS JUROS REAL FDO INV. IMOB. - FII",
+      "ticker": "VCJR11 ",
+      "codigos": ["VCJR11"],
+      "nome-pregao": "FII VECTIS",
+      "cnpj": "32400250000105",
+      "site": "www.itau.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB VEREDA - FII",
+      "ticker": "VERE11 ",
+      "codigos": ["VERE11"],
+      "nome-pregao": "FII VEREDA",
+      "cnpj": "08693497000182",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "VALORA CRI ÍNDICE DE PREÇO FDO INVEST. IMOB. FII",
+      "ticker": "VGIP11 ",
+      "codigos": ["VGIP11"],
+      "nome-pregao": "FII VALORAIP",
+      "cnpj": "34197811000146",
+      "site": "www.btgpactual.com/asset-management/fundos-btg-pactual"
+    },
+    {
+      "nome": "VALORA RE III FDO INV IMOB - FII",
+      "ticker": "VGIR11 ",
+      "codigos": ["VGIR11"],
+      "nome-pregao": "FII VALREIII",
+      "cnpj": "29852732000191",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
+    },
+    {
+      "nome": "VINCI INSTRUMENTOS FINANCEIROS FDO INV IMOB - FII",
+      "ticker": "VIFI11 ",
+      "codigos": ["VIFI11"],
+      "nome-pregao": "FII VINCI IF",
+      "cnpj": "31547855000160",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "VINCI LOGÍSTICA FDO INV IMOB - FII",
+      "ticker": "VILG11 ",
+      "codigos": ["VILG11"],
+      "nome-pregao": "FII VINCILOG",
+      "cnpj": "24853044000122",
+      "site": "www.brltrust.com.br"
+    },
+    {
+      "nome": "VINCI OFFICES FDO INV IMOB",
+      "ticker": "VINO11 ",
+      "codigos": ["VINO11"],
+      "nome-pregao": "FII VINC COR",
+      "cnpj": "12516185000170",
+      "site": "www.brltrust.com.br/"
+    },
+    {
+      "nome": "VINCI SHOPPING CENTERS FDO INVEST IMOB - FII",
+      "ticker": "VISC11 ",
+      "codigos": ["VISC11"],
+      "nome-pregao": "FII VINCI SC",
+      "cnpj": "17554274000125",
+      "site": "WWW.brltrust.com.br"
+    },
+    {
+      "nome": "VECTOR QUELUZ ATIVOS IMOB FDO INV IMOB",
+      "ticker": "VLJS11 VLJS12 ",
+      "codigos": ["VLJS11", "VLJS12"],
+      "nome-pregao": "FII VQ LAJES",
+      "cnpj": "13842683000176",
+      "site": "www.planner.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB - FII VILA OLÍMPIA CORPORATE",
+      "ticker": "VLOL11 ",
+      "codigos": ["VLOL11"],
+      "nome-pregao": "FII OLIMPIA",
+      "cnpj": "15296696000112",
+      "site": "http://www.oliveiratrust.com.br/sites/fundos/"
+    },
+    {
+      "nome": "VOTORANTIM SECURITIES MASTER FDO INV IMOB - FII",
+      "ticker": "VOTS11 ",
+      "codigos": ["VOTS11"],
+      "nome-pregao": "FII V MASTER",
+      "cnpj": "17870926000130",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB POLO SHOPPING INDAIATUBA",
+      "ticker": "VPSI11 ",
+      "codigos": ["VPSI11"],
+      "nome-pregao": "FII POLO SHO",
+      "cnpj": "14721889000100",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "FATOR VERITA FDO INV IMOB - FII",
+      "ticker": "VRTA11 ",
+      "codigos": ["VRTA11"],
+      "nome-pregao": "FII FATOR VE",
+      "cnpj": "11664201000100",
+      "site": "www.bancofator.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB VOTORANTIM SECURITIES",
+      "ticker": "VSEC11 ",
+      "codigos": ["VSEC11"],
+      "nome-pregao": "FII VOT SEC",
+      "cnpj": "10347505000180",
+      "site": "WWW.VAM.COM.BR"
+    },
+    {
+      "nome": "FDO INV IMOB VOTORANTIM SHOPPING",
+      "ticker": "VSHO11 ",
+      "codigos": ["VSHO11"],
+      "nome-pregao": "FII VOT SHOP",
+      "cnpj": "23740595000117",
+      "site": "www.vam.com.br"
+    },
+    {
+      "nome": "FDO INV IMOB VOTORANTIM LOGISTICA",
+      "ticker": "VTLT11 ",
+      "codigos": ["VTLT11"],
+      "nome-pregao": "FII VOT LOG",
+      "cnpj": "27368600000163",
+      "site": "https://www.vam.com.br/"
+    },
+    {
+      "nome": "FDO INV IMOB - V2 PROPERTIES",
+      "ticker": "VVPR11 ",
+      "codigos": ["VVPR11"],
+      "nome-pregao": "FII V2 PROP",
+      "cnpj": "33045581000137",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "VX XVI - FDO INV. IMOB.",
+      "ticker": "VXXV11 ",
+      "codigos": ["VXXV11"],
+      "nome-pregao": "FII VX XVI",
+      "cnpj": "30982974000189",
+      "site": "vortx.com.br"
+    },
+    {
+      "nome": "SHOPPING WEST PLAZA FDO INV IMOB",
+      "ticker": "WPLZ11 ",
+      "codigos": ["WPLZ11"],
+      "nome-pregao": "FII W PLAZA",
+      "cnpj": "09326861000139",
+      "site": ""
+    },
+    {
+      "nome": "FDO INV IMOB - OURINVEST RE I",
+      "ticker": "WTSP11B ",
+      "codigos": ["WTSP11B"],
+      "nome-pregao": "FII WTC SP",
+      "cnpj": "28693595000127",
+      "site": ""
+    },
+    {
+      "nome": "XP CREDITO IMOBILIÁRIO - FDO INV IMOB",
+      "ticker": "XPCI11 ",
+      "codigos": ["XPCI11"],
+      "nome-pregao": "FII XP CRED",
+      "cnpj": "28516301000191",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "XP CORPORATE MACAÉ FDO INV IMOB - FII",
+      "ticker": "XPCM11 ",
+      "codigos": ["XPCM11"],
+      "nome-pregao": "FII XP MACAE",
+      "cnpj": "16802320000103",
+      "site": "www.riobravo.com.br"
+    },
+    {
+      "nome": "XP HOTÉIS - FDO INV IMOB - FII",
+      "ticker": "XPHT11 XPHT12 ",
+      "codigos": ["XPHT11", "XPHT12"],
+      "nome-pregao": "FII XP HOT",
+      "cnpj": "18308516000163",
+      "site": "www.gerafuturo.com.br"
+    },
+    {
+      "nome": "XP INDUSTRIAL FDO INV IMOB - FII",
+      "ticker": "XPIN11 ",
+      "codigos": ["XPIN11"],
+      "nome-pregao": "FII XP INDL",
+      "cnpj": "28516325000140",
+      "site": "www.vortx.com.br"
+    },
+    {
+      "nome": "XP LOG FDO INV IMOB - FII",
+      "ticker": "XPLG11 ",
+      "codigos": ["XPLG11"],
+      "nome-pregao": "FII XP LOG",
+      "cnpj": "26502794000185",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "XP MALLS FDO INV IMOB FII",
+      "ticker": "XPML11 ",
+      "codigos": ["XPML11"],
+      "nome-pregao": "FII XP MALLS",
+      "cnpj": "28757546000100",
+      "site": "www.btgpactual.com"
+    },
+    {
+      "nome": "XP PROPERTIES FDO. INV. IMOB.",
+      "ticker": "XPPR11 ",
+      "codigos": ["XPPR11"],
+      "nome-pregao": "FII XP PROP",
+      "cnpj": "30654849000140",
+      "site": "https://vortx.com.br/"
+    },
+    {
+      "nome": "XP SELECTION FDO DE FUNDOS INV IMOB - FII",
+      "ticker": "XPSF11 ",
+      "codigos": ["XPSF11"],
+      "nome-pregao": "FII XP SELEC",
+      "cnpj": "30983020000190",
+      "site": ""
+    },
+    {
+      "nome": "TRX EDIFÍCIOS CORPORATIVOS FDO INV IMOB - FII",
+      "ticker": "XTED11 ",
+      "codigos": ["XTED11"],
+      "nome-pregao": "FII TRXE COR",
+      "cnpj": "15006267000163",
+      "site": "www.btgpactual.com/home/assetmanagement.aspx/FundosInvestimentoImobiliario"
     }
   ]
 }
